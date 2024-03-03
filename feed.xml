@@ -3,14 +3,38 @@
     <title>Dungeon&#39;s and Dragons</title>
     <link href="https://dnd.tawtaw.site/feed.xml" rel="self" >
     <link href="https://dnd.tawtaw.site" >
-    <updated>2024-03-03T23:44:58Z</updated>
+    <updated>2024-03-03T23:45:40Z</updated>
     <id>https://dnd.tawtaw.site</id>
+        <entry>
+            <title>
+                _session
+                
+            </title>
+            <updated>2024-03-03T23:45:31Z</updated>
+            <id>https://dnd.tawtaw.site/templates/session/</id>
+            <content type="html">
+                
+            </content>
+            <link href="https://dnd.tawtaw.site/templates/session/" >
+        </entry>
+        <entry>
+            <title>
+                _beast
+                
+            </title>
+            <updated>2024-03-03T23:45:31Z</updated>
+            <id>https://dnd.tawtaw.site/templates/beast/</id>
+            <content type="html">
+                
+            </content>
+            <link href="https://dnd.tawtaw.site/templates/beast/" >
+        </entry>
         <entry>
             <title>
                 notes
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/</id>
             <content type="html">
                 &lt;p&gt;All things DnD will live here&lt;/p&gt;
@@ -38,7 +62,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1029/&quot;&gt;Session 1029&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;03.03.2024 - 17:27&lt;/td&gt;
+&lt;td&gt;03.03.2024 - 17:41&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1028/&quot;&gt;Session 1028&lt;/a&gt;&lt;/td&gt;
@@ -72,10 +96,141 @@
         </entry>
         <entry>
             <title>
+                Session 1002
+                
+            </title>
+            <updated>2024-03-03T23:45:31Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/sessions/session-1002/</id>
+            <content type="html">
+                &lt;h2 id=&quot;party-descends-into-sewers&quot; tabindex=&quot;-1&quot;&gt;Party descends into sewers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mace man and his men are keeping a prisoner &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/Players/Arceus.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Arceus&lt;/a&gt; captive&lt;/li&gt;
+&lt;li&gt;a suit of armor starts to glow mysteriously&lt;/li&gt;
+&lt;li&gt;the guards are defeated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;party-moves-deeper-into-the-cave&quot; tabindex=&quot;-1&quot;&gt;party moves deeper into the cave&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;a wicked woman is found working over a cadaver&lt;/li&gt;
+&lt;li&gt;2 giant rats ambush the party&lt;/li&gt;
+&lt;li&gt;the enemies are also defeated with heavy damage taken by the party&lt;/li&gt;
+&lt;li&gt;a book with skulls - &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/items/Fireball%20Spellbook.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Fireball Spellbook&lt;/a&gt; is found with&lt;/li&gt;
+&lt;li&gt;a key is found on the Witch&lt;/li&gt;
+&lt;li&gt;the key found fits into the book and unlocks to find it&#39;s a spellbook&lt;/li&gt;
+&lt;li&gt;the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/baldur-s-zate/items/fireball-spellbook/&quot;&gt;Campaigns/Baldur&#39;s Zate/items/Fireball Spellbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;split-paths&quot; tabindex=&quot;-1&quot;&gt;Split paths&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;two go up to a room full of candles. Some lit and some not&lt;/li&gt;
+&lt;li&gt;a rat is found. &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/Players/Arceus.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Arceus&lt;/a&gt; transforms into a rat to communicate. the rat calls for &amp;quot;help&amp;quot; and runs down the hall&lt;/li&gt;
+&lt;li&gt;reach a dead end with a gravestone&lt;/li&gt;
+&lt;li&gt;we push off the lid and find a knight in full plate armour&lt;/li&gt;
+&lt;li&gt;the axe begins to glow and animates to life. Seemingly only defending the dead corps&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/baldur-s-zate/sessions/session-1002/" >
+        </entry>
+        <entry>
+            <title>
+                Session 1001
+                
+            </title>
+            <updated>2024-03-03T23:45:31Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/sessions/session-1001/</id>
+            <content type="html">
+                &lt;p&gt;start.&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/baldur-s-zate/sessions/session-1001/" >
+        </entry>
+        <entry>
+            <title>
+                1003
+                
+            </title>
+            <updated>2024-03-03T23:45:31Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/sessions/1003/</id>
+            <content type="html">
+                &lt;h2 id=&quot;party-is-still-split&quot; tabindex=&quot;-1&quot;&gt;party is still split&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;party joins back together&lt;/li&gt;
+&lt;li&gt;we follow the last path that hasn&#39;t been explored&lt;/li&gt;
+&lt;li&gt;it reeks a foul stench&lt;/li&gt;
+&lt;li&gt;door &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#2&quot;&gt;#2&lt;/a&gt; a mummy with gold coins and 2 rubies is found&lt;/li&gt;
+&lt;li&gt;door &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#3&quot;&gt;#3&lt;/a&gt;, bunch of undead creatures found (seemingling docile)&lt;/li&gt;
+&lt;li&gt;door $4, 2 hostages chained to the wall
+&lt;ul&gt;
+&lt;li&gt;the bodies are lifeless.&lt;/li&gt;
+&lt;li&gt;A special door to the north wall is opened revealing a narrow passage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;another split path
+&lt;ul&gt;
+&lt;li&gt;north east,
+&lt;ul&gt;
+&lt;li&gt;dead prisoner in a bloody broth grave&lt;/li&gt;
+&lt;li&gt;an alive prisoner &amp;quot;please don&#39;t hurt me&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;south east
+&lt;ul&gt;
+&lt;li&gt;4 cultists in full garb ready to fight&lt;/li&gt;
+&lt;li&gt;the alive prisoner runs away&lt;/li&gt;
+&lt;li&gt;4 cultists have been defeated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;south west
+&lt;ul&gt;
+&lt;li&gt;sarcophagus with many pillars of torches surrounding&lt;/li&gt;
+&lt;li&gt;nothing is found&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;head back the way we came
+&lt;ul&gt;
+&lt;li&gt;one of the chained prisoners shows sliver of life&lt;/li&gt;
+&lt;li&gt;given water and food&lt;/li&gt;
+&lt;li&gt;distraught and weak, not very informative&lt;/li&gt;
+&lt;li&gt;takes us to a wall with a carved skull in the stone&lt;/li&gt;
+&lt;li&gt;the rubies fit into the eye holes and reveals a secret passage&lt;/li&gt;
+&lt;li&gt;Long pathway leads us to the clanging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;the-man-with-no-face&quot; tabindex=&quot;-1&quot;&gt;The man with no face&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/NPCs/Man%20With%20No%20Face.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Man With No Face&lt;/a&gt; talks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;these souls shall be taken from Baulder&#39;s Gate&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/Players/Twyla.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Twyla&lt;/a&gt; takes a shot at the no face / skull man&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/NPCs/Burned%20Face%20Man.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Burned Face Man&lt;/a&gt; takes off leaving the battle&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/NPCs/Man%20With%20No%20Face.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Man With No Face&lt;/a&gt; kills &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/Players/Arceus.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Arceus&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;also kills &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/Players/Rrab%20Narrahtol.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Rrab Narrahtol&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/baldur-s-zate/sessions/1003/" >
+        </entry>
+        <entry>
+            <title>
                 Fireball Spellbook
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/items/fireball-spellbook/</id>
             <content type="html">
                 &lt;p&gt;found in the prison tunnels with the green witch. book with skulls&lt;/p&gt;
@@ -88,7 +243,7 @@
                 2 Rubies
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/items/2-rubies/</id>
             <content type="html">
                 &lt;p&gt;found in the mummies skull in &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/sessions/1003.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;1003&lt;/a&gt;&lt;/p&gt;
@@ -98,10 +253,277 @@
         </entry>
         <entry>
             <title>
+                Twyla
+                
+            </title>
+            <updated>2024-03-03T23:45:31Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/players/twyla/</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/twyla_pic.jpeg&quot; alt=&quot;twyla_pic|300&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/baldur-s-zate/players/twyla/" >
+        </entry>
+        <entry>
+            <title>
+                Arceus
+                
+            </title>
+            <updated>2024-03-03T23:45:31Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/players/arceus/</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/arceus.png&quot; alt=&quot;arceus|300&quot; width=&quot;300px&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://dnd.tawtaw.site/attachments/Arceus-Lv3-character.pdf&quot; alt=&quot;Arceus-Lv3-character&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;items&quot; tabindex=&quot;-1&quot;&gt;Items&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;daggers (looted from &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/Players/Johnny%20Daggerman.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Johnny Daggerman&lt;/a&gt; corpse)&lt;/li&gt;
+&lt;li&gt;2 gold coins (from mummy)&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/items/2%20Rubies.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;2 Rubies&lt;/a&gt;  (from the mummy)&lt;/s&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;spells&quot; tabindex=&quot;-1&quot;&gt;Spells&lt;/h2&gt;
+&lt;h3 id=&quot;druidcraft&quot; tabindex=&quot;-1&quot;&gt;Druidcraft&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;act&lt;/th&gt;
+&lt;th&gt;distance&lt;/th&gt;
+&lt;th&gt;components&lt;/th&gt;
+&lt;th&gt;timing&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;30ft&lt;/td&gt;
+&lt;td&gt;V, S&lt;/td&gt;
+&lt;td&gt;inst&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Whispering to the spirits of nature, you create one of the following effects within range: • You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round. • You instantly make a flower blossom, a seed pod open, or a leaf bud bloom. • You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube. • You instantly light or snuff out a candle, a torch, or a small campfire.&lt;/p&gt;
+&lt;h3 id=&quot;poison-spray&quot; tabindex=&quot;-1&quot;&gt;Poison Spray&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;act&lt;/th&gt;
+&lt;th&gt;distance&lt;/th&gt;
+&lt;th&gt;components&lt;/th&gt;
+&lt;th&gt;timing&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;10ft&lt;/td&gt;
+&lt;td&gt;V, S&lt;/td&gt;
+&lt;td&gt;inst&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage. This spell’s damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).&lt;/p&gt;
+&lt;h3 id=&quot;produce-flame&quot; tabindex=&quot;-1&quot;&gt;Produce Flame&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;act&lt;/th&gt;
+&lt;th&gt;distance&lt;/th&gt;
+&lt;th&gt;components&lt;/th&gt;
+&lt;th&gt;timing&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;120ft&lt;/td&gt;
+&lt;td&gt;V, S&lt;/td&gt;
+&lt;td&gt;1rnd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again. You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage. This spell&#39;s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).&lt;/p&gt;
+&lt;h3 id=&quot;chill-touch&quot; tabindex=&quot;-1&quot;&gt;Chill Touch&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;act&lt;/th&gt;
+&lt;th&gt;distance&lt;/th&gt;
+&lt;th&gt;components&lt;/th&gt;
+&lt;th&gt;timing&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;self&lt;/td&gt;
+&lt;td&gt;V, S&lt;/td&gt;
+&lt;td&gt;1 rnd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can&#39;t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn. This spell&#39;s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).&lt;/p&gt;
+&lt;h3 id=&quot;charm-person&quot; tabindex=&quot;-1&quot;&gt;Charm Person&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;act&lt;/th&gt;
+&lt;th&gt;distance&lt;/th&gt;
+&lt;th&gt;components&lt;/th&gt;
+&lt;th&gt;timing&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1 act&lt;/td&gt;
+&lt;td&gt;30ft&lt;/td&gt;
+&lt;td&gt;V, S&lt;/td&gt;
+&lt;td&gt;1 hr&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.&lt;/p&gt;
+&lt;h3 id=&quot;thunderwave&quot; tabindex=&quot;-1&quot;&gt;Thunderwave&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;act&lt;/th&gt;
+&lt;th&gt;distance&lt;/th&gt;
+&lt;th&gt;components&lt;/th&gt;
+&lt;th&gt;timing&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1 act&lt;/td&gt;
+&lt;td&gt;self&lt;/td&gt;
+&lt;td&gt;V, S&lt;/td&gt;
+&lt;td&gt;inst&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn&#39;t pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell&#39;s effect, and the spell emits a thunderous boom audible out to 300 feet. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st&lt;/p&gt;
+&lt;h3 id=&quot;hold-person&quot; tabindex=&quot;-1&quot;&gt;Hold Person&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;act&lt;/th&gt;
+&lt;th&gt;distance&lt;/th&gt;
+&lt;th&gt;components&lt;/th&gt;
+&lt;th&gt;timing&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1 act&lt;/td&gt;
+&lt;td&gt;60ft&lt;/td&gt;
+&lt;td&gt;V, S, M&lt;/td&gt;
+&lt;td&gt;Conc, 1 min&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target. At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.&lt;/p&gt;
+&lt;h3 id=&quot;locate-object&quot; tabindex=&quot;-1&quot;&gt;Locate Object&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;act&lt;/th&gt;
+&lt;th&gt;distance&lt;/th&gt;
+&lt;th&gt;components&lt;/th&gt;
+&lt;th&gt;timing&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1 act&lt;/td&gt;
+&lt;td&gt;self&lt;/td&gt;
+&lt;td&gt;V, S, M&lt;/td&gt;
+&lt;td&gt;Conc, 10 min&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Describe or name an object that is familiar to you. You sense the direction to the object&#39;s location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement. The spell can locate a specific object known to you, as long as you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon. This spell can&#39;t locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object&lt;/p&gt;
+&lt;h3 id=&quot;spike-growth&quot; tabindex=&quot;-1&quot;&gt;Spike Growth&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;act&lt;/th&gt;
+&lt;th&gt;distance&lt;/th&gt;
+&lt;th&gt;components&lt;/th&gt;
+&lt;th&gt;timing&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1 act&lt;/td&gt;
+&lt;td&gt;150ft&lt;/td&gt;
+&lt;td&gt;V, S, M&lt;/td&gt;
+&lt;td&gt;Conc, 10 min&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels. The transformation of the ground is camouflaged to look natural. Any creature that can&#39;t see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/baldur-s-zate/players/arceus/" >
+        </entry>
+        <entry>
+            <title>
+                Old Hag Witch
+                
+            </title>
+            <updated>2024-03-03T23:45:31Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/np-cs/old-hag-witch/</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/attachments/dark-witch.png&quot; alt=&quot;dark-witch|400&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/baldur-s-zate/np-cs/old-hag-witch/" >
+        </entry>
+        <entry>
+            <title>
+                Man With No Face
+                
+            </title>
+            <updated>2024-03-03T23:45:31Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/np-cs/man-with-no-face/</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Vaaz_DeathsHead.png&quot; alt=&quot;Vaaz_DeathsHead|500&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/baldur-s-zate/np-cs/man-with-no-face/" >
+        </entry>
+        <entry>
+            <title>
+                Grand Duke Ulder Ravengard
+                
+            </title>
+            <updated>2024-03-03T23:45:31Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/np-cs/grand-duke-ulder-ravengard/</id>
+            <content type="html">
+                &lt;p&gt;leader of the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/baldur-s-zate/locations/the-flaming-fist/&quot;&gt;Campaigns/Baldur&#39;s Zate/Locations/The Flaming Fist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ravengard is an honorable man, but the Flaming Fist have been known to be cruel.&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/baldur-s-zate/np-cs/grand-duke-ulder-ravengard/" >
+        </entry>
+        <entry>
+            <title>
+                Burned Face Man
+                
+            </title>
+            <updated>2024-03-03T23:45:31Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/np-cs/burned-face-man/</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Mortlock.webp&quot; alt=&quot;Mortlock|500&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/baldur-s-zate/np-cs/burned-face-man/" >
+        </entry>
+        <entry>
+            <title>
                 The Flaming Fist
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/locations/the-flaming-fist/</id>
             <content type="html">
                 &lt;p&gt;a military police force that walks both sides of the law depending on who you ask.&lt;/p&gt;
@@ -117,7 +539,7 @@
                 Low Lantern
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/locations/low-lantern/</id>
             <content type="html">
                 &lt;p&gt;shady pub that attracts thugs and theives&lt;/p&gt;
@@ -130,12 +552,12 @@
                 Baldur&#39;s Zate
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/baldur-s-zate/baldur-s-zate/</id>
             <content type="html">
                 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Welcome to Baldur&#39;s Gate: a wretched hive of scum and villainy. The city is &amp;quot;protected&amp;quot; by &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/baldur-s-zate/locations/the-flaming-fist/&quot;&gt;Campaigns/Baldur&#39;s Zate/Locations/The Flaming Fist&lt;/a&gt;, a military police force that walks both sides of the law depending on who you ask. The Fist is led by &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Campaigns/Baldur&#39;s Zate/NPCs/Grand Duke Ulder Ravengard&lt;/a&gt;. Ravengard is an honorable man, but the Flaming Fist have been known to be cruel. Despite some bad apples, there are members who genuinely wish to help and protect the citizens of Baldur&#39;s Gate. As the newest recruits, your party is put out on the front lines to learn the beats of the streets.&lt;/p&gt;
+&lt;p&gt;Welcome to Baldur&#39;s Gate: a wretched hive of scum and villainy. The city is &amp;quot;protected&amp;quot; by &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/baldur-s-zate/locations/the-flaming-fist/&quot;&gt;Campaigns/Baldur&#39;s Zate/Locations/The Flaming Fist&lt;/a&gt;, a military police force that walks both sides of the law depending on who you ask. The Fist is led by &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/baldur-s-zate/np-cs/grand-duke-ulder-ravengard/&quot;&gt;Campaigns/Baldur&#39;s Zate/NPCs/Grand Duke Ulder Ravengard&lt;/a&gt;. Ravengard is an honorable man, but the Flaming Fist have been known to be cruel. Despite some bad apples, there are members who genuinely wish to help and protect the citizens of Baldur&#39;s Gate. As the newest recruits, your party is put out on the front lines to learn the beats of the streets.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;[&lt;em&gt;9:40 PM&lt;/em&gt;]&lt;/em&gt;&lt;/p&gt;
@@ -155,7 +577,7 @@
                 Session 999
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-999/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -216,10 +638,15 @@ storming the castle&lt;/p&gt;
                 Session 1029
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1029/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/session-witchroads-03.png&quot; alt=&quot;session-witchroads-03&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;mysterious-pond&quot; tabindex=&quot;-1&quot;&gt;mysterious pond&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Players%20%F0%9F%91%A4/Lucas.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Lucas&lt;/a&gt; finds the depth is surprisingly deep. Deeper than what his javelin could go down&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Players%20%F0%9F%91%A4/Bromdan.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Bromdan&lt;/a&gt; notes copper outlining the pool&#39;s edges&lt;/li&gt;
+&lt;/ul&gt;
 
             </content>
             <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1029/" >
@@ -229,7 +656,7 @@ storming the castle&lt;/p&gt;
                 Session 1028
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1028/</id>
             <content type="html">
                 &lt;p&gt;Finishing up in the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/witchroads/&quot;&gt;witchroads&lt;/a&gt;&lt;/p&gt;
@@ -270,7 +697,7 @@ storming the castle&lt;/p&gt;
                 Session 1027
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1027/</id>
             <content type="html">
                 &lt;h2 id=&quot;still-in-the-witch-roads&quot; tabindex=&quot;-1&quot;&gt;Still in the Witch Roads&lt;/h2&gt;
@@ -310,7 +737,7 @@ storming the castle&lt;/p&gt;
                 Session 1026
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1026/</id>
             <content type="html">
                 &lt;p&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Locations%20%F0%9F%93%8C/witchroads.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;witchroads&lt;/a&gt;&lt;/p&gt;
@@ -347,7 +774,7 @@ storming the castle&lt;/p&gt;
                 Session 1025
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1025/</id>
             <content type="html">
                 &lt;h2 id=&quot;still-in-the-caverns&quot; tabindex=&quot;-1&quot;&gt;Still in the caverns&lt;/h2&gt;
@@ -382,7 +809,7 @@ storming the castle&lt;/p&gt;
                 Session 1023
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1023/</id>
             <content type="html">
                 &lt;h2 id=&quot;jindosh-is-back&quot; tabindex=&quot;-1&quot;&gt;Jindosh is back&lt;/h2&gt;
@@ -415,7 +842,7 @@ storming the castle&lt;/p&gt;
                 Session 1022
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1022/</id>
             <content type="html">
                 &lt;h2 id=&quot;the-battle-rages-on&quot; tabindex=&quot;-1&quot;&gt;The battle rages on&lt;/h2&gt;
@@ -444,7 +871,7 @@ storming the castle&lt;/p&gt;
                 Session 1021
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1021/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -475,7 +902,7 @@ storming the castle&lt;/p&gt;
                 Session 1020
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1020/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -507,7 +934,7 @@ storming the castle&lt;/p&gt;
                 Session 1019
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1019/</id>
             <content type="html">
                 &lt;h2 id=&quot;still-in-the-caves&quot; tabindex=&quot;-1&quot;&gt;still in the caves&lt;/h2&gt;
@@ -548,7 +975,7 @@ storming the castle&lt;/p&gt;
                 Session 1018
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1018/</id>
             <content type="html">
                 &lt;p&gt;The party ventures deep in the caves to find the &lt;a href=&quot;https://dnd.tawtaw.site/goliaths&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;goliaths&lt;/a&gt;&lt;/p&gt;
@@ -604,7 +1031,7 @@ storming the castle&lt;/p&gt;
                 Session 1017
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1017/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -629,7 +1056,7 @@ storming the castle&lt;/p&gt;
                 Session 1016
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1016/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -650,7 +1077,7 @@ storming the castle&lt;/p&gt;
                 Session 1015
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1015/</id>
             <content type="html">
                 &lt;h2 id=&quot;still-in-the-city&quot; tabindex=&quot;-1&quot;&gt;Still in the city&lt;/h2&gt;
@@ -675,7 +1102,7 @@ storming the castle&lt;/p&gt;
                 Session 1014
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1014/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -700,7 +1127,7 @@ storming the castle&lt;/p&gt;
                 Session 1013
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1013/</id>
             <content type="html">
                 &lt;h2 id=&quot;2023-07-09&quot; tabindex=&quot;-1&quot;&gt;2023-07-09&lt;/h2&gt;
@@ -731,7 +1158,7 @@ storming the castle&lt;/p&gt;
                 Session 1012
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1012/</id>
             <content type="html">
                 &lt;h2 id=&quot;vicious-birds&quot; tabindex=&quot;-1&quot;&gt;vicious birds&lt;/h2&gt;
@@ -777,7 +1204,7 @@ storming the castle&lt;/p&gt;
                 Session 1011
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1011/</id>
             <content type="html">
                 &lt;h2 id=&quot;the-gang-is-found-in-combat&quot; tabindex=&quot;-1&quot;&gt;The gang is found in combat&lt;/h2&gt;
@@ -813,7 +1240,7 @@ storming the castle&lt;/p&gt;
                 Session 1010
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1010/</id>
             <content type="html">
                 &lt;h2 id=&quot;setting&quot; tabindex=&quot;-1&quot;&gt;Setting&lt;/h2&gt;
@@ -855,7 +1282,7 @@ storming the castle&lt;/p&gt;
                 Session 1009
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1009/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -878,7 +1305,7 @@ storming the castle&lt;/p&gt;
                 Session 1008
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1008/</id>
             <content type="html">
                 &lt;h2 id=&quot;two-tanks-enter-a-bar&quot; tabindex=&quot;-1&quot;&gt;Two Tanks enter a Bar&lt;/h2&gt;
@@ -940,7 +1367,7 @@ storming the castle&lt;/p&gt;
                 Session 1007
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1007/</id>
             <content type="html">
                 &lt;h2 id=&quot;thunderspire-cave&quot; tabindex=&quot;-1&quot;&gt;Thunderspire Cave&lt;/h2&gt;
@@ -962,7 +1389,7 @@ storming the castle&lt;/p&gt;
                 Session 1006
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1006/</id>
             <content type="html">
                 &lt;h2 id=&quot;inside-thunderspire&quot; tabindex=&quot;-1&quot;&gt;inside Thunderspire&lt;/h2&gt;
@@ -996,7 +1423,7 @@ storming the castle&lt;/p&gt;
                 Session 1005
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1005/</id>
             <content type="html">
                 &lt;h2 id=&quot;inside-thunderspire&quot; tabindex=&quot;-1&quot;&gt;Inside Thunderspire&lt;/h2&gt;
@@ -1026,7 +1453,7 @@ storming the castle&lt;/p&gt;
                 Session 1004
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1004/</id>
             <content type="html">
                 &lt;h2 id=&quot;hello&quot; tabindex=&quot;-1&quot;&gt;hello&lt;/h2&gt;
@@ -1039,7 +1466,7 @@ storming the castle&lt;/p&gt;
                 Session 1003
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1003/</id>
             <content type="html">
                 &lt;h2 id=&quot;road-to-hammerfast&quot; tabindex=&quot;-1&quot;&gt;Road to Hammerfast&lt;/h2&gt;
@@ -1079,7 +1506,7 @@ storming the castle&lt;/p&gt;
                 Session 1002
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1002/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -1114,7 +1541,7 @@ storming the castle&lt;/p&gt;
                 Session 1001
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1001/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -1162,7 +1589,7 @@ storming the castle&lt;/p&gt;
                 Session 1000
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-1000/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -1199,7 +1626,7 @@ storming the castle&lt;/p&gt;
                 Session 013
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-013/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1235,7 +1662,7 @@ storming the castle&lt;/p&gt;
                 Session 012
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-012/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1264,7 +1691,7 @@ storming the castle&lt;/p&gt;
                 Session 011
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-011/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1297,7 +1724,7 @@ storming the castle&lt;/p&gt;
                 Session 010
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-010/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1339,7 +1766,7 @@ storming the castle&lt;/p&gt;
                 Session 009
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-009/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1357,7 +1784,7 @@ storming the castle&lt;/p&gt;
                 Session 008
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-008/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1385,7 +1812,7 @@ storming the castle&lt;/p&gt;
                 Session 007
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-007/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1422,7 +1849,7 @@ storming the castle&lt;/p&gt;
                 Session 006
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-006/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -1567,7 +1994,7 @@ storming the castle&lt;/p&gt;
                 Session 005
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-005/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1651,7 +2078,7 @@ storming the castle&lt;/p&gt;
                 Session 004
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-004/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1713,7 +2140,7 @@ storming the castle&lt;/p&gt;
                 Session 003
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-003/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1767,7 +2194,7 @@ storming the castle&lt;/p&gt;
                 Session 002
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-002/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1795,7 +2222,7 @@ storming the castle&lt;/p&gt;
                 Session 001
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/session-001/</id>
             <content type="html">
                 &lt;h2 id=&quot;current-setting&quot; tabindex=&quot;-1&quot;&gt;Current Setting&lt;/h2&gt;
@@ -1869,7 +2296,7 @@ storming the castle&lt;/p&gt;
                 2021
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/sessions/2021/</id>
             <content type="html">
                 &lt;h2 id=&quot;goliaths-vs-the-feis&quot; tabindex=&quot;-1&quot;&gt;Goliaths vs The Feis&lt;/h2&gt;
@@ -1898,7 +2325,7 @@ storming the castle&lt;/p&gt;
                 Silver Liota
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/players/silver-liota/</id>
             <content type="html">
                 &lt;table&gt;
@@ -1967,7 +2394,7 @@ storming the castle&lt;/p&gt;
                 Lucas
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/players/lucas/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/lucas-pic-v1.jpg&quot; alt=&quot;attachments/lucas-pic-v1.jpg&quot; /&gt;&lt;/p&gt;
@@ -2127,7 +2554,7 @@ Starting at 10th level, you and friendly creatures within 10 feet of you can’t
                 LoThaRRan
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/players/lo-tha-r-ran/</id>
             <content type="html">
                 &lt;table&gt;
@@ -2196,7 +2623,7 @@ Starting at 10th level, you and friendly creatures within 10 feet of you can’t
                 Jianni
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/players/jianni/</id>
             <content type="html">
                 &lt;table&gt;
@@ -2257,7 +2684,7 @@ Starting at 10th level, you and friendly creatures within 10 feet of you can’t
                 Bromdan
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/players/bromdan/</id>
             <content type="html">
                 &lt;table&gt;
@@ -2326,7 +2753,7 @@ Starting at 10th level, you and friendly creatures within 10 feet of you can’t
                 Broly
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/players/broly/</id>
             <content type="html">
                 &lt;table&gt;
@@ -2388,7 +2815,7 @@ Starting at 10th level, you and friendly creatures within 10 feet of you can’t
                 waterwraith
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/waterwraith/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/waterwraithe.png&quot; alt=&quot;waterwraithe|400&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
@@ -2401,7 +2828,7 @@ Starting at 10th level, you and friendly creatures within 10 feet of you can’t
                 Wych Killer
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/wych-killer/</id>
             <content type="html">
                 &lt;table&gt;
@@ -2489,7 +2916,7 @@ reactions:
                 Winter Fey
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/winter-fey/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#enemy&quot;&gt;#enemy&lt;/a&gt;&lt;br /&gt;
@@ -2503,7 +2930,7 @@ reactions:
                 Weavil Gut
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/weavil-gut/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -2519,7 +2946,7 @@ reactions:
                 The Tar Monster
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/the-tar-monster/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/TarDevil.jpeg&quot; alt=&quot;TarDevil|300&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
@@ -2532,7 +2959,7 @@ reactions:
                 Tall
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/tall/</id>
             <content type="html">
                 &lt;p&gt;Tall god of the hunt and the wild&lt;/p&gt;
@@ -2545,7 +2972,7 @@ reactions:
                 Stefan Raquel
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/stefan-raquel/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Tiefling_Fencer.jpg&quot; alt=&quot;Tiefling_Fencer|300&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
@@ -2558,7 +2985,7 @@ reactions:
                 Regious the Goose
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/regious-the-goose/</id>
             <content type="html">
                 &lt;table&gt;
@@ -2591,7 +3018,7 @@ reactions:
                 Red Thorn
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/red-thorn/</id>
             <content type="html">
                 &lt;table&gt;
@@ -2625,7 +3052,7 @@ reactions:
                 Ramtholemewwe
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/ramtholemewwe/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/battle-goat--stormpikebattlecharger.jpg&quot; alt=&quot;battle-goat--stormpikebattlecharger | 100&quot; width=&quot; 100px&quot; /&gt;&lt;br /&gt;
@@ -2639,7 +3066,7 @@ reactions:
                 Peneloper
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/peneloper/</id>
             <content type="html">
                 &lt;p&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Sisterhood%20of%20Delfas.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sisterhood of Delfas&lt;/a&gt;&lt;/p&gt;
@@ -2652,7 +3079,7 @@ reactions:
                 OwlBear
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/owl-bear/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/owl-bear.jpg&quot; alt=&quot;owl-bear|400&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
@@ -2670,7 +3097,7 @@ reactions:
                 Miranda
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/miranda/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -2686,7 +3113,7 @@ reactions:
                 Medusa Priestess
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/medusa-priestess/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Medusa_Priestess.webp&quot; alt=&quot;Medusa_Priestess&quot; /&gt;&lt;/p&gt;
@@ -2699,7 +3126,7 @@ reactions:
                 Lyzza
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/lyzza/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#warlock&quot;&gt;#warlock&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#witch&quot;&gt;#witch&lt;/a&gt;&lt;br /&gt;
@@ -2722,7 +3149,7 @@ reactions:
                 LueEllen
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/lue-ellen/</id>
             <content type="html">
                 &lt;table&gt;
@@ -2755,7 +3182,7 @@ reactions:
                 Lisette
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/lisette/</id>
             <content type="html">
                 &lt;table&gt;
@@ -2795,7 +3222,7 @@ reactions:
                 Linda
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/linda/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#halfling&quot;&gt;#halfling&lt;/a&gt;&lt;/p&gt;
@@ -2809,7 +3236,7 @@ reactions:
                 Large Reptillian Creature aka The UnderTroller
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/large-reptillian-creature-aka-the-under-troller/</id>
             <content type="html">
                 &lt;p&gt;![large reptillian creature | 200](/img/user/attachments/large reptillian creature.jpg)&lt;/p&gt;
@@ -2829,7 +3256,7 @@ reactions:
                 Kyton Devil
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/kyton-devil/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/kyton_devil.webp&quot; alt=&quot;kyton_devil | 200&quot; width=&quot; 200px&quot; /&gt;&lt;/p&gt;
@@ -2846,7 +3273,7 @@ reactions:
                 Jindosh the Alchemist
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/jindosh-the-alchemist/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Jindosh_the_Alchemist.jpg&quot; alt=&quot;Jindosh_the_Alchemist | 200&quot; width=&quot; 200px&quot; /&gt;&lt;/p&gt;
@@ -2863,7 +3290,7 @@ reactions:
                 Ilyana
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/ilyana/</id>
             <content type="html">
                 &lt;table&gt;
@@ -2897,7 +3324,7 @@ reactions:
                 Hooked Horror
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/hooked-horror/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/hook-horror.jpg&quot; alt=&quot;hook-horror | 400&quot; width=&quot; 400px&quot; /&gt;&lt;/p&gt;
@@ -2914,7 +3341,7 @@ reactions:
                 Grimjaw
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/grimjaw/</id>
             <content type="html">
                 &lt;p&gt;blue scaled &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#dragonborn&quot;&gt;#dragonborn&lt;/a&gt; that was part of the &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Iron%20Circle.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Iron Circle&lt;/a&gt; and worked with &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Players%20%F0%9F%91%A4/Lucas.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Lucas&lt;/a&gt; to take down them&lt;/p&gt;
@@ -2927,7 +3354,7 @@ reactions:
                 Green Troll aka Trollkind
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/green-troll-aka-trollkind/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/GreenTroll.png&quot; alt=&quot;GreenTroll | 200&quot; width=&quot; 200px&quot; /&gt;&lt;/p&gt;
@@ -2944,7 +3371,7 @@ reactions:
                 Emily
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/emily/</id>
             <content type="html">
                 &lt;p&gt;some chick from &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Locations%20%F0%9F%93%8C/Oran&#39;s%20Rest.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Oran&#39;s Rest&lt;/a&gt;&lt;/p&gt;
@@ -2957,7 +3384,7 @@ reactions:
                 Elder Gargadilly
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/elder-gargadilly/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -2975,7 +3402,7 @@ reactions:
                 Delphas Hexblade
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/delphas-hexblade/</id>
             <content type="html">
                 &lt;p&gt;First met in the &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Locations%20%F0%9F%93%8C/witchroads.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;witchroads&lt;/a&gt;&lt;/p&gt;
@@ -2988,7 +3415,7 @@ reactions:
                 Cyclone
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/cyclone/</id>
             <content type="html">
                 &lt;p&gt;beast?&lt;/p&gt;
@@ -3001,7 +3428,7 @@ reactions:
                 Christina Ashworth
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/christina-ashworth/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Jindosh_Assistant.jpg&quot; alt=&quot;Jindosh_Assistant | 200&quot; width=&quot; 200px&quot; /&gt;&lt;/p&gt;
@@ -3021,7 +3448,7 @@ reactions:
                 Celtis
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/celtis/</id>
             <content type="html">
                 &lt;table&gt;
@@ -3070,7 +3497,7 @@ reactions:
                 Brei Teethling
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/brei-teethling/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#monk&quot;&gt;#monk&lt;/a&gt;&lt;br /&gt;
@@ -3084,7 +3511,7 @@ reactions:
                 Borus Axebeard
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/borus-axebeard/</id>
             <content type="html">
                 &lt;table&gt;
@@ -3171,7 +3598,7 @@ reactions:
                 Artic Roaper
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/artic-roaper/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Arctic_Roper.png&quot; alt=&quot;Arctic_Roper|400&quot; width=&quot;400px&quot; /&gt;&lt;br /&gt;
@@ -3185,7 +3612,7 @@ monster made by&lt;/p&gt;
                 Amara
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/amara/</id>
             <content type="html">
                 &lt;p&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Sisterhood%20of%20Delfas.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sisterhood of Delfas&lt;/a&gt;&lt;/p&gt;
@@ -3198,7 +3625,7 @@ monster made by&lt;/p&gt;
                 Alliki
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/alliki/</id>
             <content type="html">
                 &lt;p&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Sisterhood%20of%20Delfas.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sisterhood of Delfas&lt;/a&gt;&lt;/p&gt;
@@ -3213,7 +3640,7 @@ monster made by&lt;/p&gt;
                 Matter
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/matter/</id>
             <content type="html">
                 &lt;h3 id=&quot;tutorials&quot; tabindex=&quot;-1&quot;&gt;tutorials&lt;/h3&gt;
@@ -3264,7 +3691,7 @@ monster made by&lt;/p&gt;
                 witchroads
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/witchroads/</id>
             <content type="html">
                 &lt;p&gt;underground caverns that house the &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Sisterhood%20of%20Delfas.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sisterhood of Delfas&lt;/a&gt;&lt;/p&gt;
@@ -3277,7 +3704,7 @@ monster made by&lt;/p&gt;
                 over over world
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/over-over-world/</id>
             <content type="html">
                 &lt;pre&gt;&lt;code class=&quot;language-leaflet&quot;&gt;id: leaflet-map 
@@ -3302,7 +3729,7 @@ darkMode: false
                 Winterhaven
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/winterhaven/</id>
             <content type="html">
                 &lt;p&gt;North West mountain ranges of the overworld&lt;/p&gt;
@@ -3315,7 +3742,7 @@ darkMode: false
                 Tor&#39;s Hold
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/tor-s-hold/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#town&quot;&gt;#town&lt;/a&gt;&lt;/p&gt;
@@ -3333,7 +3760,7 @@ darkMode: false
                 Silver Nail
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/silver-nail/</id>
             <content type="html">
                 &lt;p&gt;some kinda bar?&lt;/p&gt;
@@ -3346,7 +3773,7 @@ darkMode: false
                 Orren&#39;s Rest
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/orren-s-rest/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#village&quot;&gt;#village&lt;/a&gt;&lt;/p&gt;
@@ -3396,7 +3823,7 @@ darkMode: false
                 Oran&#39;s Rest
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/oran-s-rest/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#village&quot;&gt;#village&lt;/a&gt;&lt;/p&gt;
@@ -3442,7 +3869,7 @@ darkMode: false
                 Harkenwold Vale
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/harkenwold-vale/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#region&quot;&gt;#region&lt;/a&gt;&lt;/p&gt;
@@ -3497,7 +3924,7 @@ darkMode: false
                 Harkenwold OverWorld
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/harkenwold-over-world/</id>
             <content type="html">
                 &lt;pre&gt;&lt;code class=&quot;language-leaflet&quot;&gt;id: leaflet-map 
@@ -3522,7 +3949,7 @@ darkMode: false
                 Harken
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/harken/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#city&quot;&gt;#city&lt;/a&gt;&lt;/p&gt;
@@ -3567,7 +3994,7 @@ darkMode: false
                 Hammerfast
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/hammerfast/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#castle&quot;&gt;#castle&lt;/a&gt;&lt;/p&gt;
@@ -3613,7 +4040,7 @@ darkMode: false
                 Albridge
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/albridge/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#city&quot;&gt;#city&lt;/a&gt;&lt;/p&gt;
@@ -3626,7 +4053,7 @@ darkMode: false
                 Well of Shadows
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/landmarks/well-of-shadows/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -3641,7 +4068,7 @@ darkMode: false
                 Thunderspire
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/landmarks/thunderspire/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -3656,7 +4083,7 @@ darkMode: false
                 Kings Road
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/landmarks/kings-road/</id>
             <content type="html">
                 &lt;p&gt;a road leading south east out of &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Locations%20%F0%9F%93%8C/Harken.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Harken&lt;/a&gt;&lt;/p&gt;
@@ -3669,7 +4096,7 @@ darkMode: false
                 Iron Vault
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/landmarks/iron-vault/</id>
             <content type="html">
                 &lt;p&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Iron%20Circle.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Iron Circle&lt;/a&gt;&lt;/p&gt;
@@ -3683,7 +4110,7 @@ darkMode: false
                 scepter of silver
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/scepter-of-silver/</id>
             <content type="html">
                 &lt;p&gt;found in the caverns&lt;/p&gt;
@@ -3696,7 +4123,7 @@ darkMode: false
                 War Wistle
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/war-wistle/</id>
             <content type="html">
                 &lt;p&gt;a &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#Goliath&quot;&gt;#Goliath&lt;/a&gt; instrument to call birds&lt;/p&gt;
@@ -3709,7 +4136,7 @@ darkMode: false
                 Wand of Web
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/wand-of-web/</id>
             <content type="html">
                 &lt;blockquote&gt;
@@ -3732,7 +4159,7 @@ darkMode: false
                 Scroll; Word of Recall
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/scroll-word-of-recall/</id>
             <content type="html">
                 &lt;p&gt;&lt;a href=&quot;https://www.dndbeyond.com/spells/word-of-recall&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Word of Recall - Spells - D&amp;amp;D Beyond (dndbeyond.com)&lt;/a&gt;&lt;/p&gt;
@@ -3752,7 +4179,7 @@ darkMode: false
                 Robe of Scintillating Colors
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/robe-of-scintillating-colors/</id>
             <content type="html">
                 &lt;p&gt;&lt;a href=&quot;https://www.dndbeyond.com/magic-items/4740-robe-of-scintillating-colors&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Robe of Scintillating Colors - Magic Items - D&amp;amp;D Beyond (dndbeyond.com)&lt;/a&gt;&lt;/p&gt;
@@ -3772,7 +4199,7 @@ darkMode: false
                 Red Glimmer
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/red-glimmer/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -3789,7 +4216,7 @@ darkMode: false
                 Orb of Direction
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/orb-of-direction/</id>
             <content type="html">
                 &lt;blockquote&gt;
@@ -3808,7 +4235,7 @@ darkMode: false
                 Load Stone
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/load-stone/</id>
             <content type="html">
                 &lt;p&gt;Magic stone that that gives the user a sense of direction of where to go.&lt;/p&gt;
@@ -3821,7 +4248,7 @@ darkMode: false
                 Cloak of Elvenkind
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/cloak-of-elvenkind/</id>
             <content type="html">
                 &lt;p&gt;Wondrous Item, uncommon (requires attunement)&lt;/p&gt;
@@ -3839,7 +4266,7 @@ darkMode: false
                 Bracers of Archery
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/bracers-of-archery/</id>
             <content type="html">
                 &lt;blockquote&gt;
@@ -3858,7 +4285,7 @@ darkMode: false
                 Woodsingers
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/woodsingers/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -3873,7 +4300,7 @@ darkMode: false
                 Twisted Rune
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/twisted-rune/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -3890,7 +4317,7 @@ darkMode: false
                 Sisterhood of Delfas
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/sisterhood-of-delfas/</id>
             <content type="html">
                 &lt;p&gt;found in the &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Locations%20%F0%9F%93%8C/witchroads.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;witchroads&lt;/a&gt; cavern&lt;/p&gt;
@@ -3908,7 +4335,7 @@ darkMode: false
                 Iron Circle
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/iron-circle/</id>
             <content type="html">
                 &lt;h3 id=&quot;description&quot; tabindex=&quot;-1&quot;&gt;description&lt;/h3&gt;
@@ -3929,7 +4356,7 @@ darkMode: false
                 Dahrlodwelf
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/dahrlodwelf/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -3945,7 +4372,7 @@ darkMode: false
                 Circle Jerkers
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/circle-jerkers/</id>
             <content type="html">
                 &lt;h3 id=&quot;description&quot; tabindex=&quot;-1&quot;&gt;description&lt;/h3&gt;
@@ -3969,7 +4396,7 @@ darkMode: false
                 Kyton Paramor
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/beasts/kyton-paramor/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Kyton_Paramore.jpg&quot; alt=&quot;Kyton_Paramore&quot; /&gt;&lt;/p&gt;
@@ -3982,7 +4409,7 @@ darkMode: false
                 Hellhound
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/beasts/hellhound/</id>
             <content type="html">
                 &lt;p&gt;~&lt;corgi&gt;~&lt;br /&gt;
@@ -3996,7 +4423,7 @@ darkMode: false
                 Flame Drake
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/beasts/flame-drake/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/FlameDrake.jpg&quot; alt=&quot;FlameDrake&quot; /&gt;&lt;/p&gt;
@@ -4009,7 +4436,7 @@ darkMode: false
                 Big beast
                 
             </title>
-            <updated>2024-03-03T23:44:50Z</updated>
+            <updated>2024-03-03T23:45:31Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/beasts/big-beast/</id>
             <content type="html">
                 &lt;p&gt;big beast that is big check me out how big this beast is&lt;/p&gt;
