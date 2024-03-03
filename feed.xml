@@ -3,21 +3,21 @@
     <title>Dungeon&#39;s and Dragons</title>
     <link href="https://dnd.tawtaw.site/feed.xml" rel="self" >
     <link href="https://dnd.tawtaw.site" >
-    <updated>2024-03-03T23:39:34Z</updated>
+    <updated>2024-03-03T23:40:48Z</updated>
     <id>https://dnd.tawtaw.site</id>
         <entry>
             <title>
                 notes
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/</id>
             <content type="html">
                 &lt;p&gt;All things DnD will live here&lt;/p&gt;
 &lt;h2 id=&quot;campaigns&quot; tabindex=&quot;-1&quot;&gt;Campaigns&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt; Matter &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Matter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/a-dance-of-matter/matter/&quot;&gt;Matter&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/Baldur&#39;s%20Zate/Baldur&#39;s%20Zate.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Baldur&#39;s Zate&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Baldur&#39;s Zate&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -72,10 +72,650 @@
         </entry>
         <entry>
             <title>
+                Christina Ashworth
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/christina-ashworth/</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Jindosh_Assistant.jpg&quot; alt=&quot;Jindosh_Assistant | 200&quot; width=&quot; 200px&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First found with &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/NPCs%20%F0%9F%A4%96/Jindosh%20the%20Alchemist.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Jindosh the Alchemist&lt;/a&gt; inside &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Landmarks%20%E2%9B%B0/Thunderspire.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Thunderspire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;scholar&lt;/li&gt;
+&lt;li&gt;knows the way of divine magic&lt;/li&gt;
+&lt;li&gt;father is a powerful sorer of the &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Twisted%20Rune.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Twisted Rune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;sister of the &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Iron%20Circle.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Iron Circle&lt;/a&gt; sorcerer&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/christina-ashworth/" >
+        </entry>
+        <entry>
+            <title>
+                Celtis
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/celtis/</id>
+            <content type="html">
+                &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;character&lt;/th&gt;
+&lt;th&gt;race&lt;/th&gt;
+&lt;th&gt;class&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#NPC&quot;&gt;#NPC&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#half&quot;&gt;#half&lt;/a&gt; &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#elf&quot;&gt;#elf&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#defaultTag&quot;&gt;#defaultTag&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#dead💀&quot;&gt;#dead💀&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/img-enemy-halfelf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;connections&quot; tabindex=&quot;-1&quot;&gt;connections&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;part of the &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Iron%20Circle.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Iron Circle&lt;/a&gt; (but is not 100% loyal)&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;description&quot; tabindex=&quot;-1&quot;&gt;description&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;very religious&lt;/li&gt;
+&lt;li&gt;willing to sacrifice for power&lt;/li&gt;
+&lt;li&gt;she wants to keep the Cave&#39;s &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Landmarks%20%E2%9B%B0/Iron%20Vault.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Iron Vault&lt;/a&gt;&#39;s big secret door shut&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/celtis/" >
+        </entry>
+        <entry>
+            <title>
+                Brei Teethling
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/brei-teethling/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#monk&quot;&gt;#monk&lt;/a&gt;&lt;br /&gt;
+&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Brei_Tiefling_Monk.jpg&quot; alt=&quot;Brei_Tiefling_Monk|300&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/brei-teethling/" >
+        </entry>
+        <entry>
+            <title>
+                Borus Axebeard
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/borus-axebeard/</id>
+            <content type="html">
+                &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;character&lt;/th&gt;
+&lt;th&gt;race&lt;/th&gt;
+&lt;th&gt;class&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#NPC&quot;&gt;#NPC&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#dwarf&quot;&gt;#dwarf&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#cleric&quot;&gt;#cleric&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;pre&gt;&lt;code class=&quot;language-statblock&quot;&gt;image: [[Wikilink To Image]]
+name: NEW_NAME
+size: string
+type: string
+subtype: string
+alignment: string
+
+ac: 🛡 number
+hp: ♥ number
+hit_dice: string
+speed: 👟 string
+stats: [number, number, number, number, number, number]
+fage_stats: [number, number, number, number, number, number, number, number, number]
+
+saves:
+  - &amp;lt;ability-score&amp;gt;: number
+skillsaves:
+  - &amp;lt;skill-name&amp;gt;: number
+damage_vulnerabilities: string
+damage_resistances: string
+damage_immunities: string
+condition_immunities: string
+
+senses: string
+languages: string
+cr: number
+
+spells:
+  - &amp;lt;description&amp;gt;
+  - &amp;lt;spell level&amp;gt;: &amp;lt;spell-list&amp;gt;
+  
+traits:
+  - name: &amp;lt;trait-name&amp;gt;
+    desc: &amp;lt;trait-description&amp;gt;
+  - ...
+  
+actions:
+  - name: &amp;lt;trait-name&amp;gt;
+    desc: &amp;lt;trait-description&amp;gt;
+  - ...
+  
+legendary_actions:
+  - name: &amp;lt;legendary_actions-name&amp;gt;
+    desc: &amp;lt;legendary_actions-description&amp;gt;
+  - ...
+  
+bonus_actions:
+  - name: &amp;lt;trait-name&amp;gt;
+    desc: &amp;lt;trait-description&amp;gt;
+  - ...
+  
+reactions:
+  - name: &amp;lt;reaction-name&amp;gt;
+    desc: &amp;lt;reaction-description&amp;gt;
+  - ...
+  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;visual-picture&quot; tabindex=&quot;-1&quot;&gt;visual (picture)&lt;/h3&gt;
+&lt;h3 id=&quot;connections&quot; tabindex=&quot;-1&quot;&gt;connections&lt;/h3&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/borus-axebeard/" >
+        </entry>
+        <entry>
+            <title>
+                Artic Roaper
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/artic-roaper/</id>
+            <content type="html">
+                &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Arctic_Roper.png&quot; alt=&quot;Arctic_Roper|400&quot; width=&quot;400px&quot; /&gt;&lt;br /&gt;
+monster made by&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/artic-roaper/" >
+        </entry>
+        <entry>
+            <title>
+                Amara
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/amara/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Sisterhood%20of%20Delfas.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sisterhood of Delfas&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/amara/" >
+        </entry>
+        <entry>
+            <title>
+                Alliki
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/alliki/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Sisterhood%20of%20Delfas.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sisterhood of Delfas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#dead💀&quot;&gt;#dead💀&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/attachments/Alliki-delfas-sister.jpeg&quot; alt=&quot;Alliki-delfas-sister&quot; /&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/alliki/" >
+        </entry>
+        <entry>
+            <title>
+                Matter
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/matter/</id>
+            <content type="html">
+                &lt;h3 id=&quot;tutorials&quot; tabindex=&quot;-1&quot;&gt;tutorials&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;obsidian://open?vault=DnD&amp;amp;file=Tuts%2FNavigation&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Navigation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;obsidian://open?vault=DnD&amp;amp;file=Tuts%2FMarkdown%20templates&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;dice Rolling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;obsidian://open?vault=DnD&amp;amp;file=Tuts%2Fdice%20rolling&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Markdown cheatsheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;clans&quot; tabindex=&quot;-1&quot;&gt;Clans&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Iron%20Circle.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Iron Circle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Circle%20Jerkers.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Circle Jerkers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;locations&quot; tabindex=&quot;-1&quot;&gt;Locations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/albridge/&quot;&gt;Campaigns/A Dance of Matter/Locations 📌/Albridge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/tor-s-hold/&quot;&gt;Campaigns/A Dance of Matter/Locations 📌/Tor&#39;s Hold&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;np-cs&quot; tabindex=&quot;-1&quot;&gt;NPCs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;one&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;players&quot; tabindex=&quot;-1&quot;&gt;Players&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Campaigns/A Dance of Matter/Players 👤/Lucas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Campaigns/A Dance of Matter/Players 👤/Broly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Campaigns/A Dance of Matter/Players 👤/Bromdan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Campaigns/A Dance of Matter/Players 👤/Jianni&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Campaigns/A Dance of Matter/Players 👤/LoThaRRan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Campaigns/A Dance of Matter/Players 👤/Silver Liota&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;sessions&quot; tabindex=&quot;-1&quot;&gt;Sessions&lt;/h2&gt;
+&lt;table class=&quot;block-language-dataview&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;File&lt;/th&gt;
+&lt;th&gt;date&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;h2 id=&quot;tasks&quot; tabindex=&quot;-1&quot;&gt;Tasks&lt;/h2&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/matter/" >
+        </entry>
+        <entry>
+            <title>
+                witchroads
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/witchroads/</id>
+            <content type="html">
+                &lt;p&gt;underground caverns that house the &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Sisterhood%20of%20Delfas.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Sisterhood of Delfas&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/witchroads/" >
+        </entry>
+        <entry>
+            <title>
+                over over world
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/over-over-world/</id>
+            <content type="html">
+                &lt;pre&gt;&lt;code class=&quot;language-leaflet&quot;&gt;id: leaflet-map 
+image: [[attachments/overoverworld.png]] 
+height: 500px 
+lat: 50 
+long: 50 
+minZoom: 1 
+maxZoom: 10 
+defaultZoom: 8 
+unit: meters 
+scale: 1 
+marker: default,
+darkMode: false 
+&lt;/code&gt;&lt;/pre&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/over-over-world/" >
+        </entry>
+        <entry>
+            <title>
+                Winterhaven
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/winterhaven/</id>
+            <content type="html">
+                &lt;p&gt;North West mountain ranges of the overworld&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/winterhaven/" >
+        </entry>
+        <entry>
+            <title>
+                Tor&#39;s Hold
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/tor-s-hold/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#town&quot;&gt;#town&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;city-of-dwarfs&quot; tabindex=&quot;-1&quot;&gt;city of Dwarfs&lt;/h1&gt;
+&lt;h2 id=&quot;residence&quot; tabindex=&quot;-1&quot;&gt;Residence&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/tor-s-hold/" >
+        </entry>
+        <entry>
+            <title>
+                Silver Nail
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/silver-nail/</id>
+            <content type="html">
+                &lt;p&gt;some kinda bar?&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/silver-nail/" >
+        </entry>
+        <entry>
+            <title>
+                Orren&#39;s Rest
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/orren-s-rest/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#village&quot;&gt;#village&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;quant-and-amp-peaceful&quot; tabindex=&quot;-1&quot;&gt;Quant &amp;amp; peaceful&lt;/h1&gt;
+&lt;h3 id=&quot;meta-data&quot; tabindex=&quot;-1&quot;&gt;meta data&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;info&lt;/th&gt;
+&lt;th&gt;quantity&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;population&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;buildings&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&quot;citizens&quot; tabindex=&quot;-1&quot;&gt;Citizens&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;landmarks&quot; tabindex=&quot;-1&quot;&gt;Landmarks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;neighboring-locations&quot; tabindex=&quot;-1&quot;&gt;Neighboring Locations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;description&quot; tabindex=&quot;-1&quot;&gt;Description&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;a small community centered around a coaching inn and a general store, both run by the Salar family. Sibbi Salar is the patriarch and nominal ealdorman when needed, and his half-dozen children help run the business and the inn. There is also a mason&#39;s workshop, where stone is carved and used to maintain the three bridges that afford travel along the important road from Albridge to Marl. A pair of masons, a human named Grant the Elder and a dwarf from the east, Bolden Stonebeard, work the shop and also send surplus stone to the town of Marl in the south. The central &amp;quot;village&amp;quot; has about a dozen buildings and maybe fifty residents, with an equal number living nearby on farmsteads and outlying cabins. Perhaps two of the most notable of these distant relatives are the ranger Willam Wild, a taciturn woodsman who many say once fought in wars to the northwest, and the herbalist Lewellyn, a beautiful but quiet elven druid who once roamed with the Woodsinger clans. The only other citizen of note is Oben Jakes, the owner of a small watermill near the bridge and the only tiefling in the settlement. Some say he is a foul warlock who charges too much to use his mill, but he is always quiet and takes delight in entertaining children with small illusion magics.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;February 21, 2022&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/orren-s-rest/" >
+        </entry>
+        <entry>
+            <title>
+                Oran&#39;s Rest
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/oran-s-rest/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#village&quot;&gt;#village&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;quant-and-amp-peaceful&quot; tabindex=&quot;-1&quot;&gt;Quant &amp;amp; peaceful&lt;/h1&gt;
+&lt;h3 id=&quot;meta-data&quot; tabindex=&quot;-1&quot;&gt;meta data&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;info&lt;/th&gt;
+&lt;th&gt;desc&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;population&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;buildings&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;citizens&quot; tabindex=&quot;-1&quot;&gt;Citizens&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;landmarks&quot; tabindex=&quot;-1&quot;&gt;Landmarks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;neighboring-locations&quot; tabindex=&quot;-1&quot;&gt;Neighboring Locations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/oran-s-rest/" >
+        </entry>
+        <entry>
+            <title>
+                Harkenwold Vale
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/harkenwold-vale/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#region&quot;&gt;#region&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;sprawling-hills-of-land&quot; tabindex=&quot;-1&quot;&gt;Sprawling hills of land&lt;/h1&gt;
+&lt;h3 id=&quot;meta-data&quot; tabindex=&quot;-1&quot;&gt;meta data&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;info&lt;/th&gt;
+&lt;th&gt;quantity&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;population&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;buildings&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&quot;citizens&quot; tabindex=&quot;-1&quot;&gt;Citizens&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;landmarks&quot; tabindex=&quot;-1&quot;&gt;Landmarks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;neighboring-locations&quot; tabindex=&quot;-1&quot;&gt;Neighboring Locations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;description&quot; tabindex=&quot;-1&quot;&gt;description&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;a pocket of rolling hills and grasslands between two spurs of the great Harken Forest. It is nestled in the White River valley, a sleepy community of small villages and independent homesteads that nominally is under the banner of a Baron. This family has ruled since ancient times, claiming descendancy from an ancient empire that once ruled a vast swath of the world… whether its true or not is unknown, but the Barony of Harkenwold has held sway for at least the last century. Out of the way and without great wealth, much of the outside world ignores the Harkenwold Vale and many of the residents are happy to have it as such.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;[&lt;em&gt;8:11 PM&lt;/em&gt;]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sages and travelers say that Harkenwold is simply one piece of a great land, known in ancient times as the Nentir. An ancient name, it stretches from the Dawnforge Mountains in the east, to the Stonemarch Mountains far to the northwest, while the great Winterbole Forest is many hundreds of miles north from the Harken Forest. Some claim that all the land was once a vast forest before it was cut in two, but that would have been millenia ago and so most pay it no mind.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/harkenwold-vale/" >
+        </entry>
+        <entry>
+            <title>
+                Harkenwold OverWorld
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/harkenwold-over-world/</id>
+            <content type="html">
+                &lt;pre&gt;&lt;code class=&quot;language-leaflet&quot;&gt;id: leaflet-map 
+image: [[attachments/OverWorld.png]] 
+height: 500px 
+lat: 50 
+long: 50 
+minZoom: 1 
+maxZoom: 10 
+defaultZoom: 8 
+unit: meters 
+scale: 1 
+marker: default, 39.983334, -82.983330, [[Note]] 
+darkMode: false 
+&lt;/code&gt;&lt;/pre&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/harkenwold-over-world/" >
+        </entry>
+        <entry>
+            <title>
+                Harken
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/harken/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#city&quot;&gt;#city&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bustling Urban&lt;/p&gt;
+&lt;h3 id=&quot;meta-data&quot; tabindex=&quot;-1&quot;&gt;meta data&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;info&lt;/th&gt;
+&lt;th&gt;quantity&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;population&lt;/td&gt;
+&lt;td&gt;4,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;buildings&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&quot;citizens&quot; tabindex=&quot;-1&quot;&gt;Citizens&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;landmarks&quot; tabindex=&quot;-1&quot;&gt;Landmarks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;neighboring-locations&quot; tabindex=&quot;-1&quot;&gt;Neighboring Locations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/harken/" >
+        </entry>
+        <entry>
+            <title>
+                Hammerfast
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/hammerfast/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#castle&quot;&gt;#castle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Castle walls carved into the mountain side&lt;/p&gt;
+&lt;h1 id=&quot;tagline&quot; tabindex=&quot;-1&quot;&gt;Tagline&lt;/h1&gt;
+&lt;h3 id=&quot;meta-data&quot; tabindex=&quot;-1&quot;&gt;meta data&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;info&lt;/th&gt;
+&lt;th&gt;quantity&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;population&lt;/td&gt;
+&lt;td&gt;12,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;buildings&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&quot;citizens&quot; tabindex=&quot;-1&quot;&gt;Citizens&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dwarven society&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;landmarks&quot; tabindex=&quot;-1&quot;&gt;Landmarks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;neighboring-locations&quot; tabindex=&quot;-1&quot;&gt;Neighboring Locations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/hammerfast/" >
+        </entry>
+        <entry>
+            <title>
+                Albridge
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/albridge/</id>
+            <content type="html">
+                &lt;p&gt;&lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#city&quot;&gt;#city&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/locations/albridge/" >
+        </entry>
+        <entry>
+            <title>
+                Well of Shadows
+                
+            </title>
+            <updated>2024-03-03T23:40:39Z</updated>
+            <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/landmarks/well-of-shadows/</id>
+            <content type="html">
+                &lt;ul&gt;
+&lt;li&gt;mentioned by the captured enemies in &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Sessions%20%F0%9F%93%9D/Session%201011.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Session 1011&lt;/a&gt; of a large militia group&lt;/li&gt;
+&lt;/ul&gt;
+
+            </content>
+            <link href="https://dnd.tawtaw.site/campaigns/a-dance-of-matter/landmarks/well-of-shadows/" >
+        </entry>
+        <entry>
+            <title>
                 Thunderspire
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/landmarks/thunderspire/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -90,7 +730,7 @@
                 Kings Road
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/landmarks/kings-road/</id>
             <content type="html">
                 &lt;p&gt;a road leading south east out of &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Locations%20%F0%9F%93%8C/Harken.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Harken&lt;/a&gt;&lt;/p&gt;
@@ -103,7 +743,7 @@
                 Iron Vault
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/landmarks/iron-vault/</id>
             <content type="html">
                 &lt;p&gt;&lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Iron%20Circle.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Iron Circle&lt;/a&gt;&lt;/p&gt;
@@ -117,7 +757,7 @@
                 scepter of silver
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/scepter-of-silver/</id>
             <content type="html">
                 &lt;p&gt;found in the caverns&lt;/p&gt;
@@ -130,7 +770,7 @@
                 War Wistle
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/war-wistle/</id>
             <content type="html">
                 &lt;p&gt;a &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#Goliath&quot;&gt;#Goliath&lt;/a&gt; instrument to call birds&lt;/p&gt;
@@ -143,7 +783,7 @@
                 Wand of Web
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/wand-of-web/</id>
             <content type="html">
                 &lt;blockquote&gt;
@@ -166,7 +806,7 @@
                 Scroll; Word of Recall
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/scroll-word-of-recall/</id>
             <content type="html">
                 &lt;p&gt;&lt;a href=&quot;https://www.dndbeyond.com/spells/word-of-recall&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Word of Recall - Spells - D&amp;amp;D Beyond (dndbeyond.com)&lt;/a&gt;&lt;/p&gt;
@@ -186,7 +826,7 @@
                 Robe of Scintillating Colors
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/robe-of-scintillating-colors/</id>
             <content type="html">
                 &lt;p&gt;&lt;a href=&quot;https://www.dndbeyond.com/magic-items/4740-robe-of-scintillating-colors&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Robe of Scintillating Colors - Magic Items - D&amp;amp;D Beyond (dndbeyond.com)&lt;/a&gt;&lt;/p&gt;
@@ -206,7 +846,7 @@
                 Red Glimmer
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/red-glimmer/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -223,7 +863,7 @@
                 Orb of Direction
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/orb-of-direction/</id>
             <content type="html">
                 &lt;blockquote&gt;
@@ -242,7 +882,7 @@
                 Load Stone
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/load-stone/</id>
             <content type="html">
                 &lt;p&gt;Magic stone that that gives the user a sense of direction of where to go.&lt;/p&gt;
@@ -255,7 +895,7 @@
                 Cloak of Elvenkind
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/cloak-of-elvenkind/</id>
             <content type="html">
                 &lt;p&gt;Wondrous Item, uncommon (requires attunement)&lt;/p&gt;
@@ -273,7 +913,7 @@
                 Bracers of Archery
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/items/bracers-of-archery/</id>
             <content type="html">
                 &lt;blockquote&gt;
@@ -292,7 +932,7 @@
                 Woodsingers
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/woodsingers/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -307,7 +947,7 @@
                 Twisted Rune
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/twisted-rune/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -324,14 +964,14 @@
                 Sisterhood of Delfas
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/sisterhood-of-delfas/</id>
             <content type="html">
                 &lt;p&gt;found in the &lt;a href=&quot;https://dnd.tawtaw.site/Campaigns/A%20Dance%20of%20Matter/Locations%20%F0%9F%93%8C/witchroads.md&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;witchroads&lt;/a&gt; cavern&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Campaigns/A Dance of Matter/NPCs 🤖/Peneloper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Campaigns/A Dance of Matter/NPCs 🤖/Alliki&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://dnd.tawtaw.site/404&quot; target=&quot;&quot;&gt;Campaigns/A Dance of Matter/NPCs 🤖/Amara&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/alliki/&quot;&gt;Campaigns/A Dance of Matter/NPCs 🤖/Alliki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://dnd.tawtaw.site/campaigns/a-dance-of-matter/np-cs/amara/&quot;&gt;Campaigns/A Dance of Matter/NPCs 🤖/Amara&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
             </content>
@@ -342,7 +982,7 @@
                 Iron Circle
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/iron-circle/</id>
             <content type="html">
                 &lt;h3 id=&quot;description&quot; tabindex=&quot;-1&quot;&gt;description&lt;/h3&gt;
@@ -363,7 +1003,7 @@
                 Dahrlodwelf
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/dahrlodwelf/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -379,7 +1019,7 @@
                 Circle Jerkers
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/clans/circle-jerkers/</id>
             <content type="html">
                 &lt;h3 id=&quot;description&quot; tabindex=&quot;-1&quot;&gt;description&lt;/h3&gt;
@@ -403,7 +1043,7 @@
                 Kyton Paramor
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/beasts/kyton-paramor/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/Kyton_Paramore.jpg&quot; alt=&quot;Kyton_Paramore&quot; /&gt;&lt;/p&gt;
@@ -416,7 +1056,7 @@
                 Hellhound
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/beasts/hellhound/</id>
             <content type="html">
                 &lt;p&gt;~&lt;corgi&gt;~&lt;br /&gt;
@@ -430,7 +1070,7 @@
                 Flame Drake
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/beasts/flame-drake/</id>
             <content type="html">
                 &lt;p&gt;&lt;img src=&quot;https://dnd.tawtaw.site/img/user/attachments/FlameDrake.jpg&quot; alt=&quot;FlameDrake&quot; /&gt;&lt;/p&gt;
@@ -443,7 +1083,7 @@
                 Big beast
                 
             </title>
-            <updated>2024-03-03T23:39:26Z</updated>
+            <updated>2024-03-03T23:40:39Z</updated>
             <id>https://dnd.tawtaw.site/campaigns/a-dance-of-matter/beasts/big-beast/</id>
             <content type="html">
                 &lt;p&gt;big beast that is big check me out how big this beast is&lt;/p&gt;
