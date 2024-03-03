@@ -487,6 +487,17 @@
         
     
                     
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/landmarks/thunderspire/">Thunderspire </a>
+                </div>
+            
+        </div>
+        
+    
+                    
                 </div>
             
         </div>
@@ -684,7 +695,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-03T23:38:34.660Z';
+        const searchIndexDate = '2024-03-03T23:39:34.449Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -696,9 +707,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-03T23:38:34.660Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-03T23:39:34.449Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-03T23:38:34.660Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-03T23:39:34.449Z', docs}));
             window.docs = docs
             window.index = index;
         }
