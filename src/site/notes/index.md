@@ -21,7 +21,7 @@ All things DnD will live here
 ## Recently Modified 
 | File                                                                      | Last modified      |
 | ------------------------------------------------------------------------- | ------------------ |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1029\|Session 1029]] | 03.03.2024 - 17:27 |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1029\|Session 1029]] | 03.03.2024 - 17:41 |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1028\|Session 1028]] | 25.02.2024 - 20:07 |
 | [[Campaigns/A Dance of Matter/Beasts 🐻/Delfas Sister\|Delfas Sister]] | 25.02.2024 - 20:06 |
 | [[Campaigns/A Dance of Matter/NPCs 🤖/Ilyana\|Ilyana]]                 | 25.02.2024 - 20:05 |
