@@ -44,7 +44,7 @@
 
 
 
-![Medusa_Priestess](/img/user/attachments/Medusa_Priestess.webp)
+![attachments/Medusa_Priestess.webp|Medusa_Priestess](/img/user/attachments/Medusa_Priestess.webp)
 
 </div></div>
 
