@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Sessions 📝/Session 1029/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1029/"}
 ---
 
 ![attachments/session-witchroads-03.png|session-witchroads-03](/img/user/attachments/session-witchroads-03.png)
@@ -28,3 +28,8 @@
 	 - 4 [[Campaigns/A Dance of Matter/Beasts 🐻/Water Elemental\|Water Elemental]]s
  - [[Campaigns/A Dance of Matter/Players 👤/LoThaRRan\|LoThaRRan]] deploys the pocket boat. The [[Campaigns/A Dance of Matter/Beasts 🐻/Water Elemental\|Water Elemental]]s turn at the crashing sound of the vessel
  - the [[Campaigns/A Dance of Matter/NPCs 🤖/Teal Blue Elf\|Teal Blue Elf]] summons reinforcements. 
+## Final Form
+![attachments/session-witchroads-06.png](/img/user/attachments/session-witchroads-06.png)
+- the [[Campaigns/A Dance of Matter/NPCs 🤖/Teal Blue Elf\|Teal Blue Elf]] evolves into a menacing [[Campaigns/A Dance of Matter/Beasts 🐻/Air Spirit\|Air Spirit]] in the center of the field
+- [[Campaigns/A Dance of Matter/Players 👤/LoThaRRan\|LoThaRRan]] #nat20 for `27` points of damage
+
