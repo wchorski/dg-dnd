@@ -2233,7 +2233,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T01:12:55.914Z';
+        const searchIndexDate = '2024-03-04T01:14:42.344Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2245,9 +2245,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T01:12:55.914Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T01:14:42.344Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T01:12:55.914Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T01:14:42.344Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2494,7 +2494,7 @@
       </header>
       
       
-      <p>!<a class="internal-link is-unresolved" href="/404" target=""> Delfas_Sister </a></p>
+      <p>!<a class="internal-link is-unresolved" href="/404" target="">Delfas_Sister</a></p>
 
       
       
