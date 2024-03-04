@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/amara/"}
 ---
 
-[Sisterhood of Delfas](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Sisterhood%20of%20Delfas.md)
+[[Campaigns/A Dance of Matter/Clans ⚔/Sisterhood of Delfas\|Sisterhood of Delfas]]
