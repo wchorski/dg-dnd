@@ -2233,7 +2233,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T01:14:42.344Z';
+        const searchIndexDate = '2024-03-04T01:19:53.318Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2245,9 +2245,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T01:14:42.344Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T01:19:53.318Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T01:14:42.344Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T01:19:53.318Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2494,7 +2494,42 @@
       </header>
       
       
-      <p>!<a class="internal-link is-unresolved" href="/404" target="">Delfas_Sister</a></p>
+      <p>image w alias<br>
+<picture src="/img/user/attachments/Delfas_Sister.jpg" alt="attachments/Delfas_Sister.jpg|Delfas_Sister"><source       media="(max-width:480px)"
+      srcset="/img/optimized/VlLcyzLB7m-500.webp"
+      type="image/webp"
+      >
+      <source       media="(max-width:480px)"
+      srcset="/img/optimized/VlLcyzLB7m-500.jpeg"
+      >
+      <source         media="(max-width:1920px)"
+        srcset="/img/optimized/VlLcyzLB7m-700.webp"
+        type="image/webp"
+        ><source         media="(max-width:1920px)"
+        srcset="/img/optimized/VlLcyzLB7m-700.jpeg"
+        ><img       class=""
+      src="/img/user/attachments/Delfas_Sister.jpg"
+      alt="attachments/Delfas_Sister.jpg|Delfas_Sister"
+      width=""
+      ></picture></p>
+<p>img no alias<br>
+<picture src="/img/user/attachments/Delfas_Sister.jpg" alt="attachments/Delfas_Sister.jpg"><source       media="(max-width:480px)"
+      srcset="/img/optimized/VlLcyzLB7m-500.webp"
+      type="image/webp"
+      >
+      <source       media="(max-width:480px)"
+      srcset="/img/optimized/VlLcyzLB7m-500.jpeg"
+      >
+      <source         media="(max-width:1920px)"
+        srcset="/img/optimized/VlLcyzLB7m-700.webp"
+        type="image/webp"
+        ><source         media="(max-width:1920px)"
+        srcset="/img/optimized/VlLcyzLB7m-700.jpeg"
+        ><img       class=""
+      src="/img/user/attachments/Delfas_Sister.jpg"
+      alt="attachments/Delfas_Sister.jpg"
+      width=""
+      ></picture></p>
 
       
       
