@@ -8,7 +8,7 @@
 
 ### visual (picture)
 ### connections
-- [Lucas](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Lucas.md) (part of his original dragonborn troop)
+- [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]] (part of his original dragonborn troop)
 ### description
 - female, 
 - middle aged, 
