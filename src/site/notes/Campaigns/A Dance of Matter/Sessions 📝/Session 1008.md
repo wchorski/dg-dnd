@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1008/"}
+{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Sessions 📝/Session 1008/"}
 ---
 
 
 ## Two Tanks enter a Bar
-- [Lucas](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Lucas.md) & [Broly](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Broly.md) are doing a sidequest 
-- still in the [Dahrlodwelf](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Dahrlodwelf.md) settlement. It's large an expansive.
+- [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]] & [[Campaigns/A Dance of Matter/Players 👤/Broly\|Broly]] are doing a sidequest 
+- still in the [[Campaigns/A Dance of Matter/Clans ⚔/Dahrlodwelf\|Dahrlodwelf]] settlement. It's large an expansive.
 - **Broley** senses with Nature
 	- very little life
 	- insects, trilobites, crabs, moss
@@ -16,7 +16,7 @@
 	- very dangerous volcanic cavities
 	- There is a Dwarven settlement 30 miles to north west that swaps good (metal, gems, food)
 	- a gem that is prized beyond all others. **Red glimmer** crystal. Has magical properties
-	- we meet [Elder Gargadilly](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Elder%20Gargadilly.md)
+	- we meet [[Campaigns/A Dance of Matter/NPCs 🤖/Elder Gargadilly\|Elder Gargadilly]]
 	- we crawl into a small, homey, rock hut to meet her.
 	- they is a coal burning furnace. 
 	- **Lucas** - "have you seen dragonborns before?"
@@ -26,16 +26,16 @@
 		- grabs **Lucas's** hand and accounts for his early life and long one to come
 		- **Gargadilly** - "how connect are you to your elder gods? Do you draw power from them?"
 		- **The Titans** - shaped the world from the beginning
-	- [Broly](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Broly.md) was brought into the world by **The Titans**. Essentially born from the same breath that mountains were made
-	- [Elder Gargadilly](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Elder%20Gargadilly.md) asks for the party to find and send word to a [Weavil Gut](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Weavil%20Gut.md)
-	- we ask about the [Red Glimmer](Campaigns/A%20Dance%20of%20Matter/Items%20💍/Red%20Glimmer.md) and where to find it. We will know once we complete her fetch quest
-- We set out to find [Weavil Gut](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Weavil%20Gut.md)
+	- [[Campaigns/A Dance of Matter/Players 👤/Broly\|Broly]] was brought into the world by **The Titans**. Essentially born from the same breath that mountains were made
+	- [[Campaigns/A Dance of Matter/NPCs 🤖/Elder Gargadilly\|Elder Gargadilly]] asks for the party to find and send word to a [[Campaigns/A Dance of Matter/NPCs 🤖/Weavil Gut\|Weavil Gut]]
+	- we ask about the [[Campaigns/A Dance of Matter/Items 💍/Red Glimmer\|Red Glimmer]] and where to find it. We will know once we complete her fetch quest
+- We set out to find [[Campaigns/A Dance of Matter/NPCs 🤖/Weavil Gut\|Weavil Gut]]
 - we enter a mossy cave with a few tunnels
 - hearing a rhythmic clicking deeper in the tunnel
-- two [Hooked Horror](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Hooked%20Horror.md) is scanning the surrounding area. Combat ensues
+- two [[Campaigns/A Dance of Matter/NPCs 🤖/Hooked Horror\|Hooked Horror]] is scanning the surrounding area. Combat ensues
 - **Lucas** takes a heavy `19` hit
 - **Broly** hits a **Horror** with a heavy `30` smackeroo 
-- **Lucas** grapples with `Hold Person`. [Hooked Horror](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Hooked%20Horror.md) is weak against 
+- **Lucas** grapples with `Hold Person`. [[Campaigns/A Dance of Matter/NPCs 🤖/Hooked Horror\|Hooked Horror]] is weak against 
 - The Party goes deeper and finds a **Horror** with 3 kin feasting on a motionless humanoid body
 - **Lucas** uses `Holy Weapon` to gain aggro of the **Hooked Beast** and it's young
 - We venture to the other fork, and follow the glitter
