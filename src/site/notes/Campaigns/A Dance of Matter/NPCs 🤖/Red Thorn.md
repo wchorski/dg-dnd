@@ -6,7 +6,7 @@
 | --------- | ------ | ----- |
 | #NPC   | #human | #    |
 
-![](/img/user/attachments/img-Redthorn.jpg)
+![attachments/img-Redthorn.jpg](/img/user/attachments/img-Redthorn.jpg)
 ### connections
-- leader of the [Iron Circle](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Iron%20Circle.md)
-- [Celtis](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Celtis.md). a traitor to the [Iron Circle](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Iron%20Circle.md)
+- leader of the [[Campaigns/A Dance of Matter/Clans ⚔/Iron Circle\|Iron Circle]]
+- [[Campaigns/A Dance of Matter/NPCs 🤖/Celtis\|Celtis]]. a traitor to the [[Campaigns/A Dance of Matter/Clans ⚔/Iron Circle\|Iron Circle]]
