@@ -291,17 +291,6 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/clans/circle-jerkers/">Circle Jerkers </a>
-                </div>
-            
-        </div>
-        
-    
-                    
-                        
-    
-        <div x-show="isOpen" style="display:none" class="filelist">
-            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/clans/dahrlodwelf/">Dahrlodwelf </a>
                 </div>
             
@@ -2178,7 +2167,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:47:02.423Z';
+        const searchIndexDate = '2024-03-04T02:47:54.672Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2179,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:54.672Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:54.672Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2482,7 +2471,7 @@
 <div class="markdown-embed-title">
 <h1 id="medusa-priestess" tabindex="-1">Medusa Priestess</h1>
 </div>
-<p><picture src="/img/user/attachments/Medusa_Priestess.webp" alt="Medusa_Priestess"><source       media="(max-width:480px)"
+<p><picture src="/img/user/attachments/Medusa_Priestess.webp" alt="attachments/Medusa_Priestess.webp|Medusa_Priestess"><source       media="(max-width:480px)"
       srcset="/img/optimized/T4RdZxSKXm-500.webp"
       type="image/webp"
       >
@@ -2496,13 +2485,13 @@
         srcset="/img/optimized/T4RdZxSKXm-674.jpeg"
         ><img       class=""
       src="/img/user/attachments/Medusa_Priestess.webp"
-      alt="Medusa_Priestess"
+      alt="attachments/Medusa_Priestess.webp|Medusa_Priestess"
       width=""
       ></picture></p>
 </div></div>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/lo-tha-r-ran/">LoThaRRan</a> chugs in the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/medusa-priestess/">Medusa Priestess</a>'s Face</li>
-<li>the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/medusa-priestess/">Medusa Priestess</a> calls for a truths. She will step aside and let the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/circle-jerkers/">Circle Jerkers</a> continue their crusade if they leave <em>this witch and her cohorts</em> alone</li>
+<li>the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/medusa-priestess/">Medusa Priestess</a> calls for a truths. She will step aside and let the <a class="internal-link is-unresolved" href="/404" target="">Circle Jerkers</a> continue their crusade if they leave <em>this witch and her cohorts</em> alone</li>
 </ul>
 
       

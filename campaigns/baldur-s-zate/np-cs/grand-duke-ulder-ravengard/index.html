@@ -291,17 +291,6 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/clans/circle-jerkers/">Circle Jerkers </a>
-                </div>
-            
-        </div>
-        
-    
-                    
-                        
-    
-        <div x-show="isOpen" style="display:none" class="filelist">
-            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/clans/dahrlodwelf/">Dahrlodwelf </a>
                 </div>
             
@@ -2178,7 +2167,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:47:02.423Z';
+        const searchIndexDate = '2024-03-04T02:47:54.672Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2179,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:54.672Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:54.672Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2679,6 +2668,7 @@
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
                                           <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/baldur-s-zate/baldur-s-zate/" data-note-icon="" class="backlink">Baldur&#39;s Zate</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/baldur-s-zate/locations/the-flaming-fist/" data-note-icon="" class="backlink">The Flaming Fist</a>
                                                 </div></div>
                               </div>
                         

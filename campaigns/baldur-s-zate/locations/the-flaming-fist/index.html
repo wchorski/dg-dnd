@@ -291,17 +291,6 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/clans/circle-jerkers/">Circle Jerkers </a>
-                </div>
-            
-        </div>
-        
-    
-                    
-                        
-    
-        <div x-show="isOpen" style="display:none" class="filelist">
-            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/clans/dahrlodwelf/">Dahrlodwelf </a>
                 </div>
             
@@ -2178,7 +2167,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:47:02.423Z';
+        const searchIndexDate = '2024-03-04T02:47:54.672Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2179,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:54.672Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:54.672Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2440,7 +2429,7 @@
       
       
       <p>a military police force that walks both sides of the law depending on who you ask.</p>
-<p>leader <a href="Campaigns/Baldur's%20Zate/NPCs/Grand%20Duke%20Ulder%20Ravengard.md" target="_blank" class="external-link">Grand Duke Ulder Ravengard</a></p>
+<p>leader <a class="internal-link" target="" data-note-icon="" href="/campaigns/baldur-s-zate/np-cs/grand-duke-ulder-ravengard/">Grand Duke Ulder Ravengard</a></p>
 <p>Despite some bad apples, there are members who genuinely wish to help and protect the citizens of Baldur's Gate.</p>
 <p>As the newest recruits, your party is put out on the front lines to learn the beats of the streets.</p>
 
