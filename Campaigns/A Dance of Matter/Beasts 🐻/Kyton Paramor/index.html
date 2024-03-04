@@ -2233,7 +2233,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T01:03:05.225Z';
+        const searchIndexDate = '2024-03-04T01:12:55.914Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2245,9 +2245,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T01:03:05.225Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T01:12:55.914Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T01:03:05.225Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T01:12:55.914Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2511,6 +2511,7 @@
       alt="attachments/Kyton_Paramore.jpg| Kyton_Paramore "
       width=""
       ></picture></p>
+<p>kyton wiki link image</p>
 
       
       
