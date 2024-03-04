@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/landmarks/iron-vault/"}
 ---
 
-[Iron Circle](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Iron%20Circle.md)
+[[Campaigns/A Dance of Matter/Clans ⚔/Iron Circle\|Iron Circle]]
 
-[Harken](Campaigns/A%20Dance%20of%20Matter/Locations%20📌/Harken.md)
+[[Campaigns/A Dance of Matter/Locations 📌/Harken\|Harken]]
