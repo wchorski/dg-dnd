@@ -7,22 +7,22 @@
 
 [Dungeon Master's Vault (dungeonmastersvault.com)](https://www.dungeonmastersvault.com/pages/dnd/5e/character-builder)
 ## Character Sheet
-![Lucas_Laurde--Dragonborn_Paladin--Lv_10](attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_10.pdf)
+![[attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_10.pdf|Lucas_Laurde--Dragonborn_Paladin--Lv_10]]
 
 
 ## Items
-- [Robe of Scintillating Colors](Campaigns/A%20Dance%20of%20Matter/Items%20💍/Robe%20of%20Scintillating%20Colors.md)
+- [[Campaigns/A Dance of Matter/Items 💍/Robe of Scintillating Colors\|Robe of Scintillating Colors]]
 - bag of gems (opal, ect)
 - ~~ruby set in gold ring~~ given back to grieving Dwarf father
 - shield that fuel with breath weapon.  (heavy steal shield, +1, magic 1d6)
-- small Zinc trinket (key, controller?) found in [Thunderspire](Campaigns/A%20Dance%20of%20Matter/Landmarks%20⛰/Thunderspire.md) alchemist workshop
+- small Zinc trinket (key, controller?) found in [[Campaigns/A Dance of Matter/Landmarks ⛰/Thunderspire\|Thunderspire]] alchemist workshop
 - 10gp of ruby dust
-- 5 [Red Glimmer](Campaigns/A%20Dance%20of%20Matter/Items%20💍/Red%20Glimmer.md)
+- 5 [[Campaigns/A Dance of Matter/Items 💍/Red Glimmer\|Red Glimmer]]
 - (non sentient) breast plate *equipped*
 - fire shield *equipped* 
-- Falcata - (fire damage) (counter spell a fire spell) ![falcata | 150](/img/user/attachments/falcata.jpg)
-- ![helmet-dragon|100](/img/user/attachments/helmet-dragon.png)
-- small knife stolen from cultist from [witchroads](Campaigns/A%20Dance%20of%20Matter/Locations%20📌/witchroads.md)
+- Falcata - (fire damage) (counter spell a fire spell) ![attachments/falcata.jpg|falcata | 150](/img/user/attachments/falcata.jpg)
+- ![attachments/helmet-dragon.png|helmet-dragon|100](/img/user/attachments/helmet-dragon.png)
+- small knife stolen from cultist from [[Campaigns/A Dance of Matter/Locations 📌/witchroads\|witchroads]]
 
 Damage Resistances: radiant, fire
 - [Citrine gem](https://www.minerals.net/mineral/citrine.aspx) (brown quartz)
@@ -32,7 +32,7 @@ Damage Resistances: radiant, fire
 
 
 ### connections
-- part of the [Circle Jerkers](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Circle%20Jerkers.md)
+- part of the [[Campaigns/A Dance of Matter/Clans ⚔/Circle Jerkers\|Circle Jerkers]]
 
 ### Equipment 
 - Backpack 
