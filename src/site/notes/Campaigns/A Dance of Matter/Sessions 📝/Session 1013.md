@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1013/"}
+{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Sessions 📝/Session 1013/"}
 ---
 
 
 ## 2023-07-09
 
-Straight outta [Harken](Campaigns/A%20Dance%20of%20Matter/Locations%20📌/Harken.md)
+Straight outta [[Campaigns/A Dance of Matter/Locations 📌/Harken\|Harken]]
 
-- [Silver Nail](Campaigns/A%20Dance%20of%20Matter/Locations%20📌/Silver%20Nail.md) 
-- we encounter 2 hostile [The Tar Monster](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/The%20Tar%20Monster.md) devil
-- ![TarDevil|100](/img/user/attachments/TarDevil.jpeg)
-- [Brei Teethling](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Brei%20Teethling.md) jumps [Broly](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Broly.md) out of nowhere
-- [Bromdan](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Bromdan.md) absolutely destroys one [The Tar Monster](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/The%20Tar%20Monster.md) with a brilliant radiance 
+- [[Campaigns/A Dance of Matter/Locations 📌/Silver Nail\|Silver Nail]] 
+- we encounter 2 hostile [[Campaigns/A Dance of Matter/NPCs 🤖/The Tar Monster\|The Tar Monster]] devil
+- ![attachments/TarDevil.jpeg|TarDevil|100](/img/user/attachments/TarDevil.jpeg)
+- [[Campaigns/A Dance of Matter/NPCs 🤖/Brei Teethling\|Brei Teethling]] jumps [[Campaigns/A Dance of Matter/Players 👤/Broly\|Broly]] out of nowhere
+- [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]] absolutely destroys one [[Campaigns/A Dance of Matter/NPCs 🤖/The Tar Monster\|The Tar Monster]] with a brilliant radiance 
 - a 3rd **Tar Monster** enters the fight
-- [Lucas](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Lucas.md) critical **Divine Smite** for ==~132 points ==of damage with **Hunter's Mark** 
+- [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]] critical **Divine Smite** for ==~132 points ==of damage with **Hunter's Mark** 
 - two new enemies join the fight 
-	- [Stefan Raquel](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Stefan%20Raquel.md) swordsman and [Lyzza](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Lyzza.md) witch
-- a swarm of ![Imp_Weakest|100](/img/user/attachments/Imp_Weakest.jpg)
-- [Stefan Raquel](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Stefan%20Raquel.md) goes stealth mode and hides in plain sight
+	- [[Campaigns/A Dance of Matter/NPCs 🤖/Stefan Raquel\|Stefan Raquel]] swordsman and [[Campaigns/A Dance of Matter/NPCs 🤖/Lyzza\|Lyzza]] witch
+- a swarm of ![attachments/Imp_Weakest.jpg|Imp_Weakest|100](/img/user/attachments/Imp_Weakest.jpg)
+- [[Campaigns/A Dance of Matter/NPCs 🤖/Stefan Raquel\|Stefan Raquel]] goes stealth mode and hides in plain sight
 - 
