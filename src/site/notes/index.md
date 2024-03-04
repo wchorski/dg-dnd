@@ -2,36 +2,40 @@
 {"dg-publish":true,"permalink":"/index/","title":"Dungeon's and Dragons","tags":["gardenEntry"]}
 ---
 
-
-All things DnD will live here
-
 ## Campaigns
-- [[ Campaigns/A%20Dance%20of%20Matter/Matter.md \| Matter ]]
 - [[Campaigns/A Dance of Matter/Matter\|Matter]]
-- [Baldur's Zate](Campaigns/Baldur's%20Zate/Baldur's%20Zate.md)
 - [[Campaigns/Baldur's Zate/Baldur's Zate\|Baldur's Zate]]
 
-[[new note with para (thing) in it \| testnote]]
-[[new note with para (thing) in it\|new note with para (thing) in it]]
-[new note with para (thing) in it](new%20note%20with%20para%20thing)%20in%20it.md)
-[Scroll; Word of Recall](Campaigns/A%20Dance%20of%20Matter/Items%20💍/Scroll;%20Word%20of%20Recall.md)
-[test file like this &${}+](testfolder/test%20file%20like%20this%20&${}+.md)
-[dg-dnd - Overview - Vercel](https://vercel.com/wchorski/dg-dnd)
+## A Dance of Matter
+### Recent Sessions
+| File                                                                      | date              |
+| ------------------------------------------------------------------------- | ----------------- |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1029\|Session 1029]] | March 03, 2024    |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1028\|Session 1028]] | February 25, 2024 |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1027\|Session 1027]] | February 18, 2024 |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 006\|Session 006]]   | August 04, 2022   |
+
+{ .block-language-dataview}
+
+### Players
+| File                                                                     | race                                     | class                       | alignment       | level |
+| ------------------------------------------------------------------------ | ---------------------------------------- | --------------------------- | --------------- | ----- |
+| [[Campaigns/A Dance of Matter/Players 👤/Broly\|Broly]]               | goliath                                  | <ul><li>barbarian</li></ul> | chaotic_good    | 10    |
+| [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]]           | dwarf                                    | <ul><li>cleric</li></ul>    | neutral_good    | 10    |
+| [[Campaigns/A Dance of Matter/Players 👤/Jianni\|Jianni]]             | <ul><li>half_elf</li><li>human</li></ul> | <ul><li>bard</li></ul>      | chaotic_good    | 5     |
+| [[Campaigns/A Dance of Matter/Players 👤/LoThaRRan\|LoThaRRan]]       | <ul><li>dwarf</li></ul>                  | <ul><li>fighter</li></ul>   | chaotic_neutral | 10    |
+| [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]]               | <ul><li>dragonborn</li></ul>             | <ul><li>paladin</li></ul>   | lawful_neutral  | 10    |
+| [[Campaigns/A Dance of Matter/Players 👤/Silver Liota\|Silver Liota]] | <ul><li>druid</li></ul>                  | <ul><li>druid</li></ul>     | chaotic_good    | 10    |
+
+{ .block-language-dataview}
 
 ## Recently Modified 
 | File                                                                      | Last modified      |
 | ------------------------------------------------------------------------- | ------------------ |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1029\|Session 1029]] | 03.03.2024 - 17:41 |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1028\|Session 1028]] | 25.02.2024 - 20:07 |
-| [[Campaigns/A Dance of Matter/Beasts 🐻/Delfas Sister\|Delfas Sister]] | 25.02.2024 - 20:06 |
-| [[Campaigns/A Dance of Matter/NPCs 🤖/Ilyana\|Ilyana]]                 | 25.02.2024 - 20:05 |
+| [[Campaigns/A Dance of Matter/Sessions 📝/index\|index]]               | 03.03.2024 - 20:36 |
+| [[index\|index]]                                                       | 03.03.2024 - 20:35 |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1016\|Session 1016]] | 03.03.2024 - 20:28 |
+| [[Campaigns/A Dance of Matter/Beasts 🐻/Nuckelavee\|Nuckelavee]]       | 03.03.2024 - 20:28 |
 
 { .block-language-dataview}
-
-## Players
-| File | race | class | alignment | level |
-| ---- | ---- | ----- | --------- | ----- |
-
-{ .block-language-dataview}
-
 
