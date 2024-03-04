@@ -8,12 +8,12 @@
 | #player   | #dwarf | #cleric | #neutral_good | #level5 |
 ![attachments/Bromdan.png](/img/user/attachments/Bromdan.png)
 ### connections
-- brothers with [LoThaRRan](Campaigns/A%20Dance%20of%20Matter/Players%20👤/LoThaRRan.md)
-- part of [Circle Jerkers](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Circle%20Jerkers.md)
-- [Oran's Rest](Campaigns/A%20Dance%20of%20Matter/Locations%20📌/Oran's%20Rest.md) native
+- brothers with [[Campaigns/A Dance of Matter/Players 👤/LoThaRRan\|LoThaRRan]]
+- part of [[Campaigns/A Dance of Matter/Clans ⚔/Circle Jerkers\|Circle Jerkers]]
+- [[Campaigns/A Dance of Matter/Locations 📌/Oran's Rest\|Oran's Rest]] native
 
 ### character sheet
-![](attachments/Bromdan_Barr_-_LV_5.pdf)
+![[attachments/Bromdan_Barr_-_LV_5.pdf|]]
 
 ---
 ### actions
