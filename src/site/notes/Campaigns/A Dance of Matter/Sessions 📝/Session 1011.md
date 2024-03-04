@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1011/"}
+{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Sessions 📝/Session 1011/"}
 ---
 
 
 ## The gang is found in combat
 - we make quick work of a gang of mercenaries
 - we imprison 2
-	- [Lucas](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Lucas.md) & [Bromdan](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Bromdan.md) good cop bad cop information out of the POWs
+	- [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]] & [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]] good cop bad cop information out of the POWs
 	- they work with the underground witch
 	- small platoon of a mighty army
-	- the mighty of their host [Well of Shadows](Campaigns/A%20Dance%20of%20Matter/Landmarks%20⛰/Well%20of%20Shadows.md)
-	- [Bromdan](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Bromdan.md) rids the world of these vicious characters
+	- the mighty of their host [[Campaigns/A Dance of Matter/Landmarks ⛰/Well of Shadows\|Well of Shadows]]
+	- [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]] rids the world of these vicious characters
 - A trumpet is heard blasting in the distance
 	- it's the sound of a band of **Goliaths**
 	- we find a whistle in the camp ground
