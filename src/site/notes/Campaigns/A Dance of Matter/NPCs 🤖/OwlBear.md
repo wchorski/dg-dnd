@@ -3,7 +3,7 @@
 ---
 
 
-![owl-bear|400](/img/user/attachments/owl-bear.jpg)
+![attachments/owl-bear.jpg|owl-bear|400](/img/user/attachments/owl-bear.jpg)
 - tireless
 - vicious
 - high stealth
