@@ -5,4 +5,4 @@
 - she is an older gnome in the settlement
 - knows about the **Red Glimmer**
 - ancient age
-- part of the [Dahrlodwelf](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Dahrlodwelf.md) tribe
+- part of the [[Campaigns/A Dance of Matter/Clans ⚔/Dahrlodwelf\|Dahrlodwelf]] tribe
