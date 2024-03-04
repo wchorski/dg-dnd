@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Sessions 📝/Session 1003/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1003/"}
 ---
 
 ## Road to Hammerfast 
