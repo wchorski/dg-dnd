@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Sessions 📝/Session 1029/"}
 ---
 
-![session-witchroads-03](/img/user/attachments/session-witchroads-03.png)
+![attachments/session-witchroads-03.png|session-witchroads-03](/img/user/attachments/session-witchroads-03.png)
 
 ## mysterious pond
-- [Lucas](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Lucas.md) finds the depth is surprisingly deep. Deeper than what his javelin could go down
-- [Bromdan](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Bromdan.md) notes copper outlining the pool's edges. He uses Heat Metal to start boiling the water
+- [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]] finds the depth is surprisingly deep. Deeper than what his javelin could go down
+- [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]] notes copper outlining the pool's edges. He uses Heat Metal to start boiling the water
 - a [[Campaigns/A Dance of Matter/Beasts 🐻/Water Elemental Speaker\|Water Elemental Speaker]] is encountered
 
 ## Water Elemental
