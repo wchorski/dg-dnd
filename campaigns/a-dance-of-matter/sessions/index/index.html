@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Session 013</title>
+    <title>Sessions 📝</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script src="https://fastly.jsdelivr.net/npm/mermaid@9.4.0/dist/mermaid.min.js"></script>
 <script>
@@ -1246,29 +1246,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/2021/">2021 </a>
-                </div>
-            
-        </div>
-        
-    
-                    
-                        
-    
-        <div x-show="isOpen" style="display:none" class="filelist">
-            
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-001/">Session 001 </a>
-                </div>
-            
-        </div>
-        
-    
-                    
-                        
-    
-        <div x-show="isOpen" style="display:none" class="filelist">
-            
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-002/">Session 002 </a>
+                <div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/index/">index </a>
                 </div>
             
         </div>
@@ -1346,72 +1324,6 @@
         <div x-show="isOpen" style="display:none" class="filelist">
             
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-009/">Session 009 </a>
-                </div>
-            
-        </div>
-        
-    
-                    
-                        
-    
-        <div x-show="isOpen" style="display:none" class="filelist">
-            
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-010/">Session 010 </a>
-                </div>
-            
-        </div>
-        
-    
-                    
-                        
-    
-        <div x-show="isOpen" style="display:none" class="filelist">
-            
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-011/">Session 011 </a>
-                </div>
-            
-        </div>
-        
-    
-                    
-                        
-    
-        <div x-show="isOpen" style="display:none" class="filelist">
-            
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-012/">Session 012 </a>
-                </div>
-            
-        </div>
-        
-    
-                    
-                        
-    
-        <div x-show="isOpen" style="display:none" class="filelist">
-            
-                <div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-013/">Session 013 </a>
-                </div>
-            
-        </div>
-        
-    
-                    
-                        
-    
-        <div x-show="isOpen" style="display:none" class="filelist">
-            
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1000/">Session 1000 </a>
-                </div>
-            
-        </div>
-        
-    
-                    
-                        
-    
-        <div x-show="isOpen" style="display:none" class="filelist">
-            
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1001/">Session 1001 </a>
                 </div>
             
         </div>
@@ -2067,6 +1979,17 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/templates/npc/">_NPC </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/templates/session/">_session </a>
                 </div>
             
@@ -2255,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:39:36.024Z';
+        const searchIndexDate = '2024-03-04T02:40:12.604Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2267,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:39:36.024Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:40:12.604Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:39:36.024Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:40:12.604Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2501,7 +2424,7 @@
     <main class="content cm-s-obsidian ">
       <header>
         
-          <h1 data-note-icon="">Session 013</h1>
+          <h1 data-note-icon="">Sessions 📝</h1>
         
         <div class="header-meta">
           
@@ -2516,30 +2439,201 @@
       </header>
       
       
-      <h2 id="current-setting" tabindex="-1">Current Setting</h2>
-<p><a href="Matter%20Campaign%F0%9F%93%81/Locations%F0%9F%93%8C/Harken.md" target="_blank" class="external-link">Harken</a></p>
-<hr>
-<h2 id="events" tabindex="-1">Events</h2>
-<ul>
-<li>Started the poker game
-<ul>
-<li>We win the hand</li>
-<li>Lucas takes the gold</li>
-</ul>
-</li>
-<li>Stagger to cliffside brewing
-<ul>
-<li>Barely stealth our way over with pocket full of gold</li>
-</ul>
-</li>
-<li>We escape Harken in wood barrels</li>
-<li>We land just north on the trail</li>
-<li>Back to Albridge
-<ul>
-<li><a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Lisette.md" target="_blank" class="external-link">Lisette</a> - dragonborn greeted Lucas</li>
-</ul>
-</li>
-</ul>
+      <h2 id="all-sessions" tabindex="-1">All Sessions</h2>
+<div class="block-language-dataview table-wrapper"><table class="dataview table-view-table">
+<thead class="table-view-thead">
+<tr class="table-view-tr-header">
+<th class="table-view-th">File</th>
+<th class="table-view-th">date</th>
+</tr>
+</thead>
+<tbody class="table-view-tbody">
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1029/">Session 1029</a></td>
+<td>March 03, 2024</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1028/">Session 1028</a></td>
+<td>February 25, 2024</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1027/">Session 1027</a></td>
+<td>February 18, 2024</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-006/">Session 006</a></td>
+<td>August 04, 2022</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-004/">Session 004</a></td>
+<td>August 03, 2022</td>
+</tr>
+<tr>
+<td><a class="internal-link is-unresolved" href="/404" target="">2021</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link is-unresolved" href="/404" target="">Session 001</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link is-unresolved" href="/404" target="">Session 002</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-003/">Session 003</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-005/">Session 005</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-007/">Session 007</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-008/">Session 008</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-009/">Session 009</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link is-unresolved" href="/404" target="">Session 010</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link is-unresolved" href="/404" target="">Session 011</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link is-unresolved" href="/404" target="">Session 012</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link is-unresolved" href="/404" target="">Session 013</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link is-unresolved" href="/404" target="">Session 1000</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link is-unresolved" href="/404" target="">Session 1001</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1002/">Session 1002</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1003/">Session 1003</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1004/">Session 1004</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1005/">Session 1005</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1006/">Session 1006</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1007/">Session 1007</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1008/">Session 1008</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1009/">Session 1009</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1010/">Session 1010</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1011/">Session 1011</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1012/">Session 1012</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1013/">Session 1013</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1014/">Session 1014</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1015/">Session 1015</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1016/">Session 1016</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1017/">Session 1017</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1018/">Session 1018</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1019/">Session 1019</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1020/">Session 1020</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1021/">Session 1021</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1022/">Session 1022</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1023/">Session 1023</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link is-unresolved" href="/404" target="">Session 1024</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1025/">Session 1025</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-1026/">Session 1026</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/session-999/">Session 999</a></td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/sessions/index/">index</a></td>
+<td>-</td>
+</tr>
+</tbody>
+</table></div>
 
       
       
@@ -2780,10 +2874,7 @@
                                           <nav class="toc">
                 <ol>
                     
-                    <li><a href="#current-setting">Current Setting</a>
-            		</li>
-
-                    <li><a href="#events">Events</a>
+                    <li><a href="#all-sessions">All Sessions</a>
             		</li>
                 </ol>
             </nav>
@@ -2797,9 +2888,8 @@
                               
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
-                                          <div class="backlink-list"><div class="backlink-card">
-                                                            <span class="no-backlinks-message">No other pages mentions this page</span>
-                                                      </div></div>
+                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/" data-note-icon="" class="backlink">Dungeon&#39;s and Dragons</a>
+                                                </div></div>
                               </div>
                         
                   
