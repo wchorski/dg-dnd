@@ -3,4 +3,4 @@
 ---
 
 
-![[ attachments/Delfas_Sister.jpg \| Delfas_Sister ]]
+![[ attachments/Delfas_Sister.jpg\|Delfas_Sister]]
