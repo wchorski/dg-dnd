@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Beasts 🐻/Flame Drake/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/flame-drake/"}
 ---
 
 
