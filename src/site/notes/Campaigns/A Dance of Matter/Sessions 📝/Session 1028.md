@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Sessions 📝/Session 1028/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1028/"}
 ---
 
 Finishing up in the [[Campaigns/A Dance of Matter/Locations 📌/witchroads\|witchroads]]
