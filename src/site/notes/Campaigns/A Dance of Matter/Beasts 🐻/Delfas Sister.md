@@ -3,4 +3,4 @@
 ---
 
 
-![Delfas_Sister](/img/user/attachments/Delfas_Sister.jpg)
+![[ attachments/Delfas_Sister.jpg \| Delfas_Sister ]]
