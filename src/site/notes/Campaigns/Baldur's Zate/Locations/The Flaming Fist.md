@@ -4,7 +4,7 @@
 
 a military police force that walks both sides of the law depending on who you ask. 
 
-leader [Grand Duke Ulder Ravengard](Campaigns/Baldur's%20Zate/NPCs/Grand%20Duke%20Ulder%20Ravengard.md)
+leader [[Campaigns/Baldur's Zate/NPCs/Grand Duke Ulder Ravengard\|Grand Duke Ulder Ravengard]]
 
 Despite some bad apples, there are members who genuinely wish to help and protect the citizens of Baldur's Gate.
 
