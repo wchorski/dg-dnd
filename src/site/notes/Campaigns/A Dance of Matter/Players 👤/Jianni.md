@@ -7,13 +7,13 @@
 | --------- | ----------------- | ----- | ------------- | ------- |
 | #player   | #half #elf #human | #bard | #chaotic_good | #level5 |
 
-![](/img/user/attachments/img-Jianni.png)
+![attachments/img-Jianni.png](/img/user/attachments/img-Jianni.png)
 
-![](attachments/Jianni_lvl_5.pdf)
+![[attachments/Jianni_lvl_5.pdf|]]
 
 ---
 ### connections
-- part of [Circle Jerkers](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Circle%20Jerkers.md)
+- part of [[Campaigns/A Dance of Matter/Clans ⚔/Circle Jerkers\|Circle Jerkers]]
 
 ### actions
 ### traits
