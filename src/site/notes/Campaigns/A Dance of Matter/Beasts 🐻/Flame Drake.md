@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/flame-drake/"}
+{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Beasts 🐻/Flame Drake/"}
 ---
 
-![FlameDrake](/img/user/attachments/FlameDrake.jpg)
+
+![attachments/FlameDrake.jpg| FlameDrake |230](/img/user/attachments/FlameDrake.jpg)
