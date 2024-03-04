@@ -192,6 +192,17 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Beasts 🐻/Delfas Sister/">Delfas Sister </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/flame-drake/">Flame Drake </a>
                 </div>
             
@@ -215,6 +226,17 @@
         <div x-show="isOpen" style="display:none" class="filelist">
             
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/kyton-paramor/">Kyton Paramor </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Beasts 🐻/Water Elemental Speaker/">Water Elemental Speaker </a>
                 </div>
             
         </div>
@@ -2198,7 +2220,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-03T23:45:40.329Z';
+        const searchIndexDate = '2024-03-04T00:51:46.781Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2210,9 +2232,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-03T23:45:40.329Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T00:51:46.781Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-03T23:45:40.329Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T00:51:46.781Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2494,7 +2516,7 @@
 <td>25.02.2024 - 20:07</td>
 </tr>
 <tr>
-<td><a class="internal-link is-unresolved" href="/404" target="">Delfas Sister</a></td>
+<td><a class="internal-link" target="" data-note-icon="" href="/Campaigns/A Dance of Matter/Beasts 🐻/Delfas Sister/">Delfas Sister</a></td>
 <td>25.02.2024 - 20:06</td>
 </tr>
 <tr>
