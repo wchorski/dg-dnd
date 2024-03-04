@@ -181,7 +181,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/big-beast/">Big beast </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Beasts 🐻/Big beast/">Big beast </a>
                 </div>
             
         </div>
@@ -203,7 +203,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/flame-drake/">Flame Drake </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Beasts 🐻/Flame Drake/">Flame Drake </a>
                 </div>
             
         </div>
@@ -214,7 +214,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/hellhound/">Hellhound </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Beasts 🐻/Hellhound/">Hellhound </a>
                 </div>
             
         </div>
@@ -225,7 +225,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/kyton-paramor/">Kyton Paramor </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Beasts 🐻/Kyton Paramor/">Kyton Paramor </a>
                 </div>
             
         </div>
@@ -1039,6 +1039,17 @@
         <div x-show="isOpen" style="display:none" class="filelist">
             
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/np-cs/tall/">Tall </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/NPCs 🤖/Teal Blue Elf/">Teal Blue Elf </a>
                 </div>
             
         </div>
@@ -2220,7 +2231,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T00:51:46.781Z';
+        const searchIndexDate = '2024-03-04T01:03:05.225Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2232,9 +2243,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T00:51:46.781Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T01:03:05.225Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T00:51:46.781Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T01:03:05.225Z', docs}));
             window.docs = docs
             window.index = index;
         }
