@@ -6,12 +6,12 @@
 | --------- | ---------- | ----------- |
 | #NPC      | #half #elf | #defaultTag |
 #dead💀
-![](/img/user/attachments/img-enemy-halfelf.jpg)
+![attachments/img-enemy-halfelf.jpg](/img/user/attachments/img-enemy-halfelf.jpg)
 ### connections
-- part of the [Iron Circle](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Iron%20Circle.md) (but is not 100% loyal)
+- part of the [[Campaigns/A Dance of Matter/Clans ⚔/Iron Circle\|Iron Circle]] (but is not 100% loyal)
 - 
 
 ### description
 - very religious 
 - willing to sacrifice for power
-- she wants to keep the Cave's [Iron Vault](Campaigns/A%20Dance%20of%20Matter/Landmarks%20⛰/Iron%20Vault.md)'s big secret door shut 
+- she wants to keep the Cave's [[Campaigns/A Dance of Matter/Landmarks ⛰/Iron Vault\|Iron Vault]]'s big secret door shut 
