@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Sessions 📝/Session 1027/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1027/"}
 ---
 
 ## Still in the Witch Roads
