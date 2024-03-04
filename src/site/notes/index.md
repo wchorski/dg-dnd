@@ -30,12 +30,12 @@
 { .block-language-dataview}
 
 ## Recently Modified 
-| File                                                                      | Last modified      |
-| ------------------------------------------------------------------------- | ------------------ |
-| [[Campaigns/A Dance of Matter/Sessions 📝/index\|index]]               | 03.03.2024 - 20:36 |
-| [[index\|index]]                                                       | 03.03.2024 - 20:35 |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1016\|Session 1016]] | 03.03.2024 - 20:28 |
-| [[Campaigns/A Dance of Matter/Beasts 🐻/Nuckelavee\|Nuckelavee]]       | 03.03.2024 - 20:28 |
+| File                                                               | Last modified      |
+| ------------------------------------------------------------------ | ------------------ |
+| [[Campaigns/A Dance of Matter/Players 👤/Broly\|Broly]]         | 03.03.2024 - 20:43 |
+| [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]]     | 03.03.2024 - 20:43 |
+| [[Campaigns/A Dance of Matter/Players 👤/Jianni\|Jianni]]       | 03.03.2024 - 20:43 |
+| [[Campaigns/A Dance of Matter/Players 👤/LoThaRRan\|LoThaRRan]] | 03.03.2024 - 20:43 |
 
 { .block-language-dataview}
 
