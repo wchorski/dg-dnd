@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/kyton-paramor/"}
+{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Beasts 🐻/Kyton Paramor/"}
 ---
 
-![Kyton_Paramore](/img/user/attachments/Kyton_Paramore.jpg)
+![attachments/Kyton_Paramore.jpg| Kyton_Paramore ](/img/user/attachments/Kyton_Paramore.jpg)
