@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/red-glimmer/"}
 ---
 
-- hinted by [Elder Gargadilly](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Elder%20Gargadilly.md) and found in [Dahrlodwelf](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Dahrlodwelf.md)
+- hinted by [[Campaigns/A Dance of Matter/NPCs 🤖/Elder Gargadilly\|Elder Gargadilly]] and found in [[Campaigns/A Dance of Matter/Clans ⚔/Dahrlodwelf\|Dahrlodwelf]]
 - a powerful crystal that is dangerous to the touch.
 - 
