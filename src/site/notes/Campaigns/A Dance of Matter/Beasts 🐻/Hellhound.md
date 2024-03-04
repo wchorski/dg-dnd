@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/hellhound/","tags":["fire","demon"]}
+{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Beasts 🐻/Hellhound/","tags":["fire","demon"]}
 ---
 
 
-
-~<corgi>~ 
-~<shih-tzu>~
+Hellhound
