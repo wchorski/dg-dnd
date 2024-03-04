@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1027/"}
+{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Sessions 📝/Session 1027/"}
 ---
 
 ## Still in the Witch Roads
 
 ## Room of Many Candles
-- Dark figure female [Kyton Paramor](Campaigns/A%20Dance%20of%20Matter/Beasts%20🐻/Kyton%20Paramor.md) resides in the room
-- The Kyton is just a cohort of the [Delphas Hexblade](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Delphas%20Hexblade.md)
+- Dark figure female [[Campaigns/A Dance of Matter/Beasts 🐻/Kyton Paramor\|Kyton Paramor]] resides in the room
+- The Kyton is just a cohort of the [[Campaigns/A Dance of Matter/NPCs 🤖/Delphas Hexblade\|Delphas Hexblade]]
 - room full of wax dripping candles
 
-![matter-witchroads-01](/img/user/attachments/matter-witchroads-01.png)
+![attachments/matter-witchroads-01.png|matter-witchroads-01](/img/user/attachments/matter-witchroads-01.png)
 
-- [Bromdan](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Bromdan.md) is downed
+- [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]] is downed
 - our foes are defeated
-- [Lucas](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Lucas.md) feeds [Bromdan](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Bromdan.md) a potion like a mother feeds her child
-- [Lucas](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Lucas.md) rolls over [Broly](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Broly.md)'s back to lunge at an enemy
-- One of the sisters [Alliki](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Alliki.md) is slain. She is defiant of any help during her death.
+- [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]] feeds [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]] a potion like a mother feeds her child
+- [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]] rolls over [[Campaigns/A Dance of Matter/Players 👤/Broly\|Broly]]'s back to lunge at an enemy
+- One of the sisters [[Campaigns/A Dance of Matter/NPCs 🤖/Alliki\|Alliki]] is slain. She is defiant of any help during her death.
 
 ## Treasurer
 - +7000gb
@@ -23,8 +23,8 @@
 - +2 leather armor, 
 - suit of adamantine chainmail
 - potion of growth
-- [Cloak of Elvenkind](Campaigns/A%20Dance%20of%20Matter/Items%20💍/Cloak%20of%20Elvenkind.md)
-- [Scroll; Word of Recall](Campaigns/A%20Dance%20of%20Matter/Items%20💍/Scroll;%20Word%20of%20Recall.md)
-- [Wand of Web](Campaigns/A%20Dance%20of%20Matter/Items%20💍/Wand%20of%20Web.md)
-- [Orb of Direction](Campaigns/A%20Dance%20of%20Matter/Items%20💍/Orb%20of%20Direction.md)
-- heavy bronze amulet (looks like [Amara](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/Amara.md)'s)
+- [[Campaigns/A Dance of Matter/Items 💍/Cloak of Elvenkind\|Cloak of Elvenkind]]
+- [[Campaigns/A Dance of Matter/Items 💍/Scroll; Word of Recall\|Scroll; Word of Recall]]
+- [[Campaigns/A Dance of Matter/Items 💍/Wand of Web\|Wand of Web]]
+- [[Campaigns/A Dance of Matter/Items 💍/Orb of Direction\|Orb of Direction]]
+- heavy bronze amulet (looks like [[Campaigns/A Dance of Matter/NPCs 🤖/Amara\|Amara]]'s)
