@@ -4,4 +4,4 @@
 
 #halfling
 
-![300|Linda_Leer_Ranger](/img/user/attachments/Linda_Leer_Ranger.jpg)
+![attachments/Linda_Leer_Ranger.jpg|Linda_Leer_Ranger](/img/user/attachments/Linda_Leer_Ranger.jpg)
