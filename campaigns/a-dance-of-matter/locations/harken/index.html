@@ -1686,7 +1686,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1029/">Session 1029 </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1029/">Session 1029 </a>
                 </div>
             
         </div>
@@ -2233,7 +2233,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T01:19:53.318Z';
+        const searchIndexDate = '2024-03-04T01:39:22.277Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2245,9 +2245,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T01:19:53.318Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T01:39:22.277Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T01:19:53.318Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T01:39:22.277Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2790,9 +2790,8 @@
                               
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
-                                          <div class="backlink-list"><div class="backlink-card">
-                                                            <span class="no-backlinks-message">No other pages mentions this page</span>
-                                                      </div></div>
+                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1029/" data-note-icon="" class="backlink">Session 1029</a>
+                                                </div></div>
                               </div>
                         
                   
