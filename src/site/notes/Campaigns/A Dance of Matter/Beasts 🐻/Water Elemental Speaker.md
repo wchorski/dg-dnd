@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Beasts 🐻/Water Elemental Speaker/","tags":["elemental"]}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/water-elemental-speaker/","tags":["elemental"]}
 ---
 
 
