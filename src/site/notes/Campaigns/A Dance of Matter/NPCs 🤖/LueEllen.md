@@ -8,4 +8,4 @@
 
 ### visual (picture)
 ### connections
-- [Silver Liota](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Silver%20Liota.md)'s Teacher
+- [[Campaigns/A Dance of Matter/Players 👤/Silver Liota\|Silver Liota]]'s Teacher
