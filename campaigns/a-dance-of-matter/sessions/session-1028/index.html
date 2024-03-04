@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Session 1026</title>
+    <title>Session 1028</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script src="https://fastly.jsdelivr.net/npm/mermaid@9.4.0/dist/mermaid.min.js"></script>
 <script>
@@ -237,7 +237,29 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/nuckelavee/">Nuckelavee </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/water-elemental-speaker/">Water Elemental Speaker </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/water-elemental/">Water Elemental </a>
                 </div>
             
         </div>
@@ -1642,7 +1664,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1025/">Session 1025 </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1025/">Session 1025 </a>
                 </div>
             
         </div>
@@ -1653,7 +1675,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1026/">Session 1026 </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1026/">Session 1026 </a>
                 </div>
             
         </div>
@@ -1664,7 +1686,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1027/">Session 1027 </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1027/">Session 1027 </a>
                 </div>
             
         </div>
@@ -1675,7 +1697,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1028/">Session 1028 </a>
+                <div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1028/">Session 1028 </a>
                 </div>
             
         </div>
@@ -1686,7 +1708,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1029/">Session 1029 </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1029/">Session 1029 </a>
                 </div>
             
         </div>
@@ -1697,7 +1719,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 999/">Session 999 </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-999/">Session 999 </a>
                 </div>
             
         </div>
@@ -2233,7 +2255,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:38:37.628Z';
+        const searchIndexDate = '2024-03-04T02:39:36.024Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2245,9 +2267,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:38:37.628Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:39:36.024Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:38:37.628Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:39:36.024Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2479,7 +2501,7 @@
     <main class="content cm-s-obsidian ">
       <header>
         
-          <h1 data-note-icon="">Session 1026</h1>
+          <h1 data-note-icon="">Session 1028</h1>
         
         <div class="header-meta">
           
@@ -2494,88 +2516,50 @@
       </header>
       
       
-      <p><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/locations/witchroads/">witchroads</a></p>
-<h2 id="bargaining-continues" tabindex="-1">Bargaining continues</h2>
+      <p>Finishing up in the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/locations/witchroads/">witchroads</a></p>
 <ul>
-<li>The party is still striking a deal with this first sister of <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/sisterhood-of-delfas/">Sisterhood of Delfas</a>.</li>
-<li>We make safe passage past the first sister and cohorts</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/lucas/">Lucas</a> finds an alter</li>
 </ul>
-<h2 id="the-room-with-strong-aura" tabindex="-1">The Room with strong aura</h2>
+<h2 id="alter-room" tabindex="-1">Alter Room</h2>
 <ul>
-<li>We turn the corner to a room with a strong presence of magic</li>
-<li>A summoning circle is carved onto the floor<br>
-<picture src="/img/user/attachments/summoning-circle.jpg" alt="attachments/summoning-circle.jpg|summoning-circle|400" width="400px"><source       media="(max-width:480px)"
-      srcset="/img/optimized/AfiyNY55uG-500.webp"
+<li>incenses</li>
+<li>coals</li>
+<li>magical feel</li>
+<li>caused light headedness (needed a <a class="tag" onclick="toggleTagSearch(this)" data-content="#constitution">#constitution</a> save)</li>
+</ul>
+<p>past the room is <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/alliki/">Alliki</a>'s bedroom</p>
+<h2 id="bedroom" tabindex="-1">Bedroom</h2>
+<ul>
+<li>lots of tapestry with geometric patterns</li>
+<li>comfy cot</li>
+<li><a class="tag" onclick="toggleTagSearch(this)" data-content="#long_rest">#long_rest</a></li>
+</ul>
+<p><picture src="/img/user/attachments/witchroads-02.png" alt="attachments/witchroads-02.png"><source       media="(max-width:480px)"
+      srcset="/img/optimized/30Fo1ktYer-500.webp"
       type="image/webp"
       >
       <source       media="(max-width:480px)"
-      srcset="/img/optimized/AfiyNY55uG-500.jpeg"
+      srcset="/img/optimized/30Fo1ktYer-500.jpeg"
       >
       <source         media="(max-width:1920px)"
-        srcset="/img/optimized/AfiyNY55uG-700.webp"
+        srcset="/img/optimized/30Fo1ktYer-700.webp"
         type="image/webp"
         ><source         media="(max-width:1920px)"
-        srcset="/img/optimized/AfiyNY55uG-700.jpeg"
+        srcset="/img/optimized/30Fo1ktYer-700.jpeg"
         ><img       class=""
-      src="/img/user/attachments/summoning-circle.jpg"
-      alt="attachments/summoning-circle.jpg|summoning-circle|400"
-      width="400px"
-      ></picture></li>
-<li>we follow down a dark stairwell</li>
-<li>a squad of enemies just beyond the darkness</li>
-</ul>
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/campaigns/a-dance-of-matter/np-cs/kyton-devil/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-<div class="markdown-embed-title">
-<h1 id="kyton-devil" tabindex="-1">Kyton Devil</h1>
-</div>
-<p><picture src="/img/user/attachments/kyton_devil.webp" alt="kyton_devil | 200" width=" 200px"><source       media="(max-width:480px)"
-      srcset="/img/optimized/8hZJKEnQpM-400.webp"
-      type="image/webp"
-      >
-      <source       media="(max-width:480px)"
-      srcset="/img/optimized/8hZJKEnQpM-400.jpeg"
-      >
-      <img       class=""
-      src="/img/user/attachments/kyton_devil.webp"
-      alt="kyton_devil | 200"
-      width=" 200px"
-      ></picture></p>
-<ul>
-<li>this demon has magical powers</li>
-<li>first found in thunderspire</li>
-</ul>
-</div></div>
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/campaigns/a-dance-of-matter/beasts/kyton-paramor/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-<div class="markdown-embed-title">
-<h1 id="kyton-paramor" tabindex="-1">Kyton Paramor</h1>
-</div>
-<p><picture src="/img/user/attachments/Kyton_Paramore.jpg" alt="attachments/Kyton_Paramore.jpg| Kyton_Paramore "><source       media="(max-width:480px)"
-      srcset="/img/optimized/3vG2tq5tWp-500.webp"
-      type="image/webp"
-      >
-      <source       media="(max-width:480px)"
-      srcset="/img/optimized/3vG2tq5tWp-500.jpeg"
-      >
-      <source         media="(max-width:1920px)"
-        srcset="/img/optimized/3vG2tq5tWp-700.webp"
-        type="image/webp"
-        ><source         media="(max-width:1920px)"
-        srcset="/img/optimized/3vG2tq5tWp-700.jpeg"
-        ><img       class=""
-      src="/img/user/attachments/Kyton_Paramore.jpg"
-      alt="attachments/Kyton_Paramore.jpg| Kyton_Paramore "
+      src="/img/user/attachments/witchroads-02.png"
+      alt="attachments/witchroads-02.png"
       width=""
       ></picture></p>
-<p>kyton wiki link image</p>
-</div></div>
+<h2 id="south-room" tabindex="-1">South Room</h2>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/bromdan/">Bromdan</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#nat20">#nat20</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/lo-tha-r-ran/">LoThaRRan</a> <a class="tag" onclick="toggleTagSearch(this)" data-content="#nat20">#nat20</a>  to wipe out the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/beasts/kyton-paramor/">Kyton Paramor</a> with a huge hit</li>
+<li>opening the door reveals 3 <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/beasts/delfas-sister/">[Campaigns/A Dance of Matter/Beasts 🐻/Hellhound</a>s and a nasty [Delfas Sister]]</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/lucas/">Lucas</a> uses <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/lucas/#crusader-s-mantle"> Crusader's Mantle </a> to buff him and his team</li>
+<li>The enemies have been felled</li>
 </ul>
-<h2 id="the-baddies-have-been-felled" tabindex="-1">The baddies have been felled</h2>
+<h2 id="post-combat" tabindex="-1">Post combat</h2>
 <ul>
-<li>belt with a symbol. <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/broly/">Broly</a> recognizes this as god <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/tall/">Tall</a> of the hunt and the wild.</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/lo-tha-r-ran/">LoThaRRan</a> gets <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/items/bracers-of-archery/">Bracers of Archery</a></li>
+<li></li>
 </ul>
 
       
@@ -2817,22 +2801,16 @@
                                           <nav class="toc">
                 <ol>
                     
-                    <li><a href="#bargaining-continues">Bargaining continues</a>
+                    <li><a href="#alter-room">Alter Room</a>
             		</li>
 
-                    <li><a href="#the-room-with-strong-aura">The Room with strong aura</a>
+                    <li><a href="#bedroom">Bedroom</a>
             		</li>
 
-                    <li><a href="#kyton-devil">Kyton Devil</a>
+                    <li><a href="#south-room">South Room</a>
             		</li>
 
-                    <li><a href="#kyton-paramor">Kyton Paramor</a>
-            
-                <ol>
-                    
-                    <li><a href="#the-baddies-have-been-felled">The baddies have been felled</a>
-            		</li>
-                </ol>
+                    <li><a href="#post-combat">Post combat</a>
             		</li>
                 </ol>
             </nav>
@@ -2846,9 +2824,8 @@
                               
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
-                                          <div class="backlink-list"><div class="backlink-card">
-                                                            <span class="no-backlinks-message">No other pages mentions this page</span>
-                                                      </div></div>
+                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/" data-note-icon="" class="backlink">Dungeon&#39;s and Dragons</a>
+                                                </div></div>
                               </div>
                         
                   

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Session 1029</title>
+    <title>Session 999</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script src="https://fastly.jsdelivr.net/npm/mermaid@9.4.0/dist/mermaid.min.js"></script>
 <script>
@@ -237,7 +237,29 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/nuckelavee/">Nuckelavee </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/water-elemental-speaker/">Water Elemental Speaker </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/water-elemental/">Water Elemental </a>
                 </div>
             
         </div>
@@ -1642,7 +1664,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1025/">Session 1025 </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1025/">Session 1025 </a>
                 </div>
             
         </div>
@@ -1653,7 +1675,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1026/">Session 1026 </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1026/">Session 1026 </a>
                 </div>
             
         </div>
@@ -1664,7 +1686,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1027/">Session 1027 </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1027/">Session 1027 </a>
                 </div>
             
         </div>
@@ -1675,7 +1697,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1028/">Session 1028 </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1028/">Session 1028 </a>
                 </div>
             
         </div>
@@ -1686,7 +1708,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 1029/">Session 1029 </a>
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1029/">Session 1029 </a>
                 </div>
             
         </div>
@@ -1697,7 +1719,7 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
-                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/Campaigns/A Dance of Matter/Sessions 📝/Session 999/">Session 999 </a>
+                <div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-999/">Session 999 </a>
                 </div>
             
         </div>
@@ -2233,7 +2255,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:38:37.628Z';
+        const searchIndexDate = '2024-03-04T02:39:36.024Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2245,9 +2267,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:38:37.628Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:39:36.024Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:38:37.628Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:39:36.024Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2479,7 +2501,7 @@
     <main class="content cm-s-obsidian ">
       <header>
         
-          <h1 data-note-icon="">Session 1029</h1>
+          <h1 data-note-icon="">Session 999</h1>
         
         <div class="header-meta">
           
@@ -2494,71 +2516,55 @@
       </header>
       
       
-      <p><picture src="/img/user/attachments/session-witchroads-03.png" alt="attachments/session-witchroads-03.png|session-witchroads-03"><source       media="(max-width:480px)"
-      srcset="/img/optimized/I67N3sPKCy-500.webp"
-      type="image/webp"
-      >
-      <source       media="(max-width:480px)"
-      srcset="/img/optimized/I67N3sPKCy-500.jpeg"
-      >
-      <source         media="(max-width:1920px)"
-        srcset="/img/optimized/I67N3sPKCy-700.webp"
-        type="image/webp"
-        ><source         media="(max-width:1920px)"
-        srcset="/img/optimized/I67N3sPKCy-700.jpeg"
-        ><img       class=""
-      src="/img/user/attachments/session-witchroads-03.png"
-      alt="attachments/session-witchroads-03.png|session-witchroads-03"
-      width=""
-      ></picture></p>
-<h2 id="mysterious-pond" tabindex="-1">mysterious pond</h2>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/lucas/">Lucas</a> finds the depth is surprisingly deep. Deeper than what his javelin could go down</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/bromdan/">Bromdan</a> notes copper outlining the pool's edges. He uses Heat Metal to start boiling the water</li>
-<li>a <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/beasts/water-elemental-speaker/">Water Elemental Speaker</a> is encountered</li>
-</ul>
-<h2 id="water-elemental" tabindex="-1">Water Elemental</h2>
-<ul>
-<li>Must pay in &quot;magic&quot;. Deposited into the pool</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/circle-jerkers/">Circle Jerkers</a> all dive into the pool after paying</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/broly/">Broly</a> with is athletics Olympic dives into the pool to catch up to the party</li>
-</ul>
-<h2 id="down-in-the-water" tabindex="-1">Down in the Water</h2>
-<ul>
-<li>the spells are leeched from each players body</li>
-<li>The pit is so deep, holding breath is becoming unbearable</li>
-<li>WE slam into solid ground</li>
-</ul>
-<p><picture src="/img/user/attachments/session-witchroads-05.png" alt="attachments/session-witchroads-05.png"><source       media="(max-width:480px)"
-      srcset="/img/optimized/aTdvirXfvp-500.webp"
-      type="image/webp"
-      >
-      <source       media="(max-width:480px)"
-      srcset="/img/optimized/aTdvirXfvp-500.jpeg"
-      >
-      <source         media="(max-width:1920px)"
-        srcset="/img/optimized/aTdvirXfvp-700.webp"
-        type="image/webp"
-        ><source         media="(max-width:1920px)"
-        srcset="/img/optimized/aTdvirXfvp-700.jpeg"
-        ><img       class=""
-      src="/img/user/attachments/session-witchroads-05.png"
-      alt="attachments/session-witchroads-05.png"
-      width=""
-      ></picture></p>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/silver-liota/">Silver Liota</a> Looks at the star. There is 10x as many stars then has ever filled the sky. But still, many of the usual stars are there so it must still be the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/locations/harken/">Harken</a> sky</li>
-<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/broly/">Broly</a> eagle eyes
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/teal-blue-elf/">Teal Blue Elf</a></li>
-<li>holding live wooden staff</li>
-<li>faint glowing stone mounted on top</li>
-<li>4 <a class="internal-link is-unresolved" href="/404" target="">Water Elemental</a>s</li>
-</ul>
+      <h2 id="current-setting" tabindex="-1">Current Setting</h2>
+<p><a href="Matter%20Campaign%F0%9F%93%81/Locations%F0%9F%93%8C/Harken.md" target="_blank" class="external-link">Harken</a><br>
+storming the castle</p>
+<hr>
+<h2 id="events" tabindex="-1">Events</h2>
+<ol>
+<li>spooky old lady</li>
+<li><a href="Matter%20Campaign%F0%9F%93%81/Players%F0%9F%91%A4/LoThaRRan.md" target="_blank" class="external-link">LoThaRRan</a> echos into  the chapel room
+<ol>
+<li>large central space, stained glass windows</li>
+<li>woman kneeling at the alter <a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Celtis.md" target="_blank" class="external-link">Celtis</a></li>
+<li>Tar Demon and 2 soldiers keep watch</li>
+<li><a href="Matter%20Campaign%F0%9F%93%81/Players%F0%9F%91%A4/LoThaRRan.md" target="_blank" class="external-link">LoThaRRan</a> tries to Chug in face of one of the enemies with echo</li>
+<li>echo gets smacked</li>
+</ol>
 </li>
-<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/lo-tha-r-ran/">LoThaRRan</a> deploys the pocket boat. The <a class="internal-link is-unresolved" href="/404" target="">Water Elemental</a>s turn at the crashing sound of the vessel</li>
-<li>the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/teal-blue-elf/">Teal Blue Elf</a> summons reinforcements.</li>
-</ul>
+<li><a href="Matter%20Campaign%F0%9F%93%81/Players%F0%9F%91%A4/LoThaRRan.md" target="_blank" class="external-link">LoThaRRan</a> &quot;Leeroy Jenkins&quot; into the chapel bringing along <a href="Matter%20Campaign%F0%9F%93%81/Players%F0%9F%91%A4/Bromdan.md" target="_blank" class="external-link">Bromdan</a></li>
+<li><a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Celtis.md" target="_blank" class="external-link">Celtis</a> notices right away and is surprised
+<ol>
+<li>&quot;ah so finally the <a href="Matter%20Campaign/Clans/Circle_Jerkers.md" target="_blank" class="external-link">Circle_Jerkers</a> have come&quot;</li>
+<li>she is not hostile (at least initially).</li>
+</ol>
+</li>
+<li><a href="Matter%20Campaign%F0%9F%93%81/Players%F0%9F%91%A4/Lucas.md" target="_blank" class="external-link">Lucas</a> notices temples to old Human Gods (nat 20)
+<ol>
+<li>Eurlic (god of strength and war, courage, marshal leader )</li>
+</ol>
+</li>
+<li><a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Celtis.md" target="_blank" class="external-link">Celtis</a> is peaceful, but will not help with the fight. although she does want to see <a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Red%20Thorn.md" target="_blank" class="external-link">Red Thorn</a> be dethroned</li>
+<li><a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Celtis.md" target="_blank" class="external-link">Celtis</a> has <a href="Matter%20Campaign%F0%9F%93%81/Players%F0%9F%91%A4/LoThaRRan.md" target="_blank" class="external-link">LoThaRRan</a> 's echo in her clutches</li>
+<li>players strike a deal with <a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Celtis.md" target="_blank" class="external-link">Celtis</a></li>
+<li>jk we initiate combat ⚔
+<ol>
+<li><a href="Matter_Campaign/Players/Silva.md" target="_blank" class="external-link">Silva</a> delivers the finishing blow to <a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Celtis.md" target="_blank" class="external-link">Celtis</a></li>
+<li><a href="Matter%20Campaign%F0%9F%93%81/Players%F0%9F%91%A4/Jianni.md" target="_blank" class="external-link">Jianni</a> revives <a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Celtis.md" target="_blank" class="external-link">Celtis</a> with a ritual
+<ol>
+<li>she is forced to tell the truth through her reanimated skull</li>
+<li><a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Celtis.md" target="_blank" class="external-link">Celtis</a> tells us what <a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Emily.md" target="_blank" class="external-link">Emily</a> is up to</li>
+</ol>
+</li>
+</ol>
+</li>
+<li><a href="Matter%20Campaign%F0%9F%93%81/Clans%E2%9A%94/Circle%20Jerkers.md" target="_blank" class="external-link">Circle Jerkers</a> come in and bust down the door to <a href="Matter%20Campaign%F0%9F%93%81/NPCs%F0%9F%A4%96/Red%20Thorn.md" target="_blank" class="external-link">Red Thorn</a>'s  throne room
+<ol>
+<li>we immediately engage in combat</li>
+<li></li>
+</ol>
+</li>
+</ol>
 
       
       
@@ -2799,13 +2805,10 @@
                                           <nav class="toc">
                 <ol>
                     
-                    <li><a href="#mysterious-pond">mysterious pond</a>
+                    <li><a href="#current-setting">Current Setting</a>
             		</li>
 
-                    <li><a href="#water-elemental">Water Elemental</a>
-            		</li>
-
-                    <li><a href="#down-in-the-water">Down in the Water</a>
+                    <li><a href="#events">Events</a>
             		</li>
                 </ol>
             </nav>
@@ -2819,9 +2822,9 @@
                               
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
-                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/beasts/water-elemental-speaker/" data-note-icon="" class="backlink">Water Elemental Speaker</a>
-                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/" data-note-icon="" class="backlink">Dungeon&#39;s and Dragons</a>
-                                                </div></div>
+                                          <div class="backlink-list"><div class="backlink-card">
+                                                            <span class="no-backlinks-message">No other pages mentions this page</span>
+                                                      </div></div>
                               </div>
                         
                   
