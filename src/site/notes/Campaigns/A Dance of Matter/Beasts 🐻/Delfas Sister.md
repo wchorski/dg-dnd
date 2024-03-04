@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Beasts 🐻/Delfas Sister/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/delfas-sister/"}
 ---
 
-image w alias
-![attachments/Delfas_Sister.jpg|Delfas_Sister](/img/user/attachments/Delfas_Sister.jpg)
 
-img no alias
-![attachments/Delfas_Sister.jpg](/img/user/attachments/Delfas_Sister.jpg)
+![attachments/Delfas_Sister.jpg|Delfas_Sister](/img/user/attachments/Delfas_Sister.jpg)
