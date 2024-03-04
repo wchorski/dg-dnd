@@ -8,12 +8,12 @@
 | #player   | #human   | #druid | #chaotic_good  | #level5 |
 ![attachments/Silva_Liota.png](/img/user/attachments/Silva_Liota.png)
 ### connections
-- [LueEllen](Campaigns/A%20Dance%20of%20Matter/NPCs%20🤖/LueEllen.md)'s understudy
-- part of [Circle Jerkers](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Circle%20Jerkers.md)
+- [[Campaigns/A Dance of Matter/NPCs 🤖/LueEllen\|LueEllen]]'s understudy
+- part of [[Campaigns/A Dance of Matter/Clans ⚔/Circle Jerkers\|Circle Jerkers]]
 
 
 ### character sheet
-![](attachments/Silver_Liota_lv_5.pdf)
+![[attachments/Silver_Liota_lv_5.pdf|]]
 
 ---
 ### actions
