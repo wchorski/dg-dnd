@@ -9,14 +9,14 @@
 
 
 (Pasted%20image%2020221002174008.png)
-![](/img/user/attachments/img-Lotharran.png)
+![attachments/img-Lotharran.png](/img/user/attachments/img-Lotharran.png)
 ### connections
-- brothers with [Bromdan](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Bromdan.md)
-- part of the [Circle Jerkers](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Circle%20Jerkers.md)
-- - [Oran's Rest](Campaigns/A%20Dance%20of%20Matter/Locations%20📌/Oran's%20Rest.md) native
+- brothers with [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]]
+- part of the [[Campaigns/A Dance of Matter/Clans ⚔/Circle Jerkers\|Circle Jerkers]]
+- - [[Campaigns/A Dance of Matter/Locations 📌/Oran's Rest\|Oran's Rest]] native
 
 ### character sheet
-![](attachments/LoThaRRan_Barr_-_lvl5%201.pdf)
+![[attachments/LoThaRRan_Barr_-_lvl5 1.pdf|]]
 
 ---
 ### actions
