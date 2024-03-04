@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1028/"}
+{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Sessions 📝/Session 1028/"}
 ---
 
 Finishing up in the [[Campaigns/A Dance of Matter/Locations 📌/witchroads\|witchroads]]
@@ -21,7 +21,7 @@ past the room is [[Campaigns/A Dance of Matter/NPCs 🤖/Alliki\|Alliki]]'s bedr
 
 ![attachments/witchroads-02.png](/img/user/attachments/witchroads-02.png)
 ## South Room
-- opening the door reveals 3 [[Campaigns/A Dance of Matter/Beasts 🐻/Hellhound\|Hellhound]]s and a nasty [Delfas Sister](Campaigns/A%20Dance%20of%20Matter/Beasts%20🐻/Delfas%20Sister.md)
+- opening the door reveals 3 [[Campaigns/A Dance of Matter/Beasts 🐻/Delfas Sister\|[Campaigns/A Dance of Matter/Beasts 🐻/Hellhound]]s and a nasty [Delfas Sister]]
 - [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]] uses [[Campaigns/A Dance of Matter/Players 👤/Lucas#Crusader's Mantle\| Crusader's Mantle ]] to buff him and his team
 - The enemies have been felled 
 
