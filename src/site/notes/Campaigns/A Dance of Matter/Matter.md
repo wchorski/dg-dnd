@@ -3,13 +3,13 @@
 ---
 
 ### tutorials
-- [Navigation](obsidian://open?vault=DnD&file=Tuts%2FNavigation)
-- [dice Rolling](obsidian://open?vault=DnD&file=Tuts%2FMarkdown%20templates)
-- [Markdown cheatsheet](obsidian://open?vault=DnD&file=Tuts%2Fdice%20rolling)
+- [[obsidian://open?vault=DnD&file=Tuts/Navigation\|Navigation]]
+- [[obsidian://open?vault=DnD&file=Tuts/Markdown templates\|dice Rolling]]
+- [[obsidian://open?vault=DnD&file=Tuts/dice rolling\|Markdown cheatsheet]]
 
 ## Clans
-- [Iron Circle](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Iron%20Circle.md)
-- [Circle Jerkers](Campaigns/A%20Dance%20of%20Matter/Clans%20⚔/Circle%20Jerkers.md)
+- [[Campaigns/A Dance of Matter/Clans ⚔/Iron Circle\|Iron Circle]]
+- [[Campaigns/A Dance of Matter/Clans ⚔/Circle Jerkers\|Circle Jerkers]]
 
 ## Locations
 - [[Campaigns/A Dance of Matter/Locations 📌/Albridge\|Campaigns/A Dance of Matter/Locations 📌/Albridge]]
