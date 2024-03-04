@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:40:12.604Z';
+        const searchIndexDate = '2024-03-04T02:45:09.745Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:40:12.604Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:40:12.604Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2441,14 +2441,14 @@
       
       <h3 id="tutorials" tabindex="-1">tutorials</h3>
 <ul>
-<li><a href="obsidian://open?vault=DnD&amp;file=Tuts%2FNavigation" target="_blank" class="external-link">Navigation</a></li>
-<li><a href="obsidian://open?vault=DnD&amp;file=Tuts%2FMarkdown%20templates" target="_blank" class="external-link">dice Rolling</a></li>
-<li><a href="obsidian://open?vault=DnD&amp;file=Tuts%2Fdice%20rolling" target="_blank" class="external-link">Markdown cheatsheet</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Navigation</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">dice Rolling</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Markdown cheatsheet</a></li>
 </ul>
 <h2 id="clans" tabindex="-1">Clans</h2>
 <ul>
-<li><a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Iron%20Circle.md" target="_blank" class="external-link">Iron Circle</a></li>
-<li><a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Circle%20Jerkers.md" target="_blank" class="external-link">Circle Jerkers</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/iron-circle/">Iron Circle</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/circle-jerkers/">Circle Jerkers</a></li>
 </ul>
 <h2 id="locations" tabindex="-1">Locations</h2>
 <ul>

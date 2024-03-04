@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:40:12.604Z';
+        const searchIndexDate = '2024-03-04T02:45:09.745Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:40:12.604Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:40:12.604Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2439,7 +2439,7 @@
       </header>
       
       
-      <p><picture src="/img/user/attachments/GreenTroll.png" alt="GreenTroll | 200" width=" 200px"><source       media="(max-width:480px)"
+      <p><picture src="/img/user/attachments/GreenTroll.png" alt="attachments/GreenTroll.png|GreenTroll | 200" width=" 200px"><source       media="(max-width:480px)"
       srcset="/img/optimized/cXQAV5jz6h-480.webp"
       type="image/webp"
       >
@@ -2448,7 +2448,7 @@
       >
       <img       class=""
       src="/img/user/attachments/GreenTroll.png"
-      alt="GreenTroll | 200"
+      alt="attachments/GreenTroll.png|GreenTroll | 200"
       width=" 200px"
       ></picture></p>
 <ul>

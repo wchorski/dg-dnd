@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:40:12.604Z';
+        const searchIndexDate = '2024-03-04T02:45:09.745Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:40:12.604Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:40:12.604Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2439,7 +2439,7 @@
       </header>
       
       
-      <p><picture src="/img/user/attachments/Jindosh_Assistant.jpg" alt="Jindosh_Assistant | 200" width=" 200px"><source       media="(max-width:480px)"
+      <p><picture src="/img/user/attachments/Jindosh_Assistant.jpg" alt="attachments/Jindosh_Assistant.jpg|Jindosh_Assistant | 200" width=" 200px"><source       media="(max-width:480px)"
       srcset="/img/optimized/796YYwrTna-500.webp"
       type="image/webp"
       >
@@ -2453,15 +2453,15 @@
         srcset="/img/optimized/796YYwrTna-700.jpeg"
         ><img       class=""
       src="/img/user/attachments/Jindosh_Assistant.jpg"
-      alt="Jindosh_Assistant | 200"
+      alt="attachments/Jindosh_Assistant.jpg|Jindosh_Assistant | 200"
       width=" 200px"
       ></picture></p>
 <ul>
-<li>First found with <a href="Campaigns/A%20Dance%20of%20Matter/NPCs%20%F0%9F%A4%96/Jindosh%20the%20Alchemist.md" target="_blank" class="external-link">Jindosh the Alchemist</a> inside <a href="Campaigns/A%20Dance%20of%20Matter/Landmarks%20%E2%9B%B0/Thunderspire.md" target="_blank" class="external-link">Thunderspire</a></li>
+<li>First found with <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/jindosh-the-alchemist/">Jindosh the Alchemist</a> inside <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/landmarks/thunderspire/">Thunderspire</a></li>
 <li>scholar</li>
 <li>knows the way of divine magic</li>
-<li>father is a powerful sorer of the <a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Twisted%20Rune.md" target="_blank" class="external-link">Twisted Rune</a></li>
-<li>sister of the <a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Iron%20Circle.md" target="_blank" class="external-link">Iron Circle</a> sorcerer</li>
+<li>father is a powerful sorer of the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/twisted-rune/">Twisted Rune</a></li>
+<li>sister of the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/iron-circle/">Iron Circle</a> sorcerer</li>
 </ul>
 
       

@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:40:12.604Z';
+        const searchIndexDate = '2024-03-04T02:45:09.745Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:40:12.604Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:40:12.604Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2443,7 +2443,7 @@
 <li>she is an older gnome in the settlement</li>
 <li>knows about the <strong>Red Glimmer</strong></li>
 <li>ancient age</li>
-<li>part of the <a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Dahrlodwelf.md" target="_blank" class="external-link">Dahrlodwelf</a> tribe</li>
+<li>part of the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/dahrlodwelf/">Dahrlodwelf</a> tribe</li>
 </ul>
 
       
@@ -2682,7 +2682,8 @@
                               
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
-                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1008/" data-note-icon="" class="backlink">Session 1008</a>
+                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/items/red-glimmer/" data-note-icon="" class="backlink">Red Glimmer</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1008/" data-note-icon="" class="backlink">Session 1008</a>
                                                 </div></div>
                               </div>
                         

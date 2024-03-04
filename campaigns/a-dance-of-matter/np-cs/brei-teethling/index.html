@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:40:12.604Z';
+        const searchIndexDate = '2024-03-04T02:45:09.745Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:40:12.604Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:40:12.604Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2440,7 +2440,7 @@
       
       
       <p><a class="tag" onclick="toggleTagSearch(this)" data-content="#monk">#monk</a><br>
-<picture src="/img/user/attachments/Brei_Tiefling_Monk.jpg" alt="Brei_Tiefling_Monk|300" width="300px"><source       media="(max-width:480px)"
+<picture src="/img/user/attachments/Brei_Tiefling_Monk.jpg" alt="attachments/Brei_Tiefling_Monk.jpg|Brei_Tiefling_Monk|300" width="300px"><source       media="(max-width:480px)"
       srcset="/img/optimized/srLLYoKVrL-500.webp"
       type="image/webp"
       >
@@ -2454,7 +2454,7 @@
         srcset="/img/optimized/srLLYoKVrL-700.jpeg"
         ><img       class=""
       src="/img/user/attachments/Brei_Tiefling_Monk.jpg"
-      alt="Brei_Tiefling_Monk|300"
+      alt="attachments/Brei_Tiefling_Monk.jpg|Brei_Tiefling_Monk|300"
       width="300px"
       ></picture></p>
 

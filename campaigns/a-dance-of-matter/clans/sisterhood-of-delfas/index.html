@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:40:12.604Z';
+        const searchIndexDate = '2024-03-04T02:45:09.745Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:40:12.604Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:40:12.604Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2439,7 +2439,7 @@
       </header>
       
       
-      <p>found in the <a href="Campaigns/A%20Dance%20of%20Matter/Locations%20%F0%9F%93%8C/witchroads.md" target="_blank" class="external-link">witchroads</a> cavern</p>
+      <p>found in the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/locations/witchroads/">witchroads</a> cavern</p>
 <ul>
 <li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/peneloper/">Campaigns/A Dance of Matter/NPCs 🤖/Peneloper</a></li>
 <li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/alliki/">Campaigns/A Dance of Matter/NPCs 🤖/Alliki</a></li>
@@ -2682,7 +2682,10 @@
                               
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
-                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1023/" data-note-icon="" class="backlink">Session 1023</a>
+                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/locations/witchroads/" data-note-icon="" class="backlink">witchroads</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/alliki/" data-note-icon="" class="backlink">Alliki</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/amara/" data-note-icon="" class="backlink">Amara</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1023/" data-note-icon="" class="backlink">Session 1023</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1025/" data-note-icon="" class="backlink">Session 1025</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1026/" data-note-icon="" class="backlink">Session 1026</a>
                                                 </div></div>

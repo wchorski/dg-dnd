@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:40:12.604Z';
+        const searchIndexDate = '2024-03-04T02:45:09.745Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:40:12.604Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:40:12.604Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2439,7 +2439,7 @@
       </header>
       
       
-      <p>underground caverns that house the <a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Sisterhood%20of%20Delfas.md" target="_blank" class="external-link">Sisterhood of Delfas</a></p>
+      <p>underground caverns that house the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/sisterhood-of-delfas/">Sisterhood of Delfas</a></p>
 
       
       
@@ -2678,6 +2678,8 @@
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
                                           <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/beasts/water-elemental-speaker/" data-note-icon="" class="backlink">Water Elemental Speaker</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/clans/sisterhood-of-delfas/" data-note-icon="" class="backlink">Sisterhood of Delfas</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/delphas-hexblade/" data-note-icon="" class="backlink">Delphas Hexblade</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1023/" data-note-icon="" class="backlink">Session 1023</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1026/" data-note-icon="" class="backlink">Session 1026</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1028/" data-note-icon="" class="backlink">Session 1028</a>

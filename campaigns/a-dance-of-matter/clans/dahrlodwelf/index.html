@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:40:12.604Z';
+        const searchIndexDate = '2024-03-04T02:45:09.745Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:40:12.604Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:40:12.604Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2440,9 +2440,9 @@
       
       
       <ul>
-<li>Gnomes found in <a href="Campaigns/A%20Dance%20of%20Matter/Landmarks%20%E2%9B%B0/Thunderspire.md" target="_blank" class="external-link">Thunderspire</a> undersea</li>
+<li>Gnomes found in <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/landmarks/thunderspire/">Thunderspire</a> undersea</li>
 </ul>
-<p><picture src="/img/user/attachments/gnome-home-prehistoric-beehive-hut-dingle-peninsula.jpg" alt="gnome-home-prehistoric-beehive-hut-dingle-peninsula | 400" width=" 400px"><source       media="(max-width:480px)"
+<p><picture src="/img/user/attachments/gnome-home-prehistoric-beehive-hut-dingle-peninsula.jpg" alt="attachments/gnome-home-prehistoric-beehive-hut-dingle-peninsula.jpg|gnome-home-prehistoric-beehive-hut-dingle-peninsula | 400" width=" 400px"><source       media="(max-width:480px)"
       srcset="/img/optimized/j4iX7TCFmz-390.webp"
       type="image/webp"
       >
@@ -2451,7 +2451,7 @@
       >
       <img       class=""
       src="/img/user/attachments/gnome-home-prehistoric-beehive-hut-dingle-peninsula.jpg"
-      alt="gnome-home-prehistoric-beehive-hut-dingle-peninsula | 400"
+      alt="attachments/gnome-home-prehistoric-beehive-hut-dingle-peninsula.jpg|gnome-home-prehistoric-beehive-hut-dingle-peninsula | 400"
       width=" 400px"
       ></picture></p>
 
@@ -2691,7 +2691,9 @@
                               
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
-                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1007/" data-note-icon="" class="backlink">Session 1007</a>
+                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/items/red-glimmer/" data-note-icon="" class="backlink">Red Glimmer</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/elder-gargadilly/" data-note-icon="" class="backlink">Elder Gargadilly</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1007/" data-note-icon="" class="backlink">Session 1007</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1008/" data-note-icon="" class="backlink">Session 1008</a>
                                                 </div></div>
                               </div>
