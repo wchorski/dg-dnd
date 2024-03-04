@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1002/"}
+{"dg-publish":true,"permalink":"/Campaigns/A Dance of Matter/Sessions 📝/Session 1002/"}
 ---
 
 - boys are back in town
-- [Bromdan](Campaigns/A%20Dance%20of%20Matter/Players%20👤/Bromdan.md) gives the party special gifts (of armor and weapons)
+- [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]] gives the party special gifts (of armor and weapons)
 - leaving Dawnforge Moutains, we set up camp at the base of the mountain
 - we travel the northern road and run into a man
 	- we talk about Centaurs
