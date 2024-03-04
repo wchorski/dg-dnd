@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:45:09.745Z';
+        const searchIndexDate = '2024-03-04T02:47:02.423Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2439,7 +2439,7 @@
       </header>
       
       
-      <p><picture src="/img/user/attachments/battle-goat--stormpikebattlecharger.jpg" alt="battle-goat--stormpikebattlecharger | 100" width=" 100px"><source       media="(max-width:480px)"
+      <p><picture src="/img/user/attachments/battle-goat--stormpikebattlecharger.jpg" alt="attachments/battle-goat--stormpikebattlecharger.jpg|battle-goat--stormpikebattlecharger | 100" width=" 100px"><source       media="(max-width:480px)"
       srcset="/img/optimized/IvU4OBcien-500.webp"
       type="image/webp"
       >
@@ -2448,10 +2448,10 @@
       >
       <img       class=""
       src="/img/user/attachments/battle-goat--stormpikebattlecharger.jpg"
-      alt="battle-goat--stormpikebattlecharger | 100"
+      alt="attachments/battle-goat--stormpikebattlecharger.jpg|battle-goat--stormpikebattlecharger | 100"
       width=" 100px"
       ></picture><br>
-<a href="Campaigns/A%20Dance%20of%20Matter/Players%20%F0%9F%91%A4/LoThaRRan.md" target="_blank" class="external-link">LoThaRRan</a>'s new stead bought in <a href="Campaigns/A%20Dance%20of%20Matter/Locations%20%F0%9F%93%8C/Hammerfast.md" target="_blank" class="external-link">Hammerfast</a></p>
+<a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/lo-tha-r-ran/">LoThaRRan</a>'s new stead bought in <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/locations/hammerfast/">Hammerfast</a></p>
 
       
       

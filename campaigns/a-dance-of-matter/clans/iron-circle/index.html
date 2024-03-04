@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:45:09.745Z';
+        const searchIndexDate = '2024-03-04T02:47:02.423Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2709,6 +2709,8 @@
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/matter/" data-note-icon="" class="backlink">Matter</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/celtis/" data-note-icon="" class="backlink">Celtis</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/christina-ashworth/" data-note-icon="" class="backlink">Christina Ashworth</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/grimjaw/" data-note-icon="" class="backlink">Grimjaw</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/red-thorn/" data-note-icon="" class="backlink">Red Thorn</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-004/" data-note-icon="" class="backlink">Session 004</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1003/" data-note-icon="" class="backlink">Session 1003</a>
                                                 </div></div>

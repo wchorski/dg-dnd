@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:45:09.745Z';
+        const searchIndexDate = '2024-03-04T02:47:02.423Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2458,19 +2458,19 @@
       ></picture></p>
 <p><a href="https://www.dungeonmastersvault.com/pages/dnd/5e/character-builder" target="_blank" class="external-link">Dungeon Master's Vault (dungeonmastersvault.com)</a></p>
 <h2 id="character-sheet" tabindex="-1">Character Sheet</h2>
-<p><img src="attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_10.pdf" alt="Lucas_Laurde--Dragonborn_Paladin--Lv_10"></p>
+<p>!<a class="internal-link is-unresolved" href="/404" target="">Lucas_Laurde--Dragonborn_Paladin--Lv_10</a></p>
 <h2 id="items" tabindex="-1">Items</h2>
 <ul>
-<li><a href="Campaigns/A%20Dance%20of%20Matter/Items%20%F0%9F%92%8D/Robe%20of%20Scintillating%20Colors.md" target="_blank" class="external-link">Robe of Scintillating Colors</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/items/robe-of-scintillating-colors/">Robe of Scintillating Colors</a></li>
 <li>bag of gems (opal, ect)</li>
 <li><s>ruby set in gold ring</s> given back to grieving Dwarf father</li>
 <li>shield that fuel with breath weapon.  (heavy steal shield, +1, magic 1d6)</li>
-<li>small Zinc trinket (key, controller?) found in <a href="Campaigns/A%20Dance%20of%20Matter/Landmarks%20%E2%9B%B0/Thunderspire.md" target="_blank" class="external-link">Thunderspire</a> alchemist workshop</li>
+<li>small Zinc trinket (key, controller?) found in <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/landmarks/thunderspire/">Thunderspire</a> alchemist workshop</li>
 <li>10gp of ruby dust</li>
-<li>5 <a href="Campaigns/A%20Dance%20of%20Matter/Items%20%F0%9F%92%8D/Red%20Glimmer.md" target="_blank" class="external-link">Red Glimmer</a></li>
+<li>5 <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/items/red-glimmer/">Red Glimmer</a></li>
 <li>(non sentient) breast plate <em>equipped</em></li>
 <li>fire shield <em>equipped</em></li>
-<li>Falcata - (fire damage) (counter spell a fire spell) <picture src="/img/user/attachments/falcata.jpg" alt="falcata | 150" width=" 150px"><source       media="(max-width:480px)"
+<li>Falcata - (fire damage) (counter spell a fire spell) <picture src="/img/user/attachments/falcata.jpg" alt="attachments/falcata.jpg|falcata | 150" width=" 150px"><source       media="(max-width:480px)"
       srcset="/img/optimized/QTXmyikzYC-500.webp"
       type="image/webp"
       >
@@ -2484,10 +2484,10 @@
         srcset="/img/optimized/QTXmyikzYC-700.jpeg"
         ><img       class=""
       src="/img/user/attachments/falcata.jpg"
-      alt="falcata | 150"
+      alt="attachments/falcata.jpg|falcata | 150"
       width=" 150px"
       ></picture></li>
-<li><picture src="/img/user/attachments/helmet-dragon.png" alt="helmet-dragon|100" width="100px"><source       media="(max-width:480px)"
+<li><picture src="/img/user/attachments/helmet-dragon.png" alt="attachments/helmet-dragon.png|helmet-dragon|100" width="100px"><source       media="(max-width:480px)"
       srcset="/img/optimized/bUpVQixuKk-500.webp"
       type="image/webp"
       >
@@ -2501,10 +2501,10 @@
         srcset="/img/optimized/bUpVQixuKk-700.jpeg"
         ><img       class=""
       src="/img/user/attachments/helmet-dragon.png"
-      alt="helmet-dragon|100"
+      alt="attachments/helmet-dragon.png|helmet-dragon|100"
       width="100px"
       ></picture></li>
-<li>small knife stolen from cultist from <a href="Campaigns/A%20Dance%20of%20Matter/Locations%20%F0%9F%93%8C/witchroads.md" target="_blank" class="external-link">witchroads</a></li>
+<li>small knife stolen from cultist from <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/locations/witchroads/">witchroads</a></li>
 </ul>
 <p>Damage Resistances: radiant, fire</p>
 <ul>
@@ -2515,7 +2515,7 @@
 </ul>
 <h3 id="connections" tabindex="-1">connections</h3>
 <ul>
-<li>part of the <a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Circle%20Jerkers.md" target="_blank" class="external-link">Circle Jerkers</a></li>
+<li>part of the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/circle-jerkers/">Circle Jerkers</a></li>
 </ul>
 <h3 id="equipment" tabindex="-1">Equipment</h3>
 <ul>
@@ -3078,6 +3078,8 @@ Starting at 10th level, you and friendly creatures within 10 feet of you can’t
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
                                           <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/matter/" data-note-icon="" class="backlink">Matter</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/grimjaw/" data-note-icon="" class="backlink">Grimjaw</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/lisette/" data-note-icon="" class="backlink">Lisette</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1003/" data-note-icon="" class="backlink">Session 1003</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1005/" data-note-icon="" class="backlink">Session 1005</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1006/" data-note-icon="" class="backlink">Session 1006</a>

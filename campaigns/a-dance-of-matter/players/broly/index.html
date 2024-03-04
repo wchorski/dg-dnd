@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:45:09.745Z';
+        const searchIndexDate = '2024-03-04T02:47:02.423Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2459,7 +2459,7 @@
 </tr>
 </tbody>
 </table></div>
-<p><picture src="/img/user/attachments/img-broly.webp" alt=""><source       media="(max-width:480px)"
+<p><picture src="/img/user/attachments/img-broly.webp" alt="attachments/img-broly.webp"><source       media="(max-width:480px)"
       srcset="/img/optimized/zyP1BhAoQu-500.webp"
       type="image/webp"
       >
@@ -2473,15 +2473,15 @@
         srcset="/img/optimized/zyP1BhAoQu-700.jpeg"
         ><img       class=""
       src="/img/user/attachments/img-broly.webp"
-      alt=""
+      alt="attachments/img-broly.webp"
       width=""
       ></picture></p>
 <h3 id="connections" tabindex="-1">connections</h3>
 <ul>
-<li>part of <a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Circle%20Jerkers.md" target="_blank" class="external-link">Circle Jerkers</a></li>
+<li>part of <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/circle-jerkers/">Circle Jerkers</a></li>
 </ul>
 <h3 id="character-sheet" tabindex="-1">character sheet</h3>
-<p><img src="attachments/Broly_-_Lvl_5_2.pdf" alt=""></p>
+<p>!<a class="internal-link is-unresolved" href="/404" target="">attachments/Broly-_Lvl_5_2.pdf</a></p>
 <hr>
 <h3 id="actions" tabindex="-1">actions</h3>
 <h3 id="traits" tabindex="-1">traits</h3>

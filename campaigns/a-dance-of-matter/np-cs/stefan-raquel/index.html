@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:45:09.745Z';
+        const searchIndexDate = '2024-03-04T02:47:02.423Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2439,7 +2439,7 @@
       </header>
       
       
-      <p><picture src="/img/user/attachments/Tiefling_Fencer.jpg" alt="Tiefling_Fencer|300" width="300px"><source       media="(max-width:480px)"
+      <p><picture src="/img/user/attachments/Tiefling_Fencer.jpg" alt="attachments/Tiefling_Fencer.jpg|Tiefling_Fencer|300" width="300px"><source       media="(max-width:480px)"
       srcset="/img/optimized/Dj0tI0VY7X-500.webp"
       type="image/webp"
       >
@@ -2453,7 +2453,7 @@
         srcset="/img/optimized/Dj0tI0VY7X-700.jpeg"
         ><img       class=""
       src="/img/user/attachments/Tiefling_Fencer.jpg"
-      alt="Tiefling_Fencer|300"
+      alt="attachments/Tiefling_Fencer.jpg|Tiefling_Fencer|300"
       width="300px"
       ></picture></p>
 

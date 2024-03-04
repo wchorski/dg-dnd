@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:45:09.745Z';
+        const searchIndexDate = '2024-03-04T02:47:02.423Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2693,6 +2693,8 @@
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
                                           <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/items/red-glimmer/" data-note-icon="" class="backlink">Red Glimmer</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/elder-gargadilly/" data-note-icon="" class="backlink">Elder Gargadilly</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/hooked-horror/" data-note-icon="" class="backlink">Hooked Horror</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/weavil-gut/" data-note-icon="" class="backlink">Weavil Gut</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1007/" data-note-icon="" class="backlink">Session 1007</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1008/" data-note-icon="" class="backlink">Session 1008</a>
                                                 </div></div>

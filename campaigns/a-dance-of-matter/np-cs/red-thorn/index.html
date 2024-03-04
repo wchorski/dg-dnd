@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:45:09.745Z';
+        const searchIndexDate = '2024-03-04T02:47:02.423Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2455,7 +2455,7 @@
 </tr>
 </tbody>
 </table></div>
-<p><picture src="/img/user/attachments/img-Redthorn.jpg" alt=""><source       media="(max-width:480px)"
+<p><picture src="/img/user/attachments/img-Redthorn.jpg" alt="attachments/img-Redthorn.jpg"><source       media="(max-width:480px)"
       srcset="/img/optimized/dBRo74fAZo-350.webp"
       type="image/webp"
       >
@@ -2464,13 +2464,13 @@
       >
       <img       class=""
       src="/img/user/attachments/img-Redthorn.jpg"
-      alt=""
+      alt="attachments/img-Redthorn.jpg"
       width=""
       ></picture></p>
 <h3 id="connections" tabindex="-1">connections</h3>
 <ul>
-<li>leader of the <a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Iron%20Circle.md" target="_blank" class="external-link">Iron Circle</a></li>
-<li><a href="Campaigns/A%20Dance%20of%20Matter/NPCs%20%F0%9F%A4%96/Celtis.md" target="_blank" class="external-link">Celtis</a>. a traitor to the <a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Iron%20Circle.md" target="_blank" class="external-link">Iron Circle</a></li>
+<li>leader of the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/iron-circle/">Iron Circle</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/celtis/">Celtis</a>. a traitor to the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/iron-circle/">Iron Circle</a></li>
 </ul>
 
       

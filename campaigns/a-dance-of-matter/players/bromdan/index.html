@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:45:09.745Z';
+        const searchIndexDate = '2024-03-04T02:47:02.423Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2479,12 +2479,12 @@
 </table></div>
 <h3 id="connections" tabindex="-1">connections</h3>
 <ul>
-<li>brothers with <a href="Campaigns/A%20Dance%20of%20Matter/Players%20%F0%9F%91%A4/LoThaRRan.md" target="_blank" class="external-link">LoThaRRan</a></li>
-<li>part of <a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Circle%20Jerkers.md" target="_blank" class="external-link">Circle Jerkers</a></li>
-<li><a href="Campaigns/A%20Dance%20of%20Matter/Locations%20%F0%9F%93%8C/Oran's%20Rest.md" target="_blank" class="external-link">Oran's Rest</a> native</li>
+<li>brothers with <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/players/lo-tha-r-ran/">LoThaRRan</a></li>
+<li>part of <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/circle-jerkers/">Circle Jerkers</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/locations/oran-s-rest/">Oran's Rest</a> native</li>
 </ul>
 <h3 id="character-sheet" tabindex="-1">character sheet</h3>
-<p><img src="attachments/Bromdan_Barr_-_LV_5.pdf" alt=""></p>
+<p>!<a class="internal-link is-unresolved" href="/404" target="">attachments/Bromdan_Barr_-_LV_5.pdf</a></p>
 <hr>
 <h3 id="actions" tabindex="-1">actions</h3>
 <h3 id="traits" tabindex="-1">traits</h3>
@@ -2786,6 +2786,7 @@
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
                                           <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/matter/" data-note-icon="" class="backlink">Matter</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/players/lo-tha-r-ran/" data-note-icon="" class="backlink">LoThaRRan</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-004/" data-note-icon="" class="backlink">Session 004</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1002/" data-note-icon="" class="backlink">Session 1002</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1005/" data-note-icon="" class="backlink">Session 1005</a>

@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:45:09.745Z';
+        const searchIndexDate = '2024-03-04T02:47:02.423Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2513,7 +2513,7 @@ reactions:
   
 </code></pre>
 <h3 id="visual-picture" tabindex="-1">visual (picture)</h3>
-<p><picture src="/img/user/attachments/Fey_Wych_Killer.jpg" alt="Fey_Wych_Killer|400" width="400px"><source       media="(max-width:480px)"
+<p><picture src="/img/user/attachments/Fey_Wych_Killer.jpg" alt="attachments/Fey_Wych_Killer.jpg|Fey_Wych_Killer|400" width="400px"><source       media="(max-width:480px)"
       srcset="/img/optimized/_a_BXVxp8O-177.webp"
       type="image/webp"
       >
@@ -2522,7 +2522,7 @@ reactions:
       >
       <img       class=""
       src="/img/user/attachments/Fey_Wych_Killer.jpg"
-      alt="Fey_Wych_Killer|400"
+      alt="attachments/Fey_Wych_Killer.jpg|Fey_Wych_Killer|400"
       width="400px"
       ></picture></p>
 <h3 id="connections" tabindex="-1">connections</h3>

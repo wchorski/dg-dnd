@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:45:09.745Z';
+        const searchIndexDate = '2024-03-04T02:47:02.423Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2440,8 +2440,8 @@
       
       
       <ul>
-<li>another gnome from the <a href="Campaigns/A%20Dance%20of%20Matter/Clans%20%E2%9A%94/Dahrlodwelf.md" target="_blank" class="external-link">Dahrlodwelf</a> tribe.</li>
-<li>ask for by <a href="Campaigns/A%20Dance%20of%20Matter/NPCs%20%F0%9F%A4%96/Elder%20Gargadilly.md" target="_blank" class="external-link">Elder Gargadilly</a></li>
+<li>another gnome from the <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/clans/dahrlodwelf/">Dahrlodwelf</a> tribe.</li>
+<li>ask for by <a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/np-cs/elder-gargadilly/">Elder Gargadilly</a></li>
 </ul>
 
       

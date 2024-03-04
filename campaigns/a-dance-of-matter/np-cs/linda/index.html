@@ -2178,7 +2178,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:45:09.745Z';
+        const searchIndexDate = '2024-03-04T02:47:02.423Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2190,9 +2190,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:45:09.745Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:02.423Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:45:09.745Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:02.423Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2440,7 +2440,7 @@
       
       
       <p><a class="tag" onclick="toggleTagSearch(this)" data-content="#halfling">#halfling</a></p>
-<p><picture src="/img/user/attachments/Linda_Leer_Ranger.jpg" alt="300|Linda_Leer_Ranger"><source       media="(max-width:480px)"
+<p><picture src="/img/user/attachments/Linda_Leer_Ranger.jpg" alt="attachments/Linda_Leer_Ranger.jpg|Linda_Leer_Ranger"><source       media="(max-width:480px)"
       srcset="/img/optimized/sm9GnZweiD-308.webp"
       type="image/webp"
       >
@@ -2449,7 +2449,7 @@
       >
       <img       class=""
       src="/img/user/attachments/Linda_Leer_Ranger.jpg"
-      alt="300|Linda_Leer_Ranger"
+      alt="attachments/Linda_Leer_Ranger.jpg|Linda_Leer_Ranger"
       width=""
       ></picture></p>
 
