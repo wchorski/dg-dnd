@@ -10,10 +10,10 @@
 ### Recent Sessions
 | File                                                                      | date              |
 | ------------------------------------------------------------------------- | ----------------- |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1030\|Session 1030]] | March 10, 2024    |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1029\|Session 1029]] | March 03, 2024    |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1028\|Session 1028]] | February 25, 2024 |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1027\|Session 1027]] | February 18, 2024 |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 006\|Session 006]]   | August 04, 2022   |
 
 { .block-language-dataview}
 
@@ -30,12 +30,12 @@
 { .block-language-dataview}
 
 ## Recently Modified 
-| File                                                               | Last modified      |
-| ------------------------------------------------------------------ | ------------------ |
-| [[Campaigns/A Dance of Matter/Players 👤/Broly\|Broly]]         | 03.03.2024 - 20:43 |
-| [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]]     | 03.03.2024 - 20:43 |
-| [[Campaigns/A Dance of Matter/Players 👤/Jianni\|Jianni]]       | 03.03.2024 - 20:43 |
-| [[Campaigns/A Dance of Matter/Players 👤/LoThaRRan\|LoThaRRan]] | 03.03.2024 - 20:43 |
+| File                                                                                        | Last modified      |
+| ------------------------------------------------------------------------------------------- | ------------------ |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1030\|Session 1030]]                   | 10.03.2024 - 19:51 |
+| [[Campaigns/A Dance of Matter/Landmarks ⛰/Green Stone Couple\|Green Stone Couple]]       | 10.03.2024 - 19:41 |
+| [[Campaigns/A Dance of Matter/Landmarks ⛰/Statue of Green Stone\|Statue of Green Stone]] | 10.03.2024 - 19:38 |
+| [[Campaigns/A Dance of Matter/Items 💍/Scroll of Banishment\|Scroll of Banishment]]      | 10.03.2024 - 19:03 |
 
 { .block-language-dataview}
 
