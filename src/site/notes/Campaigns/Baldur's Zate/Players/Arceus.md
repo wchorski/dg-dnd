@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/campaigns/baldur-s-zate/players/arceus/"}
 ---
 
-![arceus|300](/img/user/attachments/arceus.png)
-![Arceus-Lv3-character](attachments/Arceus-Lv3-character.pdf)
+![attachments/arceus.png|arceus|300](/img/user/attachments/arceus.png)
+![[attachments/Arceus-Lv3-character.pdf|Arceus-Lv3-character]]
 
 ## Items
-- daggers (looted from [Johnny Daggerman](Campaigns/Baldur's%20Zate/Players/Johnny%20Daggerman.md) corpse)
+- daggers (looted from [[Campaigns/Baldur's Zate/Players/Johnny Daggerman\|Johnny Daggerman]] corpse)
 - 2 gold coins (from mummy)
-- ~~[2 Rubies](Campaigns/Baldur's%20Zate/items/2%20Rubies.md)  (from the mummy)~~
+- ~~[[Campaigns/Baldur's Zate/items/2 Rubies\|2 Rubies]]  (from the mummy)~~
 
 ## Spells
 
