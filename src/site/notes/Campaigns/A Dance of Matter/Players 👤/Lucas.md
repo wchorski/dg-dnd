@@ -49,12 +49,14 @@ Damage Resistances: radiant, fire
 
 
 ### Actions
-- **Divine Sense**. Within 60 ft., detect presence of undead, celestial, or fiend. Also detect consecrated or desecrated object or place (use 4 times/long rest).
-- **Lay on Hands.** You have a healing pool of `level * 5` 5 HPs, with it you can heal a creature or expend 5 points to cure disease or neutralize poison (use 5 times/long rest).
-- 
+###### Divine Sense
+Within 60 ft., detect presence of undead, celestial, or fiend. Also detect consecrated or desecrated object or place (use 4 times/long rest).
+###### Lay on Hands
+You have a healing pool of `level * 5` 5 HPs, with it you can heal a creature or expend 5 points to cure disease or neutralize poison (use 5 times/long rest).
 
-Other Trait
-**Position of Privilege.** Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
+Other Traits
+###### Position of Privilege
+Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
 
 ### Number of Attacks: 2 (since lv 5) 
 ###### Fire Breath Weapon
