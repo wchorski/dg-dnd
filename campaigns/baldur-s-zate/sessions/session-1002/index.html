@@ -266,6 +266,17 @@
         
     
                     
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/waterwraith/">waterwraith </a>
+                </div>
+            
+        </div>
+        
+    
+                    
                 </div>
             
         </div>
@@ -285,6 +296,17 @@
                     
                         
     
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/clans/circle-jerkers/">Circle Jerkers </a>
+                </div>
+            
+        </div>
+        
     
                     
                         
@@ -393,6 +415,17 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/glamerweave/">Glamerweave </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/load-stone/">Load Stone </a>
                 </div>
             
@@ -438,6 +471,28 @@
         <div x-show="isOpen" style="display:none" class="filelist">
             
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/scepter-of-silver/">scepter of silver </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/scroll-of-banishment/">Scroll of Banishment </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/scroll-of-shadow-blade/">Scroll of Shadow Blade </a>
                 </div>
             
         </div>
@@ -1235,7 +1290,40 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/2021/">2021 </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/index/">index </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-001/">Session 001 </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-002/">Session 002 </a>
                 </div>
             
         </div>
@@ -1313,6 +1401,17 @@
         <div x-show="isOpen" style="display:none" class="filelist">
             
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-009/">Session 009 </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-010/">Session 010 </a>
                 </div>
             
         </div>
@@ -2167,7 +2266,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:47:54.672Z';
+        const searchIndexDate = '2024-03-11T00:55:09.848Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2179,9 +2278,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:54.672Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-11T00:55:09.848Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:54.672Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-11T00:55:09.848Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2430,7 +2529,7 @@
       
       <h2 id="party-descends-into-sewers" tabindex="-1">Party descends into sewers</h2>
 <ul>
-<li>Mace man and his men are keeping a prisoner <a href="Campaigns/Baldur's%20Zate/Players/Arceus.md" target="_blank" class="external-link">Arceus</a> captive</li>
+<li>Mace man and his men are keeping a prisoner <a class="internal-link" target="" data-note-icon="" href="/campaigns/baldur-s-zate/players/arceus/">Arceus</a> captive</li>
 <li>a suit of armor starts to glow mysteriously</li>
 <li>the guards are defeated</li>
 </ul>
@@ -2439,7 +2538,7 @@
 <li>a wicked woman is found working over a cadaver</li>
 <li>2 giant rats ambush the party</li>
 <li>the enemies are also defeated with heavy damage taken by the party</li>
-<li>a book with skulls - <a href="Campaigns/Baldur's%20Zate/items/Fireball%20Spellbook.md" target="_blank" class="external-link">Fireball Spellbook</a> is found with</li>
+<li>a book with skulls - <a class="internal-link" target="" data-note-icon="" href="/campaigns/baldur-s-zate/items/fireball-spellbook/">Fireball Spellbook</a> is found with</li>
 <li>a key is found on the Witch</li>
 <li>the key found fits into the book and unlocks to find it's a spellbook</li>
 <li>the <a class="internal-link" target="" data-note-icon="" href="/campaigns/baldur-s-zate/items/fireball-spellbook/">Campaigns/Baldur's Zate/items/Fireball Spellbook</a></li>
@@ -2447,7 +2546,7 @@
 <h3 id="split-paths" tabindex="-1">Split paths</h3>
 <ul>
 <li>two go up to a room full of candles. Some lit and some not</li>
-<li>a rat is found. <a href="Campaigns/Baldur's%20Zate/Players/Arceus.md" target="_blank" class="external-link">Arceus</a> transforms into a rat to communicate. the rat calls for &quot;help&quot; and runs down the hall</li>
+<li>a rat is found. <a class="internal-link" target="" data-note-icon="" href="/campaigns/baldur-s-zate/players/arceus/">Arceus</a> transforms into a rat to communicate. the rat calls for &quot;help&quot; and runs down the hall</li>
 <li>reach a dead end with a gravestone</li>
 <li>we push off the lid and find a knight in full plate armour</li>
 <li>the axe begins to glow and animates to life. Seemingly only defending the dead corps</li>

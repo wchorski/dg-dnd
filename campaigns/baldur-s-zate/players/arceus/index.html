@@ -266,6 +266,17 @@
         
     
                     
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/beasts/waterwraith/">waterwraith </a>
+                </div>
+            
+        </div>
+        
+    
+                    
                 </div>
             
         </div>
@@ -285,6 +296,17 @@
                     
                         
     
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/clans/circle-jerkers/">Circle Jerkers </a>
+                </div>
+            
+        </div>
+        
     
                     
                         
@@ -393,6 +415,17 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/glamerweave/">Glamerweave </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/load-stone/">Load Stone </a>
                 </div>
             
@@ -438,6 +471,28 @@
         <div x-show="isOpen" style="display:none" class="filelist">
             
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/scepter-of-silver/">scepter of silver </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/scroll-of-banishment/">Scroll of Banishment </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/scroll-of-shadow-blade/">Scroll of Shadow Blade </a>
                 </div>
             
         </div>
@@ -1235,7 +1290,40 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/2021/">2021 </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/index/">index </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-001/">Session 001 </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-002/">Session 002 </a>
                 </div>
             
         </div>
@@ -1313,6 +1401,17 @@
         <div x-show="isOpen" style="display:none" class="filelist">
             
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-009/">Session 009 </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-010/">Session 010 </a>
                 </div>
             
         </div>
@@ -2167,7 +2266,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-04T02:47:54.672Z';
+        const searchIndexDate = '2024-03-11T00:55:09.848Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2179,9 +2278,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-04T02:47:54.672Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-11T00:55:09.848Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-04T02:47:54.672Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-11T00:55:09.848Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2428,7 +2527,7 @@
       </header>
       
       
-      <p><picture src="/img/user/attachments/arceus.png" alt="arceus|300" width="300px"><source       media="(max-width:480px)"
+      <p><picture src="/img/user/attachments/arceus.png" alt="attachments/arceus.png|arceus|300" width="300px"><source       media="(max-width:480px)"
       srcset="/img/optimized/1ZNvurw0iX-235.webp"
       type="image/webp"
       >
@@ -2437,15 +2536,15 @@
       >
       <img       class=""
       src="/img/user/attachments/arceus.png"
-      alt="arceus|300"
+      alt="attachments/arceus.png|arceus|300"
       width="300px"
       ></picture><br>
-<img src="attachments/Arceus-Lv3-character.pdf" alt="Arceus-Lv3-character"></p>
+!<a class="internal-link is-unresolved" href="/404" target="">Arceus-Lv3-character</a></p>
 <h2 id="items" tabindex="-1">Items</h2>
 <ul>
-<li>daggers (looted from <a href="Campaigns/Baldur's%20Zate/Players/Johnny%20Daggerman.md" target="_blank" class="external-link">Johnny Daggerman</a> corpse)</li>
+<li>daggers (looted from <a class="internal-link is-unresolved" href="/404" target="">Johnny Daggerman</a> corpse)</li>
 <li>2 gold coins (from mummy)</li>
-<li><s><a href="Campaigns/Baldur's%20Zate/items/2%20Rubies.md" target="_blank" class="external-link">2 Rubies</a>  (from the mummy)</s></li>
+<li><s><a class="internal-link" target="" data-note-icon="" href="/campaigns/baldur-s-zate/items/2-rubies/">2 Rubies</a>  (from the mummy)</s></li>
 </ul>
 <h2 id="spells" tabindex="-1">Spells</h2>
 <h3 id="druidcraft" tabindex="-1">Druidcraft</h3>
@@ -2915,9 +3014,9 @@
                               
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
-                                          <div class="backlink-list"><div class="backlink-card">
-                                                            <span class="no-backlinks-message">No other pages mentions this page</span>
-                                                      </div></div>
+                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/baldur-s-zate/sessions/1003/" data-note-icon="" class="backlink">1003</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/baldur-s-zate/sessions/session-1002/" data-note-icon="" class="backlink">Session 1002</a>
+                                                </div></div>
                               </div>
                         
                   
