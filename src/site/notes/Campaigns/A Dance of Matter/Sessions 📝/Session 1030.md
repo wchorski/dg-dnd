@@ -28,4 +28,6 @@ The Party continues on to meet back up with [[Campaigns/A Dance of Matter/NPCs �
 		- [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]]
 		- [[Campaigns/A Dance of Matter/Players 👤/Silver Liota\|Silver Liota]]
 		- [[Campaigns/A Dance of Matter/Players 👤/LoThaRRan\|LoThaRRan]]
-	- 
+	- Female statue
+		- amulet on neck with scripture
+	
