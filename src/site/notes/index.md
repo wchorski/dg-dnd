@@ -30,12 +30,12 @@
 { .block-language-dataview}
 
 ## Recently Modified 
-| File                                                                      | Last modified      |
-| ------------------------------------------------------------------------- | ------------------ |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1030\|Session 1030]] | 10.03.2024 - 20:17 |
-| [[_templates/_session\|_session]]                                      | 10.03.2024 - 20:17 |
-| [[_templates/_NPC\|_NPC]]                                              | 10.03.2024 - 20:17 |
-| [[_templates/_item\|_item]]                                            | 10.03.2024 - 20:17 |
+| File                                                                                        | Last modified      |
+| ------------------------------------------------------------------------------------------- | ------------------ |
+| [[Campaigns/A Dance of Matter/Landmarks ⛰/Statue of Green Stone\|Statue of Green Stone]] | 10.03.2024 - 20:18 |
+| [[Campaigns/A Dance of Matter/Landmarks ⛰/Green Stone Couple\|Green Stone Couple]]       | 10.03.2024 - 20:18 |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1030\|Session 1030]]                   | 10.03.2024 - 20:17 |
+| [[_templates/_session\|_session]]                                                        | 10.03.2024 - 20:17 |
 
 { .block-language-dataview}
 
