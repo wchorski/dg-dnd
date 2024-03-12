@@ -41,6 +41,7 @@
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1013\|Session 1013]] | \-                |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1014\|Session 1014]] | \-                |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1015\|Session 1015]] | \-                |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1017\|Session 1017]] | \-                |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1016\|Session 1016]] | \-                |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1018\|Session 1018]] | \-                |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1019\|Session 1019]] | \-                |
@@ -48,7 +49,6 @@
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1021\|Session 1021]] | \-                |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1022\|Session 1022]] | \-                |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1023\|Session 1023]] | \-                |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1017\|Session 1017]] | \-                |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1024\|Session 1024]] | \-                |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1025\|Session 1025]] | \-                |
 | [[Campaigns/A Dance of Matter/Sessions 📝/Session 1026\|Session 1026]] | \-                |
