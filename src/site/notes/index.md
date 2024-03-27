@@ -8,12 +8,12 @@
 
 ## A Dance of Matter
 ### Recent Sessions
-| File                                                                      | date              |
-| ------------------------------------------------------------------------- | ----------------- |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1030\|Session 1030]] | March 10, 2024    |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1029\|Session 1029]] | March 03, 2024    |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1028\|Session 1028]] | February 25, 2024 |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1027\|Session 1027]] | February 18, 2024 |
+| File                                                                      | date           |
+| ------------------------------------------------------------------------- | -------------- |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1032\|Session 1032]] | March 24, 2024 |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1031\|Session 1031]] | March 17, 2024 |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1030\|Session 1030]] | March 10, 2024 |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1029\|Session 1029]] | March 03, 2024 |
 
 { .block-language-dataview}
 
@@ -24,18 +24,18 @@
 | [[Campaigns/A Dance of Matter/Players 👤/Bromdan\|Bromdan]]           | dwarf                                    | <ul><li>cleric</li></ul>    | neutral_good    | 10    |
 | [[Campaigns/A Dance of Matter/Players 👤/Jianni\|Jianni]]             | <ul><li>half_elf</li><li>human</li></ul> | <ul><li>bard</li></ul>      | chaotic_good    | 5     |
 | [[Campaigns/A Dance of Matter/Players 👤/LoThaRRan\|LoThaRRan]]       | <ul><li>dwarf</li></ul>                  | <ul><li>fighter</li></ul>   | chaotic_neutral | 10    |
-| [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]]               | <ul><li>dragonborn</li></ul>             | <ul><li>paladin</li></ul>   | lawful_neutral  | 10    |
+| [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]]               | dragonborn                               | <ul><li>paladin</li></ul>   | lawful_neutral  | 10    |
 | [[Campaigns/A Dance of Matter/Players 👤/Silver Liota\|Silver Liota]] | <ul><li>druid</li></ul>                  | <ul><li>druid</li></ul>     | chaotic_good    | 10    |
 
 { .block-language-dataview}
 
 ## Recently Modified 
-| File                                                                                        | Last modified      |
-| ------------------------------------------------------------------------------------------- | ------------------ |
-| [[Campaigns/A Dance of Matter/Landmarks ⛰/Statue of Green Stone\|Statue of Green Stone]] | 10.03.2024 - 20:18 |
-| [[Campaigns/A Dance of Matter/Landmarks ⛰/Green Stone Couple\|Green Stone Couple]]       | 10.03.2024 - 20:18 |
-| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1030\|Session 1030]]                   | 10.03.2024 - 20:17 |
-| [[_templates/_session\|_session]]                                                        | 10.03.2024 - 20:17 |
+| File                                                                                   | Last modified      |
+| -------------------------------------------------------------------------------------- | ------------------ |
+| [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]]                             | 24.03.2024 - 19:59 |
+| [[Campaigns/A Dance of Matter/Sessions 📝/Session 1032\|Session 1032]]              | 24.03.2024 - 19:38 |
+| [[Campaigns/A Dance of Matter/Items 💍/Dwarvish Heavy Plate\|Dwarvish Heavy Plate]] | 24.03.2024 - 19:34 |
+| [[_templates/_item\|_item]]                                                         | 24.03.2024 - 19:32 |
 
 { .block-language-dataview}
 
