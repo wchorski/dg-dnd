@@ -657,6 +657,28 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/scroll-of-hold-monster/">Scroll of Hold Monster </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/scroll-of-protection-from-celestials/">Scroll of Protection from Celestials </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/scroll-of-shadow-blade/">Scroll of Shadow Blade </a>
                 </div>
             
@@ -691,6 +713,17 @@
         <div x-show="isOpen" style="display:none" class="filelist">
             
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/war-wistle/">War Wistle </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/items/white-eyes-shard/">White Eyes Shard </a>
                 </div>
             
         </div>
@@ -1017,7 +1050,29 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/np-cs/caeneus/">Caeneus </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/np-cs/celtis/">Celtis </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/np-cs/cherubael-the-patron-of-bloody-knives/">Cherubael, the Patron of Bloody Knives </a>
                 </div>
             
         </div>
@@ -1961,6 +2016,28 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1031/">Session 1031 </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1032/">Session 1032 </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-999/">Session 999 </a>
                 </div>
             
@@ -2456,7 +2533,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-03-27T06:29:58.946Z';
+        const searchIndexDate = '2024-03-27T06:30:32.811Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2468,9 +2545,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-03-27T06:29:58.946Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-03-27T06:30:32.811Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-27T06:29:58.946Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-03-27T06:30:32.811Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -2788,7 +2865,7 @@
 <td>holding</td>
 </tr>
 <tr>
-<td><a class="internal-link is-unresolved" href="/404" target="">Scroll of Protection from Celestials</a></td>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/items/scroll-of-protection-from-celestials/">Scroll of Protection from Celestials</a></td>
 <td><ul><li>scroll</li><li>rare</li></ul></td>
 <td>holding</td>
 </tr>
