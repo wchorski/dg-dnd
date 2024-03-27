@@ -3,13 +3,11 @@
 ---
 
 
-![attachments/lucas-pic-v1.jpg](/img/user/attachments/lucas-pic-v1.jpg)   
+![attachments/lucas-pic-v1.jpg|300](/img/user/attachments/lucas-pic-v1.jpg)   
 
 [Dungeon Master's Vault (dungeonmastersvault.com)](https://www.dungeonmastersvault.com/pages/dnd/5e/character-builder)
 ## Character Sheet
-![[attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_10.pdf|Lucas_Laurde--Dragonborn_Paladin--Lv_10]]
-
-
+![[attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_11.pdf|Lucas_Laurde--Dragonborn_Paladin--Lv_11]]
 ## Items
 - [[Campaigns/A Dance of Matter/Items 💍/Robe of Scintillating Colors\|Robe of Scintillating Colors]]
 - bag of gems (opal, ect)
@@ -20,9 +18,11 @@
 - 5 [[Campaigns/A Dance of Matter/Items 💍/Red Glimmer\|Red Glimmer]]
 - (non sentient) breast plate *equipped*
 - fire shield *equipped* 
-- Falcata - (fire damage) (counter spell a fire spell) ![attachments/falcata.jpg|falcata | 150](/img/user/attachments/falcata.jpg)
+- ~~Falcata - (fire damage) (counter spell a fire spell) ~~![attachments/falcata.jpg|falcata | 150](/img/user/attachments/falcata.jpg)
 - ![attachments/helmet-dragon.png|helmet-dragon|100](/img/user/attachments/helmet-dragon.png)
 - small knife stolen from cultist from [[Campaigns/A Dance of Matter/Locations 📌/witchroads\|witchroads]]
+- [[Campaigns/A Dance of Matter/Items 💍/White Eyes Shard\|White Eyes Shard]]
+- [[Campaigns/A Dance of Matter/Items 💍/Scimitar of Speed\|Scimitar of Speed]]
 
 Damage Resistances: radiant, fire
 - [Citrine gem](https://www.minerals.net/mineral/citrine.aspx) (brown quartz)
@@ -132,22 +132,33 @@ cleric spell list
 ### lv 7
 ###### Oath Feature Relentless Avenger 
 - your supernatural focus helps you close off a foe's retreat. When you hit a creature with an opportunity attack, you can **move up to half your speed immediately after the attack** and as part of the same reaction. This movement doesn't provoke opportunity attacks.
-
 ### Lv 8
 - +2 to charisma
-
 ### Lv 9
 ?
-
 ### Lv 10
-+4 proficiency bonus
-1st 4
-2nd 3
-3rd 2
-Aura of Courage
-Starting at 10th level, you and friendly creatures within 10 feet of you can’t be frightened while you are conscious.
+- +4 proficiency bonus
+- 1st 4
+- 2nd 3
+- 3rd 2
+- Aura of Courage
+- Starting at 10th level, you and friendly creatures within - 10 feet of you can’t be frightened while you are conscious.
+### Lv 11
+#### Improved Divine Smite
+melee weapons deal extra `1d8` #radiant damage.
+#### Spell Slots
+- 1st - 4
+- 2nd - 3
+- 3rd - 3
 
 ## Lore
 
 ### Dragon God 
 [Bahamut | Forgotten Realms Wiki | Fandom](https://forgottenrealms.fandom.com/wiki/Bahamut)
+
+## Paladin Mount
+A paladin's mount can be a Warhorse, but wanted something more thematic to my #dragonborn heritage
+### Ideas
+- [Rage drake | Dungeons & Dragons Lore Wiki | Fandom](https://dungeonsdragons.fandom.com/wiki/Rage_drake)
+- ![geko|100](https://i.pinimg.com/originals/b4/91/d2/b491d21b3a91afcf9cc95c11af5ce561.jpg)
+- 
