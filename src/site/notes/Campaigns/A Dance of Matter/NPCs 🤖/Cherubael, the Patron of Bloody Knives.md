@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/cherubael-the-patron-of-bloody-knives/"}
+---
+
+a.k.a White Eyed Demon
