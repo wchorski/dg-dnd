@@ -19,6 +19,8 @@
 | [[Campaigns/A Dance of Matter/Items 💍/Scroll of Protection from Plants\|Scroll of Protection from Plants]]         | <ul><li>scroll</li></ul>                      | holding   |
 | [[Campaigns/A Dance of Matter/Items 💍/Scroll of Protection from Celestials\|Scroll of Protection from Celestials]] | <ul><li>scroll</li><li>rare</li></ul>         | holding   |
 | [[Campaigns/A Dance of Matter/Items 💍/Buster Sword\|Buster Sword]]                                                 | <ul><li>weapon</li></ul>                      | holding   |
+| [[Campaigns/A Dance of Matter/Items 💍/Wand of Lightingbolts\|Wand of Lightingbolts]]                               | <ul><li>weapon</li></ul>                      | holding   |
+| [[Campaigns/A Dance of Matter/Items 💍/Spear of Lighting\|Spear of Lighting]]                                       | <ul><li>weapon</li><li>lighting</li></ul>     | holding   |
 | [[Campaigns/A Dance of Matter/Items 💍/Scimitar of Speed\|Scimitar of Speed]]                                       | <ul><li>weapon</li><li>magic</li></ul>        | holding   |
 | [[Campaigns/A Dance of Matter/Items 💍/Mace of Warning\|Mace of Warning]]                                           | <ul><li>weapon</li><li>uncommon</li></ul>     | holding   |
 | [[Campaigns/A Dance of Matter/Items 💍/Clothes of Mending\|Clothes of Mending]]                                     | <ul><li>wonderous</li><li>common</li></ul>    | holding   |

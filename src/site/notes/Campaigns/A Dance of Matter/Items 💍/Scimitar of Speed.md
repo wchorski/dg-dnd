@@ -3,7 +3,7 @@
 ---
 
 
-![attachments/Scimitar of Speed.jpeg|300](/img/user/attachments/Scimitar%20of%20Speed.jpeg)
+![attachments/scimitar_of_speed_2.jpg|200](/img/user/attachments/scimitar_of_speed_2.jpg)
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.
 
 Proficiency with a scimitar allows you to add your proficiency bonus to the attack roll for any attack you make with it.

@@ -62,11 +62,13 @@ Thanks to your noble birth, people are inclined to think the best of you. You ar
 ###### Fire Breath Weapon
 - Fire, 
 - 15 ft. cone, 
-- ~~2d6~~ `3d8` fire damage, 
+- ~~`2d6`~~ `4d8` fire damage, 
 - DC15 dex save to enemy 
 
 #### Hit Die
 Paladin - d10 (+ constitution)
+
+#### AC is 21
 
 ## == Levels == 
 ### lv 1
@@ -79,7 +81,8 @@ Paladin - d10 (+ constitution)
 ###### Fighting Style
 - Blessed Warrior (2 cleric cantrips) Spellcasting 
 ###### Divine Smite
-- `2d8` (+1d8 for level 2 slot) [current = ]
+- `2d8` (+5d8 for level 2 slot) [current = ]
+- 2d4+1d6+3d8+37
 
 cleric spell list 
 ###### Word of Radiance 
@@ -109,16 +112,17 @@ cleric spell list
 - Your natural draconic heritage is more pronounced as you grow in age and power. Your scales thicken and grow less lustrous, granting you 1/- point of damage resistance. Additionally, your breath weapon grows more powerful. The Dexterity DC becomes (DC8 + Proficiency Bonus + Charisma Modifier), and the damage becomes **3d8 at level 5**, growing to 4d8 at level 8, 5d10 at level 11, and 6d10 at level 14. You are treated as having the Dragon type for all effects, magical purposes, and spell triggers.
 
 ###  Lv5 
- #### Oath of Vengeance - additions
+ ###### Oath of Vengeance - additions
+ ###### Summon Celestial
+ - [Summon Celestial](http://dnd5e.wikidot.com/spell:summon-celestial)
+ - **Casting Time:** 1 action  
+- **Range:** 90 feet  
+- **Components:** V, S, M (a golden reliquary worth at least 500 gp)  
+- **Duration:** Concentration, up to 1 hour
 ###### Misty Step
 - Briefly surrounded by silvery mist, you Teleport up to 30 feet to an unoccupied space that you can see. 
  ###### Hold Person
  - Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be Paralyzed for the Duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target. At Higher Levels: When you cast this spell using a spell slot of 3rd Level or higher, you can target on additional Humanoid for each slot level above 2nd. The Humanoids must be within 30 feet of each other when you target them.
- 1. - spells lv2 slot - 
- ###### Holy Weapon
-  - _1_hour_ You imbue a weapon you touch with holy power. Until the spell ends, the weapon emits bright light in a 30-foot radius and dim light for an additional `30 feet`. In addition, weapon attacks made with it deal an extra `2d8` radiant damage on a hit. If the weapon isn’t already a magic weapon, it becomes one for the duration. As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a `Constitution` saving throw. On a failed save, a creature takes `4d8` `radiant damage`, and it is ==blinded== for 1 minute. On a successful save, a creature takes half as much damage and isn’t blinded. At the end of each of its turns, a blinded creature can make a Constitution saving throw, ending the effect on itself on a success.
- ###### Destructive Wave
- - [Destructive Wave](http://dnd5e.wikidot.com/spell:destructive-wave)-Each creature you choose within **30 feet** of you must succeed on a *Constitution* saving throw or take **5d6** *thunder* damage, as well as **5d6** *radiant* or *necrotic* damage (your choice), and be *knocked prone*. A creature that succeeds on its saving throw takes *half damage* and isn’t knocked prone.
 
 **_Spell Lists._** [Paladin](http://dnd5e.wikidot.com/spells:paladin)
 
@@ -146,10 +150,39 @@ cleric spell list
 ### Lv 11
 #### Improved Divine Smite
 melee weapons deal extra `1d8` #radiant damage.
+## Spells
+
 #### Spell Slots
 - 1st - 4
 - 2nd - 3
 - 3rd - 3
+
+### Cantrips
+#### Sacred Flame
+_Evocation cantrip_
+**Casting Time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
+
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
+
+**_At Higher Levels._** The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+**_Spell Lists._** [Cleric](http://dnd5e.wikidot.com/spells:cleric)
+
+#### Word of Radiance
+_Evocation cantrip_
+**Casting Time:** 1 action  
+**Range:** 5 feet  
+**Components:** V, M (a holy symbol)  
+**Duration:** Instantaneous
+
+You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.
+
+**_At Higher Levels._** The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+**_Spell Lists._** [Cleric](http://dnd5e.wikidot.com/spells:cleric)
 
 ## Lore
 
