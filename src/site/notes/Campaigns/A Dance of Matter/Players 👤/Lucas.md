@@ -6,10 +6,21 @@
 ![attachments/lucas-pic-v1.jpg|300](/img/user/attachments/lucas-pic-v1.jpg)   
 
 [Dungeon Master's Vault (dungeonmastersvault.com)](https://www.dungeonmastersvault.com/pages/dnd/5e/character-builder)
+
+## Mount & Pet
+- 
 ## Character Sheet
 ![[attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_11.pdf|Lucas_Laurde--Dragonborn_Paladin--Lv_11]]
 ## Items
-- [[Campaigns/A Dance of Matter/Items 💍/Robe of Scintillating Colors\|Robe of Scintillating Colors]]
+| File                                                                                                   | inventory | tags                                  |
+| ------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------- |
+| [[Campaigns/A Dance of Matter/Items 💍/rod of the pack keeper\|rod of the pack keeper]]             | holding   | <ul><li>weapon</li><li>rare</li></ul> |
+| [[Campaigns/A Dance of Matter/Items 💍/Robe of Scintillating Colors\|Robe of Scintillating Colors]] | holding   | <ul><li>wearable</li></ul>            |
+| [[Campaigns/A Dance of Matter/Items 💍/ring of radiant resistance\|ring of radiant resistance]]     | holding   | <ul><li>wearable</li></ul>            |
+| [[Campaigns/A Dance of Matter/Items 💍/ring of necrotic resistance\|ring of necrotic resistance]]   | holding   | <ul><li>wearable</li></ul>            |
+
+{ .block-language-dataview}
+
 - bag of gems (opal, ect)
 - ~~ruby set in gold ring~~ given back to grieving Dwarf father
 - shield that fuel with breath weapon.  (heavy steal shield, +1, magic 1d6)
@@ -29,8 +40,8 @@ Damage Resistances: radiant, fire
 - ruby gem
 - magic staff of unknown power
 - golden bangle 
-
-
+## Mount
+- [[Campaigns/A Dance of Matter/Beasts 🐻/KenDrake\|KenDrake]]
 ### connections
 - part of the [[Campaigns/A Dance of Matter/Clans ⚔/Circle Jerkers\|Circle Jerkers]]
 

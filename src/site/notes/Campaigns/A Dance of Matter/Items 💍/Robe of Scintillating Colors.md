@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/robe-of-scintillating-colors/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/robe-of-scintillating-colors/","tags":["wearable"]}
 ---
 
 [Robe of Scintillating Colors - Magic Items - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/magic-items/4740-robe-of-scintillating-colors)
