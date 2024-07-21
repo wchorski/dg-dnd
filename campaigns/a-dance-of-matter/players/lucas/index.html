@@ -2335,6 +2335,17 @@
     
         <div x-show="isOpen" style="display:none" class="filelist">
             
+                <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-1040/">Session 1040 </a>
+                </div>
+            
+        </div>
+        
+    
+                    
+                        
+    
+        <div x-show="isOpen" style="display:none" class="filelist">
+            
                 <div @click.stop class="notelink "><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration: none;" class="filename" href="/campaigns/a-dance-of-matter/sessions/session-999/">Session 999 </a>
                 </div>
             
@@ -2830,7 +2841,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-07-21T22:27:03.949Z';
+        const searchIndexDate = '2024-07-21T22:31:04.313Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2842,9 +2853,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-07-21T22:27:03.949Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-07-21T22:31:04.313Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-07-21T22:27:03.949Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-07-21T22:31:04.313Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -3111,10 +3122,10 @@
 <p><a href="https://www.dungeonmastersvault.com/pages/dnd/5e/character-builder" target="_blank" class="external-link">Dungeon Master's Vault (dungeonmastersvault.com)</a></p>
 <h2 id="mount-and-amp-pet" tabindex="-1">Mount &amp; Pet</h2>
 <ul>
-<li></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/beasts/ken-drake/">KenDrake</a></li>
 </ul>
 <h2 id="character-sheet" tabindex="-1">Character Sheet</h2>
-<p>!<a class="internal-link is-unresolved" href="/404" target="">Lucas_Laurde--Dragonborn_Paladin--Lv_11</a></p>
+<p>![[attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_12.pdf]]</p>
 <h2 id="items" tabindex="-1">Items</h2>
 <div class="block-language-dataview table-wrapper"><table class="dataview table-view-table">
 <thead class="table-view-thead">
@@ -3131,17 +3142,17 @@
 <td><ul><li>weapon</li><li>rare</li></ul></td>
 </tr>
 <tr>
-<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/items/robe-of-scintillating-colors/">Robe of Scintillating Colors</a></td>
-<td>holding</td>
-<td><ul><li>wearable</li></ul></td>
-</tr>
-<tr>
 <td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/items/ring-of-radiant-resistance/">ring of radiant resistance</a></td>
 <td>holding</td>
 <td><ul><li>wearable</li></ul></td>
 </tr>
 <tr>
 <td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/items/ring-of-necrotic-resistance/">ring of necrotic resistance</a></td>
+<td>holding</td>
+<td><ul><li>wearable</li></ul></td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/campaigns/a-dance-of-matter/items/robe-of-scintillating-colors/">Robe of Scintillating Colors</a></td>
 <td>holding</td>
 <td><ul><li>wearable</li></ul></td>
 </tr>
@@ -3357,6 +3368,16 @@
 <li>Starting at 10th level, you and friendly creatures within - 10 feet of you can’t be frightened while you are conscious.</li>
 </ul>
 <h3 id="lv-11" tabindex="-1">Lv 11</h3>
+<h3 id="level-12" tabindex="-1">Level 12</h3>
+<ul>
+<li>+1 Ability Score (= +4)</li>
+<li>new Feat: <a href="https://www.dndbeyond.com/feats/10-grappler?msockid=17ec641db2c36d5807f27010b3456ccd" target="_blank" class="external-link">Grappler</a>
+<ul>
+<li>You have advantage on attack rolls against a creature you are <a href="https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Grappling" target="_blank" class="external-link">grappling</a>.</li>
+<li>You can use your action to try to pin a creature <a href="https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled" target="_blank" class="external-link">grappled</a> by you. To do so, make another grapple check. If you succeed, you and the creature are both <a href="https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Restrained" target="_blank" class="external-link">restrained</a> until the grapple ends.</li>
+</ul>
+</li>
+</ul>
 <h4 id="improved-divine-smite" tabindex="-1">Improved Divine Smite</h4>
 <p>melee weapons deal extra <code>1d8</code> <a class="tag" onclick="toggleTagSearch(this)" data-content="#radiant">#radiant</a> damage.</p>
 <h2 id="spells" tabindex="-1">Spells</h2>
@@ -3797,6 +3818,9 @@
             		</li>
 
                     <li><a href="#lv-11">Lv 11</a>
+            		</li>
+
+                    <li><a href="#level-12">Level 12</a>
             
                 <ol>
                     
@@ -3857,7 +3881,9 @@
                               
                               <div class="backlinks">
                                     <div class="backlink-title" style="margin: 4px 0 !important;">Pages mentioning this page</div>
-                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/clans/circle-jerkers/" data-note-icon="" class="backlink">Circle Jerkers</a>
+                                          <div class="backlink-list"><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1032/" data-note-icon="" class="backlink">Session 1032</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1037/" data-note-icon="" class="backlink">Session 1037</a>
+                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/clans/circle-jerkers/" data-note-icon="" class="backlink">Circle Jerkers</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/matter/" data-note-icon="" class="backlink">Matter</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/grimjaw/" data-note-icon="" class="backlink">Grimjaw</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/np-cs/lisette/" data-note-icon="" class="backlink">Lisette</a>
@@ -3882,10 +3908,8 @@
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1029/" data-note-icon="" class="backlink">Session 1029</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1030/" data-note-icon="" class="backlink">Session 1030</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1031/" data-note-icon="" class="backlink">Session 1031</a>
-                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1032/" data-note-icon="" class="backlink">Session 1032</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1034/" data-note-icon="" class="backlink">Session 1034</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1035/" data-note-icon="" class="backlink">Session 1035</a>
-                                                </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1037/" data-note-icon="" class="backlink">Session 1037</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/campaigns/a-dance-of-matter/sessions/session-1038/" data-note-icon="" class="backlink">Session 1038</a>
                                                 </div><div class="backlink-card"><i  icon-name="link"></i><a href="/" data-note-icon="" class="backlink">Dungeon&#39;s and Dragons</a>
                                                 </div></div>
