@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/landmarks/iron-vault/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/landmarks/iron-vault/","dgPassFrontmatter":true}
 ---
 
 [[Campaigns/A Dance of Matter/Clans ⚔/Iron Circle\|Iron Circle]]

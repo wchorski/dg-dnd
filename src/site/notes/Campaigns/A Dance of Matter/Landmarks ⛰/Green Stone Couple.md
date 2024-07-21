@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/landmarks/green-stone-couple/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/landmarks/green-stone-couple/","dgPassFrontmatter":true}
 ---
 
 

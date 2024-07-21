@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/matter/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/matter/","dgPassFrontmatter":true}
 ---
 
 ### tutorials

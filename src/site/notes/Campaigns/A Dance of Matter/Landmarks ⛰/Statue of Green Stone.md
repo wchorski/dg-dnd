@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/landmarks/statue-of-green-stone/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/landmarks/statue-of-green-stone/","dgPassFrontmatter":true}
 ---
 
 

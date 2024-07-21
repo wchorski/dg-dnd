@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/harken/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/harken/","dgPassFrontmatter":true}
 ---
 
 #city 

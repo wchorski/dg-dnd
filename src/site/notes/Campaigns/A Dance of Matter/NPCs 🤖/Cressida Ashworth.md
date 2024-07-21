@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/cressida-ashworth/"}
+{"dg-publish":true,"status":"dead","permalink":"/campaigns/a-dance-of-matter/np-cs/cressida-ashworth/","dgPassFrontmatter":true}
 ---
 
 ![attachments/Cressida_Ashworth.png|400](/img/user/attachments/Cressida_Ashworth.png)

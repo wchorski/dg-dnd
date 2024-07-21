@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/ramtholemewwe/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/ramtholemewwe/","dgPassFrontmatter":true}
 ---
 
 ![attachments/battle-goat--stormpikebattlecharger.jpg|battle-goat--stormpikebattlecharger | 100](/img/user/attachments/battle-goat--stormpikebattlecharger.jpg)

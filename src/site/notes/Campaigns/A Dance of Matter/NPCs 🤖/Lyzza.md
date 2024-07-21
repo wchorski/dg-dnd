@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/lyzza/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/lyzza/","dgPassFrontmatter":true}
 ---
 
 #warlock #witch

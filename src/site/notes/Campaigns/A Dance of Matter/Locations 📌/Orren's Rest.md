@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/orren-s-rest/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/orren-s-rest/","dgPassFrontmatter":true}
 ---
 
 #village

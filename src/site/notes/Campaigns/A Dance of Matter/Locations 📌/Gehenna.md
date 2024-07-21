@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/gehenna/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/gehenna/","dgPassFrontmatter":true}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/rod-of-the-pack-keeper/","tags":["weapon","rare"]}
+{"dg-publish":true,"tags":["weapon","rare"],"inventory":"holding","player":"[[Campaigns/A Dance of Matter/Players 👤/Lucas|Lucas]]","permalink":"/campaigns/a-dance-of-matter/items/rod-of-the-pack-keeper/","dgPassFrontmatter":true}
 ---
 
 While holding this rod, you gain a bonus to spell attack rolls and to the saving throw DCs of your warlock spells. The bonus is determined by the rod's rarity.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/clans/sisterhood-of-delfas/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/clans/sisterhood-of-delfas/","dgPassFrontmatter":true}
 ---
 
 found in the [[Campaigns/A Dance of Matter/Locations 📌/witchroads\|witchroads]] cavern

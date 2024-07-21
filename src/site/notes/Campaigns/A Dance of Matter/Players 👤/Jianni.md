@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/players/jianni/"}
+{"dg-publish":true,"race":["half_elf","human"],"class":["bard"],"alignment":"chaotic_good","level":5,"permalink":"/campaigns/a-dance-of-matter/players/jianni/","dgPassFrontmatter":true}
 ---
 
 

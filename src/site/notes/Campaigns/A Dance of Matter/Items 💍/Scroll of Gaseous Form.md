@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/scroll-of-gaseous-form/","tags":["scroll"]}
+{"dg-publish":true,"tags":["scroll"],"inventory":"holding","permalink":"/campaigns/a-dance-of-matter/items/scroll-of-gaseous-form/","dgPassFrontmatter":true}
 ---
 
 You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points. An incorporeal creature isn't affected.

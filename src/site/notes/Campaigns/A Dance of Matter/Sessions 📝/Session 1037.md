@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1037/"}
+{"dg-publish":true,"date":"2024-06-16","permalink":"/campaigns/a-dance-of-matter/sessions/session-1037/","dgPassFrontmatter":true}
 ---
 
 ## In The goliath Fort

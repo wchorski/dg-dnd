@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/hooked-horror/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/hooked-horror/","dgPassFrontmatter":true}
 ---
 
 ![attachments/hook-horror.jpg|hook-horror | 400](/img/user/attachments/hook-horror.jpg)

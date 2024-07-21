@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/orb-of-direction/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/orb-of-direction/","dgPassFrontmatter":true}
 ---
 
 > _Wondrous item, common_

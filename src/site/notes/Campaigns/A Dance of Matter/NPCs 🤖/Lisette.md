@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/lisette/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/lisette/","dgPassFrontmatter":true}
 ---
 
 | character | race   | class |

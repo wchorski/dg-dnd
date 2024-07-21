@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/hellhound/","tags":["fire","demon"]}
+{"dg-publish":true,"tags":["fire","demon"],"permalink":"/campaigns/a-dance-of-matter/beasts/hellhound/","dgPassFrontmatter":true}
 ---
 
 

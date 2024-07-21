@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/red-thorn/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/red-thorn/","dgPassFrontmatter":true}
 ---
 
 | character | race   | class |

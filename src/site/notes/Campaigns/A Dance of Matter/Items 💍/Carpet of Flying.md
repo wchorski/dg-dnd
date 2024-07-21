@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/carpet-of-flying/","tags":["wonderous","very_rare"]}
+{"dg-publish":true,"tags":["wonderous","very_rare"],"inventory":"holding","permalink":"/campaigns/a-dance-of-matter/items/carpet-of-flying/","dgPassFrontmatter":true}
 ---
 
 ![attachments/magic-carpet.jpeg|200](/img/user/attachments/magic-carpet.jpeg)

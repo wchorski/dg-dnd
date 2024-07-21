@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/ken-drake/"}
+{"dg-publish":true,"tags":null,"owner":"[[Campaigns/A Dance of Matter/Players 👤/Lucas|Lucas]]","permalink":"/campaigns/a-dance-of-matter/beasts/ken-drake/","dgPassFrontmatter":true}
 ---
 
 ![attachments/Guard_Drake.jpg|300](/img/user/attachments/Guard_Drake.jpg)

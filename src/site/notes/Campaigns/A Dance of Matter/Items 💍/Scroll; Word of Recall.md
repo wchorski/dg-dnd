@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/scroll-word-of-recall/"}
+{"dg-publish":true,"level":6,"casting time":"1 Action","Range":"5ft","Components":"V","Duration":"Instant","School":"conjuration","attack":"none","damage":"teleportation","permalink":"/campaigns/a-dance-of-matter/items/scroll-word-of-recall/","dgPassFrontmatter":true}
 ---
 
 

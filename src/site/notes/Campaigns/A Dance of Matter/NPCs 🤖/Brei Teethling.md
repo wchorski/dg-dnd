@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/brei-teethling/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/brei-teethling/","dgPassFrontmatter":true}
 ---
 
 

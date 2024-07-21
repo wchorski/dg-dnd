@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/clans/iron-circle/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/clans/iron-circle/","dgPassFrontmatter":true}
 ---
 
 ### description

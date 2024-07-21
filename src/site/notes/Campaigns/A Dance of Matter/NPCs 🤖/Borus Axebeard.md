@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/borus-axebeard/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/borus-axebeard/","dgPassFrontmatter":true}
 ---
 
 | character | race   | class   |

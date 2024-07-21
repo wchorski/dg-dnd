@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1025/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1025/","dgPassFrontmatter":true}
 ---
 
 

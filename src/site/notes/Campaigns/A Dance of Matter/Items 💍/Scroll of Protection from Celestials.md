@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/scroll-of-protection-from-celestials/","tags":["scroll","rare"]}
+{"dg-publish":true,"tags":["scroll","rare"],"inventory":"holding","permalink":"/campaigns/a-dance-of-matter/items/scroll-of-protection-from-celestials/","dgPassFrontmatter":true}
 ---
 
 _Scroll, rare_

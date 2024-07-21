@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/scroll-of-banishment/"}
+{"dg-publish":true,"tags":null,"inventory":"holding","permalink":"/campaigns/a-dance-of-matter/items/scroll-of-banishment/","dgPassFrontmatter":true}
 ---
 
 > You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished.

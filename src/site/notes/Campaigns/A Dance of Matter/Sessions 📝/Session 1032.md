@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1032/"}
+{"dg-publish":true,"date":"2024-03-24","permalink":"/campaigns/a-dance-of-matter/sessions/session-1032/","dgPassFrontmatter":true}
 ---
 
 ## Meeting of Old Friends

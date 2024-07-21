@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/players/lo-tha-r-ran/"}
+{"dg-publish":true,"race":["dwarf"],"class":["fighter"],"alignment":"chaotic_neutral","level":10,"permalink":"/campaigns/a-dance-of-matter/players/lo-tha-r-ran/","dgPassFrontmatter":true}
 ---
 
 

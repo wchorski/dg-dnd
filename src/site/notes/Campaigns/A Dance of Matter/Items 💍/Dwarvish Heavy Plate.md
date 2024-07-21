@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/dwarvish-heavy-plate/","tags":["armor"]}
+{"dg-publish":true,"tags":["armor"],"inventory":"holding","player":"[[Campaigns/A Dance of Matter/Players 👤/Bromdan|Bromdan]]","permalink":"/campaigns/a-dance-of-matter/items/dwarvish-heavy-plate/","dgPassFrontmatter":true}
 ---
 
 ## Custom Buffs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/players/lucas/"}
+{"dg-publish":true,"race":["dragonborn"],"class":["paladin"],"alignment":"lawful_neutral","level":10,"permalink":"/campaigns/a-dance-of-matter/players/lucas/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,16 +8,16 @@
 [Dungeon Master's Vault (dungeonmastersvault.com)](https://www.dungeonmastersvault.com/pages/dnd/5e/character-builder)
 
 ## Mount & Pet
-- 
+- [[Campaigns/A Dance of Matter/Beasts 🐻/KenDrake\|KenDrake]]
 ## Character Sheet
-![[attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_11.pdf|Lucas_Laurde--Dragonborn_Paladin--Lv_11]]
+![[attachments/Lucas_Laurde--Dragonborn_Paladin--Lv_12.pdf]]
 ## Items
 | File                                                                                                   | inventory | tags                                  |
 | ------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------- |
 | [[Campaigns/A Dance of Matter/Items 💍/rod of the pack keeper\|rod of the pack keeper]]             | holding   | <ul><li>weapon</li><li>rare</li></ul> |
-| [[Campaigns/A Dance of Matter/Items 💍/Robe of Scintillating Colors\|Robe of Scintillating Colors]] | holding   | <ul><li>wearable</li></ul>            |
 | [[Campaigns/A Dance of Matter/Items 💍/ring of radiant resistance\|ring of radiant resistance]]     | holding   | <ul><li>wearable</li></ul>            |
 | [[Campaigns/A Dance of Matter/Items 💍/ring of necrotic resistance\|ring of necrotic resistance]]   | holding   | <ul><li>wearable</li></ul>            |
+| [[Campaigns/A Dance of Matter/Items 💍/Robe of Scintillating Colors\|Robe of Scintillating Colors]] | holding   | <ul><li>wearable</li></ul>            |
 
 { .block-language-dataview}
 
@@ -159,6 +159,11 @@ cleric spell list
 - Aura of Courage
 - Starting at 10th level, you and friendly creatures within - 10 feet of you can’t be frightened while you are conscious.
 ### Lv 11
+### Level 12
+- +1 Ability Score (= +4)
+- new Feat: [Grappler](https://www.dndbeyond.com/feats/10-grappler?msockid=17ec641db2c36d5807f27010b3456ccd) 
+	- You have advantage on attack rolls against a creature you are [grappling](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Grappling).
+	- You can use your action to try to pin a creature [grappled](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Grappled) by you. To do so, make another grapple check. If you succeed, you and the creature are both [restrained](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Restrained) until the grapple ends.
 #### Improved Divine Smite
 melee weapons deal extra `1d8` #radiant damage.
 ## Spells

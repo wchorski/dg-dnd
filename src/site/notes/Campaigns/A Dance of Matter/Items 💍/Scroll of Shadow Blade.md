@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/scroll-of-shadow-blade/"}
+{"dg-publish":true,"tags":null,"inventory":null,"Duration":["1min,","concentration"],"permalink":"/campaigns/a-dance-of-matter/items/scroll-of-shadow-blade/","dgPassFrontmatter":true}
 ---
 
 > You weave together threads of shadow to create a sword of solidified gloom in your hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 2d8 psychic damage on a hit and has the finesse, light, and thrown properties (range 20/60). In addition, when you use the sword to attack a target that is in dim light or darkness, you make the attack roll with advantage.

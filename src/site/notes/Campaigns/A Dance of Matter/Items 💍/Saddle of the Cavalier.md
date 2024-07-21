@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/saddle-of-the-cavalier/","tags":["wonderous","uncommon"]}
+{"dg-publish":true,"tags":["wonderous","uncommon"],"inventory":"holding","permalink":"/campaigns/a-dance-of-matter/items/saddle-of-the-cavalier/","dgPassFrontmatter":true}
 ---
 
 _Wondrous item, uncommon_

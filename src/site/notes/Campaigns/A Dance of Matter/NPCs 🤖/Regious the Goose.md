@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/regious-the-goose/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/regious-the-goose/","dgPassFrontmatter":true}
 ---
 
 | character | race   | class |

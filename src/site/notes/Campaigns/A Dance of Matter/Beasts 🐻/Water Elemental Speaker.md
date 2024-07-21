@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/water-elemental-speaker/","tags":["elemental"]}
+{"dg-publish":true,"tags":["elemental"],"permalink":"/campaigns/a-dance-of-matter/beasts/water-elemental-speaker/","dgPassFrontmatter":true}
 ---
 
 

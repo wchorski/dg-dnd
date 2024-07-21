@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/potion-of-speed/","tags":["potion","very_rare"]}
+{"dg-publish":true,"tags":["potion","very_rare"],"inventory":"holding","permalink":"/campaigns/a-dance-of-matter/items/potion-of-speed/","dgPassFrontmatter":true}
 ---
 
 _Potion, very rare_  

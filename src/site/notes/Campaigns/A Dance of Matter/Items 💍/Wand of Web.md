@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/wand-of-web/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/wand-of-web/","dgPassFrontmatter":true}
 ---
 
 > Wand, uncommon (requires attunement by a Spellcaster)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/flame-drake/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/flame-drake/","dgPassFrontmatter":true}
 ---
 
 

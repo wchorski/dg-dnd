@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/scimitar-of-speed/","tags":["weapon","magic"]}
+{"dg-publish":true,"inventory":"holding","tags":["weapon","magic"],"permalink":"/campaigns/a-dance-of-matter/items/scimitar-of-speed/","dgPassFrontmatter":true}
 ---
 
 

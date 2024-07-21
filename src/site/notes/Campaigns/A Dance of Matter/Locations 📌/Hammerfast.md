@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/hammerfast/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/hammerfast/","dgPassFrontmatter":true}
 ---
 
 #castle

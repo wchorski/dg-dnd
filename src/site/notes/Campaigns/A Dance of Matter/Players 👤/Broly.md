@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/players/broly/"}
+{"dg-publish":true,"race":"goliath","class":["barbarian"],"alignment":"chaotic_good","level":10,"permalink":"/campaigns/a-dance-of-matter/players/broly/","dgPassFrontmatter":true}
 ---
 
 

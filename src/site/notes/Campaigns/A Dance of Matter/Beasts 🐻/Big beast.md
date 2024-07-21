@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/big-beast/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/big-beast/","dgPassFrontmatter":true}
 ---
 
 

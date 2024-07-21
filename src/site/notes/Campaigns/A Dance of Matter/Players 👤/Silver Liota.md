@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/players/silver-liota/"}
+{"dg-publish":true,"race":["druid"],"class":["druid"],"alignment":"chaotic_good","level":10,"permalink":"/campaigns/a-dance-of-matter/players/silver-liota/","dgPassFrontmatter":true}
 ---
 
 

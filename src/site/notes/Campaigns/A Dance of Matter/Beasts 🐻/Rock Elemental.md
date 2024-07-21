@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/rock-elemental/","tags":["elemental"]}
+{"dg-publish":true,"tags":["elemental"],"permalink":"/campaigns/a-dance-of-matter/beasts/rock-elemental/","dgPassFrontmatter":true}
 ---
 

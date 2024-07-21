@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/elder-gargadilly/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/elder-gargadilly/","dgPassFrontmatter":true}
 ---
 
 - she is an older gnome in the settlement

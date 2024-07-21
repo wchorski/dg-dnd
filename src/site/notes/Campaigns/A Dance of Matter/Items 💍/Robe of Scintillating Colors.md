@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/robe-of-scintillating-colors/","tags":["wearable"]}
+{"dg-publish":true,"tags":["wearable"],"player":"[[Campaigns/A Dance of Matter/Players 👤/Lucas|Lucas]]","inventory":"holding","permalink":"/campaigns/a-dance-of-matter/items/robe-of-scintillating-colors/","dgPassFrontmatter":true}
 ---
 
 [Robe of Scintillating Colors - Magic Items - D&D Beyond (dndbeyond.com)](https://www.dndbeyond.com/magic-items/4740-robe-of-scintillating-colors)

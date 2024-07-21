@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/linda/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/linda/","dgPassFrontmatter":true}
 ---
 
 #halfling

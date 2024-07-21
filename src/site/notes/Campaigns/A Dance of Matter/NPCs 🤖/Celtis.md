@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/celtis/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/celtis/","dgPassFrontmatter":true}
 ---
 
 | character | race       | class       |

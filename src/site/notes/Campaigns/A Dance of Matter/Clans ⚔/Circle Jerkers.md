@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/clans/circle-jerkers/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/clans/circle-jerkers/","dgPassFrontmatter":true}
 ---
 
 ### description

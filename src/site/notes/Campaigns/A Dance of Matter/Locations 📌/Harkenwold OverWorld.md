@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/harkenwold-over-world/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/harkenwold-over-world/","dgPassFrontmatter":true}
 ---
 
 

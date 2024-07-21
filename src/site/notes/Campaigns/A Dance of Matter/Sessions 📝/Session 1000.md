@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1000/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1000/","dgPassFrontmatter":true}
 ---
 
 - [[Campaigns/A Dance of Matter/Players 👤/Lucas\|Lucas]] joins the fight. Hearty and ready to fight after a long holiday

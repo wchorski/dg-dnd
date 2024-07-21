@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/landmarks/goliath-fort/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/landmarks/goliath-fort/","dgPassFrontmatter":true}
 ---
 

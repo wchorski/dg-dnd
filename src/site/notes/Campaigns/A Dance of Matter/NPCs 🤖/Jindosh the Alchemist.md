@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/jindosh-the-alchemist/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/jindosh-the-alchemist/","dgPassFrontmatter":true}
 ---
 
 ![attachments/Jindosh_the_Alchemist.jpg|Jindosh_the_Alchemist | 200](/img/user/attachments/Jindosh_the_Alchemist.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/owl-bear/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/owl-bear/","dgPassFrontmatter":true}
 ---
 
 

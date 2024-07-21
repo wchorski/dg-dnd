@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/over-over-world/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/over-over-world/","dgPassFrontmatter":true}
 ---
 
 

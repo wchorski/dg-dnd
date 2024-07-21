@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/water-elemental/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/water-elemental/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/glamerweave/"}
+{"dg-publish":true,"tags":null,"inventory":"holding","permalink":"/campaigns/a-dance-of-matter/items/glamerweave/","dgPassFrontmatter":true}
 ---
 
 > _Glamerweave_ is clothing imbued with harmless illusory magic. While wearing the common version of these clothes, you can use a bonus action to create a moving illusory pattern within the cloth.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-1039/"}
+{"dg-publish":true,"created":"2024-07-14","permalink":"/campaigns/a-dance-of-matter/sessions/session-1039/","dgPassFrontmatter":true}
 ---
 
 ## The Fight Continues

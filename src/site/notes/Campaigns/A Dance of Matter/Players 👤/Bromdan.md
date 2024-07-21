@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/players/bromdan/"}
+{"dg-publish":true,"race":"dwarf","class":["cleric"],"alignment":"neutral_good","level":10,"permalink":"/campaigns/a-dance-of-matter/players/bromdan/","dgPassFrontmatter":true}
 ---
 
 

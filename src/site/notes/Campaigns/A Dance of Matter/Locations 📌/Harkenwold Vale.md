@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/harkenwold-vale/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/locations/harkenwold-vale/","dgPassFrontmatter":true}
 ---
 
 #region

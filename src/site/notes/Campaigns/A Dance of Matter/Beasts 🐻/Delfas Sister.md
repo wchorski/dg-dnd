@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/delfas-sister/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/delfas-sister/","dgPassFrontmatter":true}
 ---
 
 

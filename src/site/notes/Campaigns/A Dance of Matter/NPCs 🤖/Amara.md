@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/amara/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/amara/","dgPassFrontmatter":true}
 ---
 
 ![attachments/Amara-witch.jpeg|200](/img/user/attachments/Amara-witch.jpeg)

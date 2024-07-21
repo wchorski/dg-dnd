@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-999/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/sessions/session-999/","dgPassFrontmatter":true}
 ---
 
 ## Current Setting

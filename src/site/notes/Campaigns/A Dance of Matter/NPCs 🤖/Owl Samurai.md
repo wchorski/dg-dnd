@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/owl-samurai/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/owl-samurai/","dgPassFrontmatter":true}
 ---
 
 ![attachments/samurai_owl.jpg|300](/img/user/attachments/samurai_owl.jpg)

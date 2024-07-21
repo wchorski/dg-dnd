@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/beasts/nuckelavee/"}
+{"dg-publish":true,"tags":null,"permalink":"/campaigns/a-dance-of-matter/beasts/nuckelavee/","dgPassFrontmatter":true}
 ---
 
 

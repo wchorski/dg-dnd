@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/mace-of-warning/","tags":["weapon","uncommon"]}
+{"dg-publish":true,"tags":["weapon","uncommon"],"inventory":"holding","permalink":"/campaigns/a-dance-of-matter/items/mace-of-warning/","dgPassFrontmatter":true}
 ---
 
 ![attachments/mace of warning.jpeg|inlL|200](/img/user/attachments/mace%20of%20warning.jpeg)

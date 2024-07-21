@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/cloak-of-elvenkind/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/cloak-of-elvenkind/","dgPassFrontmatter":true}
 ---
 
 Wondrous Item, uncommon (requires attunement)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/bracers-of-archery/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/bracers-of-archery/","dgPassFrontmatter":true}
 ---
 
 > Requires [Attunement](https://roll20.net/compendium/dnd5e/Magic%20Items?expansion=0#toc_1)  

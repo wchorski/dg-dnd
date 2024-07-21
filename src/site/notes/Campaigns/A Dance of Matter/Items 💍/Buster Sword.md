@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/buster-sword/","tags":["weapon"]}
+{"dg-publish":true,"tags":["weapon"],"inventory":"holding","player":"[[Campaigns/A Dance of Matter/Players 👤/Broly|Broly]]","permalink":"/campaigns/a-dance-of-matter/items/buster-sword/","dgPassFrontmatter":true}
 ---
 
 ![attachments/buster-sword.png|300](/img/user/attachments/buster-sword.png)

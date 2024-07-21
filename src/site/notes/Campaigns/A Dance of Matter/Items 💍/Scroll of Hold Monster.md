@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/items/scroll-of-hold-monster/","tags":["scroll"]}
+{"dg-publish":true,"tags":["scroll"],"inventory":null,"permalink":"/campaigns/a-dance-of-matter/items/scroll-of-hold-monster/","dgPassFrontmatter":true}
 ---
 
 Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be [paralyzed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Paralyzed) for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.

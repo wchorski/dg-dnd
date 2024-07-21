@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/clans/twisted-rune/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/clans/twisted-rune/","dgPassFrontmatter":true}
 ---
 
 - old cabal of wizards

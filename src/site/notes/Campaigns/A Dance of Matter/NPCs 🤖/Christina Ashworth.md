@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/christina-ashworth/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/christina-ashworth/","dgPassFrontmatter":true}
 ---
 
 ![attachments/Jindosh_Assistant.jpg|Jindosh_Assistant | 200](/img/user/attachments/Jindosh_Assistant.jpg)

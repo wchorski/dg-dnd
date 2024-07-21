@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/ilyana/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/np-cs/ilyana/","dgPassFrontmatter":true}
 ---
 
 | character | race | class  |

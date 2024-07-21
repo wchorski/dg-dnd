@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/baldur-s-zate/baldur-s-zate/"}
+{"dg-publish":true,"permalink":"/campaigns/baldur-s-zate/baldur-s-zate/","dgPassFrontmatter":true}
 ---
 
 1. Welcome to Baldur's Gate: a wretched hive of scum and villainy. The city is "protected" by [[Campaigns/Baldur's Zate/Locations/The Flaming Fist\|Campaigns/Baldur's Zate/Locations/The Flaming Fist]], a military police force that walks both sides of the law depending on who you ask. The Fist is led by [[Campaigns/Baldur's Zate/NPCs/Grand Duke Ulder Ravengard\|Campaigns/Baldur's Zate/NPCs/Grand Duke Ulder Ravengard]]. Ravengard is an honorable man, but the Flaming Fist have been known to be cruel. Despite some bad apples, there are members who genuinely wish to help and protect the citizens of Baldur's Gate. As the newest recruits, your party is put out on the front lines to learn the beats of the streets.

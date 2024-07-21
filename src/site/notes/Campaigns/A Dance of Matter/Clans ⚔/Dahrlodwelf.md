@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/clans/dahrlodwelf/"}
+{"dg-publish":true,"permalink":"/campaigns/a-dance-of-matter/clans/dahrlodwelf/","dgPassFrontmatter":true}
 ---
 
 - Gnomes found in [[Campaigns/A Dance of Matter/Landmarks ⛰/Thunderspire\|Thunderspire]] undersea
