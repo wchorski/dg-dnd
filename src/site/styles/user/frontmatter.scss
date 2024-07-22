@@ -3,6 +3,10 @@
 	padding: 1rem;
 	margin-inline: -1rem;
 
+	> span {
+		display: block;
+	}
+
 	&:empty {
 		visibility: hidden;
 	}
