@@ -2841,7 +2841,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-07-22T00:40:02.065Z';
+        const searchIndexDate = '2024-07-22T00:53:37.766Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2853,9 +2853,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-07-22T00:40:02.065Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-07-22T00:53:37.766Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-07-22T00:40:02.065Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-07-22T00:53:37.766Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -3102,10 +3102,10 @@
         <div class="header-frontmatter">
   
   
-  <span>race: dwarf </span> <br> 
-  <span>class: cleric </span> <br> 
-  <span>alignment: neutral_good </span>
-  <span>level: 10 </span> <br> 
+  <span><strong>race:</strong> dwarf </span> <br> 
+  <span><strong>class:</strong> cleric </span> <br> 
+  <span><strong>alignment:</strong> neutral_good </span> <br>
+  <span><strong>level:</strong> 10 </span> <br> 
 </div>
       
       </header>
