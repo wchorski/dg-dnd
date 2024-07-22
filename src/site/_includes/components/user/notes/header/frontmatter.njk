@@ -1,7 +1,8 @@
-<strong> metadata </strong> <br/>
-{% if inventory %}inventory: {{ inventory }}{% endif %}
-{% if player %}player: {{ player }}{% endif %}
-{% if race %}race: {{ race }}{% endif %}
-{% if class %}class: {{ class }}{% endif %}
-{% if alignment %}alignment: {{ alignment }}{% endif %}
-{% if level %}level: {{ level }}{% endif %}
+<div class="header-frontmatter">
+  {% if inventory %}<span>inventory: {{ inventory }} </span> <br/> {% endif %}
+  {% if player %}<span>player: {{ player }} </span> <br/> {% endif %}
+  {% if race %}<span>race: {{ race }} </span> <br/> {% endif %}
+  {% if class %}<span>class: {{ class }} </span> <br/> {% endif %}
+  {% if alignment %}<span>alignment: {{ alignment }} </span>{% endif %}
+  {% if level %}<span>level: {{ level }} </span> <br/> {% endif %}
+</div>
