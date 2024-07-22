@@ -2841,7 +2841,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-07-22T01:03:56.240Z';
+        const searchIndexDate = '2024-07-22T04:14:32.864Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2853,9 +2853,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-07-22T01:03:56.240Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-07-22T04:14:32.864Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-07-22T01:03:56.240Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-07-22T04:14:32.864Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -3099,13 +3099,11 @@
           <div class="timestamps"></div></div>
       
       
-        <div class="header-frontmatter">
+        <div class="header-frontmatter"><span><strong>race:</strong> dragonborn </span>
+  <span><strong>class:</strong> paladin </span>
+  <span><strong>alignment:</strong> lawful_neutral </span>
+  <span><strong>level:</strong> 10 </span>
   
-  
-  <span><strong>race:</strong> dragonborn </span> <br> 
-  <span><strong>class:</strong> paladin </span> <br> 
-  <span><strong>alignment:</strong> lawful_neutral </span> <br>
-  <span><strong>level:</strong> 10 </span> <br> 
 </div>
       
       </header>
