@@ -6,11 +6,11 @@
 		display: block;
 	}
 
-	&:first-child {
+	> span:first-child {
 		padding-top: 1rem;
 		border-radius: 10px 10px 0 0;
 	}
-	&:last-child {
+	> span:last-child {
 		padding-bottom: 1rem;
 		border-radius: 0 0 10px 10px;
 	}
