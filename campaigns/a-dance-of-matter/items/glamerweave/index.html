@@ -2841,7 +2841,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-07-22T04:14:32.864Z';
+        const searchIndexDate = '2024-07-22T04:21:54.685Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2853,9 +2853,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-07-22T04:14:32.864Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-07-22T04:21:54.685Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-07-22T04:14:32.864Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-07-22T04:21:54.685Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -3100,8 +3100,7 @@
       
       
         <div class="header-frontmatter"><span><strong>inventory:</strong> holding </span>
-  
-</div>
+  </div>
       
       </header>
       

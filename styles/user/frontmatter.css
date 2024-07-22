@@ -1,1 +1,1 @@
-.header-frontmatter{background-color:#15191c;padding:1rem;margin-inline:-1rem}.header-frontmatter>span{display:block}.header-frontmatter:empty{visibility:hidden}/*# sourceMappingURL=frontmatter.css.map */
+.header-frontmatter>span{background-color:#15191c;padding-inline:1rem;margin-inline:-1rem;display:block}.header-frontmatter:first-child{padding-top:1rem;border-radius:10px 10px 0 0}.header-frontmatter:last-child{padding-bottom:1rem;border-radius:0 0 10px 10px}.header-frontmatter:empty{display:none}/*# sourceMappingURL=frontmatter.css.map */
