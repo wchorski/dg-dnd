@@ -1,13 +1,22 @@
 .header-frontmatter {
-	background-color: #15191c;
-	padding: 1rem;
-	margin-inline: -1rem;
-
 	> span {
+		background-color: #15191c;
+		padding-inline: 1rem;
+		margin-inline: -1rem;
 		display: block;
 	}
 
+	&:first-child {
+		padding-top: 1rem;
+		border-radius: 10px 10px 0 0;
+	}
+	&:last-child {
+		padding-bottom: 1rem;
+		border-radius: 0 0 10px 10px;
+	}
+
+	// doesn't work because njk puts in whitespace
 	&:empty {
-		visibility: hidden;
+		display: none;
 	}
 }
