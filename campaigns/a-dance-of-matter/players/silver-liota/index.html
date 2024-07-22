@@ -2841,7 +2841,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-07-22T00:31:59.853Z';
+        const searchIndexDate = '2024-07-22T00:33:52.282Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -2853,9 +2853,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-07-22T00:31:59.853Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-07-22T00:33:52.282Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-07-22T00:31:59.853Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-07-22T00:33:52.282Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -3099,7 +3099,8 @@
           <div class="timestamps"></div></div>
       
       
-        
+        <strong> metadata </strong> <br>
+
 
 race: druid
 class: druid
